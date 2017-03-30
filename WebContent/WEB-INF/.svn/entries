@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2755"
+   last-author="zhengss"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/WEB-INF"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2753"
+   kind="dir"
+   committed-date="2017-02-16T09:35:23.304129Z"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   name="web.xml"
+   revision="2768"
+   checksum="c900b389f8a9885a6b050a5a78774a78"
+   last-author="huangshouxi"
+   text-time="2017-02-17T09:27:04.137000Z"
+   committed-rev="2768"
+   kind="file"
+   committed-date="2017-02-17T09:31:15.433000Z"/>
+</wc-entries>

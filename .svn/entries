@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2511"
+   last-author="huangshouxi"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian"
+   committed-rev="2511"
+   kind="dir"
+   committed-date="2017-01-11T01:39:38.027734Z"/>
+<entry
+   name=".classpath"
+   checksum="2138611f5b0e6e8d538c315cb02d094d"
+   last-author="zhengss"
+   text-time="2017-01-04T09:12:03.572000Z"
+   committed-rev="2417"
+   kind="file"
+   committed-date="2017-01-04T09:12:03.572857Z"/>
+<entry
+   name=".project"
+   checksum="c16f7c676bd6c044e34bc6a26b4c6e90"
+   last-author="mayu"
+   text-time="2016-09-22T09:35:46.102000Z"
+   committed-rev="139"
+   kind="file"
+   committed-date="2016-09-22T09:35:46.102139Z"/>
+<entry
+   name=".settings"
+   kind="dir"/>
+<entry
+   name="WebContent"
+   kind="dir"/>
+<entry
+   name="build"
+   kind="dir"/>
+<entry
+   name="src"
+   kind="dir"/>
+</wc-entries>

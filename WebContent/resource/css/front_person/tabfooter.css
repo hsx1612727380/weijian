@@ -1,0 +1,10 @@
+.detailright .tabfooter {
+	margin: 0 auto;
+	margin-top: 10px;
+	text-align: center;
+}
+.detailright .tabfooter button{
+	background-color: transparent;
+	border: 0 none;
+	cursor: pointer;
+}

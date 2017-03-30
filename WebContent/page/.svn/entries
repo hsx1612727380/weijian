@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2865"
+   last-author="mayu"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page"
+   committed-rev="2863"
+   kind="dir"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="404.jsp"
+   checksum="76f2315632076406afe082db29a70d55"
+   last-author="mayu"
+   text-time="2017-01-15T07:23:02.943000Z"
+   committed-rev="2568"
+   kind="file"
+   committed-date="2017-01-15T07:23:02.943854Z"/>
+<entry
+   name="accrecord"
+   kind="dir"/>
+<entry
+   name="admin"
+   kind="dir"/>
+<entry
+   name="attendanceInfo"
+   kind="dir"/>
+<entry
+   name="background_login.jsp"
+   checksum="748bf69f64b4a6a9ffe54fb0854cd253"
+   last-author="wangqi"
+   text-time="2017-02-21T09:35:46.701000Z"
+   committed-rev="2794"
+   kind="file"
+   committed-date="2017-02-21T09:35:46.701119Z"/>
+<entry
+   name="bidInfo"
+   kind="dir"/>
+<entry
+   name="cmdsumm"
+   kind="dir"/>
+<entry
+   name="company"
+   kind="dir"/>
+<entry
+   name="down.jsp"
+   checksum="fc52f5515edd40de0ea565a75360ace7"
+   last-author="ruankai"
+   text-time="2016-10-31T02:55:37.450000Z"
+   committed-rev="891"
+   kind="file"
+   committed-date="2016-10-31T02:55:37.450294Z"/>
+<entry
+   name="enterprise"
+   kind="dir"/>
+<entry
+   name="front_company"
+   kind="dir"/>
+<entry
+   name="front_equipment"
+   kind="dir"/>
+<entry
+   name="front_material"
+   kind="dir"/>
+<entry
+   name="front_person"
+   kind="dir"/>
+<entry
+   name="front_project"
+   kind="dir"/>
+<entry
+   name="index.jsp"
+   revision="2882"
+   checksum="f45f4949ffaf4af7fd779115007e334c"
+   last-author="huangshouxi"
+   committed-rev="2882"
+   text-time="2017-02-27T08:14:48.363000Z"
+   kind="file"
+   committed-date="2017-02-28T03:00:44.134000Z"/>
+<entry
+   name="lawInsu"
+   kind="dir"/>
+<entry
+   name="login.jsp"
+   checksum="1dae86d23993924c325997f712bd1449"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="merchant"
+   kind="dir"/>
+<entry
+   name="message_system"
+   kind="dir"/>
+<entry
+   name="operate"
+   kind="dir"/>
+<entry
+   name="payrollrecord"
+   kind="dir"/>
+<entry
+   name="project"
+   kind="dir"/>
+<entry
+   name="protocol.jsp"
+   checksum="0518e47b2d6ccc962b986dd7efb203b3"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="reg.jsp"
+   revision="2868"
+   checksum="4676dd4a98f6a019fcaeb788028f50d9"
+   last-author="huangshouxi"
+   text-time="2017-02-25T06:36:43.105000Z"
+   committed-rev="2868"
+   kind="file"
+   committed-date="2017-02-25T06:41:55.575000Z"/>
+<entry
+   name="requirements"
+   kind="dir"/>
+<entry
+   name="search.jsp"
+   checksum="3e9776e3b120fbd4b4af558383f149d5"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="team"
+   kind="dir"/>
+<entry
+   name="top.jsp"
+   revision="2882"
+   checksum="813bfc88f863ae2e9bfa9fce3dc95112"
+   last-author="huangshouxi"
+   text-time="2017-02-27T06:18:27.785000Z"
+   committed-rev="2882"
+   kind="file"
+   committed-date="2017-02-28T03:00:44.134000Z"/>
+<entry
+   name="user"
+   kind="dir"/>
+<entry
+   name="web"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,85 @@
+### direct log messages to stdout ###
+log4j.appender.stdout=org.apache.log4j.ConsoleAppender
+log4j.appender.stdout.Target=System.out
+log4j.appender.stdout.layout=org.apache.log4j.PatternLayout
+log4j.appender.stdout.layout.ConversionPattern=%d{yyyy-MM-dd HH:mm:ss SSS} %5p %c{1}:%L - %m%n
+
+log4j.appender.stdout2=org.apache.log4j.ConsoleAppender
+log4j.appender.stdout2.Target=System.out
+log4j.appender.stdout2.layout=org.apache.log4j.PatternLayout
+log4j.appender.stdout2.layout.ConversionPattern=%m%n
+
+log4j.appender.file=org.apache.log4j.DailyRollingFileAppender
+log4j.appender.file.File=${webappRoot}/logs/sysout/sysout.log
+log4j.appender.file.File.DatePattern='.'yyyy-MM-dd
+log4j.appender.file.layout=org.apache.log4j.PatternLayout
+log4j.appender.file.layout.ConversionPattern=%d{yyyy-MM-dd HH:mm:ss SSS} %5p %c{1}:%L - %m%n
+
+log4j.appender.syserr=org.apache.log4j.DailyRollingFileAppender
+log4j.appender.syserr.File=${webappRoot}/logs/syserr/syserr.log
+log4j.appender.syserr.File.DatePattern='.'yyyy-MM-dd
+log4j.appender.syserr.layout=org.apache.log4j.PatternLayout
+log4j.appender.syserr.layout.ConversionPattern=%m%n
+
+### 登陆日志  ### 
+log4j.appender.loginLog=org.apache.log4j.DailyRollingFileAppender
+log4j.appender.loginLog.File=${webappRoot}/logs/login/login.log
+log4j.appender.loginLog.File.DatePattern='.'yyyy-MM-dd
+log4j.appender.loginLog.layout=org.apache.log4j.PatternLayout
+log4j.appender.loginLog.layout.ConversionPattern=%d{yyyy-MM-dd HH:mm:ss}|%m%n
+
+
+### set log levels - for more verbose logging change 'info' to 'debug' ###
+
+log4j.rootLogger=info,file,stdout
+
+log4j.logger.system.out=info,file,stdout2
+log4j.additivity.system.out=false
+
+log4j.logger.system.err=info, syserr,stdout2
+log4j.additivity.system.err=false
+
+#
+log4j.logger.player.login=info, loginLog
+log4j.additivity.player.login=false
+
+
+#命令处理的调试
+log4j.logger.commandHandler=debug
+
+#定时任务
+log4j.logger.timerTask=info 
+
+#主程序任务
+log4j.logger.serverMain=info 
+
+log4j.logger.db.access.sql=debug
+
+### log HQL query parser activity
+#log4j.logger.org.hibernate.hql.ast.AST=debug
+
+### log just the SQL
+#log4j.logger.org.hibernate.SQL=debug
+
+### log JDBC bind parameters ###
+#log4j.logger.org.hibernate.type=info
+#log4j.logger.org.hibernate.type=debug
+
+### log schema export/update ###
+#log4j.logger.org.hibernate.tool.hbm2ddl=info
+
+### log HQL parse trees
+#log4j.logger.org.hibernate.hql=debug
+
+### log cache activity ###
+#log4j.logger.org.hibernate.cache=debug
+
+### log transaction activity
+#log4j.logger.org.hibernate.transaction=debug
+
+### log JDBC resource acquisition
+#log4j.logger.org.hibernate.jdbc=debug
+
+### enable the following line if you want to track down connection ###
+### leakages when using DriverManagerConnectionProvider ###
+#log4j.logger.org.hibernate.connection.DriverManagerConnectionProvider=trace

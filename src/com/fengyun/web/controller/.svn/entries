@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2890"
+   last-author="wangqi"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/src/com/fengyun/web/controller"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2889"
+   kind="dir"
+   committed-date="2017-02-28T09:11:31.973698Z"/>
+<entry
+   name="AccrecordController.java"
+   checksum="2108e34e0ebb122849be943ae7ad44c1"
+   last-author="wangqi"
+   text-time="2017-01-17T02:35:01.097000Z"
+   committed-rev="2622"
+   kind="file"
+   committed-date="2017-01-17T02:35:01.097351Z"/>
+<entry
+   name="AdminController.java"
+   checksum="60af0262e449d89f6f9c673705e402d1"
+   last-author="wangqi"
+   committed-rev="2727"
+   text-time="2017-02-14T08:25:47.522000Z"
+   kind="file"
+   committed-date="2017-02-14T08:25:47.522301Z"/>
+<entry
+   name="AttendanceInfoController.java"
+   checksum="97baa519c8488fc4f57387ece2b42923"
+   last-author="wangqi"
+   text-time="2017-01-17T02:35:01.097000Z"
+   committed-rev="2622"
+   kind="file"
+   committed-date="2017-01-17T02:35:01.097351Z"/>
+<entry
+   name="BidInfoController.java"
+   checksum="38830675049535bea1ed15836d1f0caa"
+   last-author="wangqi"
+   text-time="2017-01-17T02:35:01.097000Z"
+   committed-rev="2622"
+   kind="file"
+   committed-date="2017-01-17T02:35:01.097351Z"/>
+<entry
+   name="CmdSummController.java"
+   checksum="0d1ec788decb9c2f705551b02d1a67da"
+   last-author="wangqi"
+   committed-rev="2441"
+   text-time="2017-01-05T08:16:56.187000Z"
+   kind="file"
+   committed-date="2017-01-05T08:16:56.187208Z"/>
+<entry
+   name="CompanyController.java"
+   checksum="ec3e6ef443b75f8be67fcf4a23ee50df"
+   last-author="huangshouxi"
+   text-time="2017-02-27T06:08:35.652000Z"
+   committed-rev="2882"
+   kind="file"
+   committed-date="2017-02-28T03:00:44.134000Z"/>
+<entry
+   name="EquipmentController.java"
+   checksum="e80bc86c67eb42ee89f369d73da23839"
+   last-author="huangshouxi"
+   text-time="2017-02-17T06:03:01.565000Z"
+   committed-rev="2768"
+   kind="file"
+   committed-date="2017-02-17T09:31:15.433000Z"/>
+<entry
+   name="FrontCompanyController.java"
+   checksum="7743fbe6ed565e5b35a963f29d278048"
+   last-author="huangshouxi"
+   text-time="2017-02-28T06:29:26.756000Z"
+   committed-rev="2886"
+   kind="file"
+   committed-date="2017-02-28T06:38:56.820000Z"/>
+<entry
+   name="FrontEquipmentController.java"
+   checksum="c13f587b75f22da2cd991e5406321e56"
+   last-author="zhengss"
+   text-time="2017-02-24T11:10:45.874000Z"
+   committed-rev="2860"
+   kind="file"
+   committed-date="2017-02-24T11:10:45.874047Z"/>
+<entry
+   name="FrontMaterialController.java"
+   checksum="522c333aa33d649f94d3f115ee159432"
+   last-author="zhengss"
+   committed-rev="2860"
+   text-time="2017-02-24T11:10:45.874000Z"
+   kind="file"
+   committed-date="2017-02-24T11:10:45.874047Z"/>
+<entry
+   name="FrontPersonController.java"
+   checksum="4d3e9b51ee84b4160f2a2a08687ee0bb"
+   last-author="huangshouxi"
+   text-time="2017-02-28T06:27:49.996000Z"
+   committed-rev="2886"
+   kind="file"
+   committed-date="2017-02-28T06:38:56.820000Z"/>
+<entry
+   name="FrontProjectController.java"
+   revision="2891"
+   checksum="ceb942f59eb6c99067b3bdb5d7357c0c"
+   last-author="huangshouxi"
+   committed-rev="2891"
+   text-time="2017-02-28T08:25:55.629000Z"
+   kind="file"
+   committed-date="2017-02-28T10:23:51.037000Z"/>
+<entry
+   name="FrontTeamController.java"
+   checksum="b17d2c03db05f523476bce93d872e77d"
+   last-author="zhengss"
+   text-time="2017-02-27T09:08:05.042000Z"
+   committed-rev="2878"
+   kind="file"
+   committed-date="2017-02-27T09:08:05.042243Z"/>
+<entry
+   name="HomeController.java"
+   checksum="c110e4df9cd8ab662abbc100aeb6209a"
+   last-author="mayu"
+   committed-rev="2821"
+   text-time="2017-02-22T08:34:45.026000Z"
+   kind="file"
+   committed-date="2017-02-22T08:34:45.026498Z"/>
+<entry
+   name="LawInsuController.java"
+   checksum="2133047a1875acd6f3a0f3ce9c6fc3cb"
+   last-author="wangqi"
+   committed-rev="2433"
+   text-time="2017-01-05T05:33:24.624000Z"
+   kind="file"
+   committed-date="2017-01-05T05:33:24.624001Z"/>
+<entry
+   name="MaterialController.java"
+   checksum="452be221db269088119439883483bee6"
+   last-author="huangshouxi"
+   text-time="2017-02-17T05:37:30.622000Z"
+   committed-rev="2768"
+   kind="file"
+   committed-date="2017-02-17T09:31:15.433000Z"/>
+<entry
+   name="MerchantController.java"
+   checksum="c94f3e3b4242acb7055d8f0aae74ebd7"
+   last-author="wangqi"
+   committed-rev="2452"
+   text-time="2017-01-06T05:38:04.335000Z"
+   kind="file"
+   committed-date="2017-01-06T05:38:04.335699Z"/>
+<entry
+   name="MessageController.java"
+   checksum="1700ccf874f9a7b9ead67111090fa4e0"
+   last-author="wangqi"
+   text-time="2017-02-28T09:11:31.973000Z"
+   committed-rev="2889"
+   kind="file"
+   committed-date="2017-02-28T09:11:31.973698Z"/>
+<entry
+   name="PayrollRecordController.java"
+   checksum="d7982526ec5454e0ec4653ae17167f4c"
+   last-author="zhengss"
+   committed-rev="2878"
+   text-time="2017-02-27T09:08:05.042000Z"
+   kind="file"
+   committed-date="2017-02-27T09:08:05.042243Z"/>
+<entry
+   name="PersonController.java"
+   checksum="bc7f78f64a58a96a229aac8388b9c1f9"
+   last-author="wangqi"
+   committed-rev="2064"
+   text-time="2016-12-16T07:31:51.812000Z"
+   kind="file"
+   committed-date="2016-12-16T07:31:51.812633Z"/>
+<entry
+   name="ProjectController.java"
+   checksum="4378e7117c7d2aa585255b976a8f209a"
+   last-author="wangqi"
+   committed-rev="2728"
+   text-time="2017-02-14T08:25:52.512000Z"
+   kind="file"
+   committed-date="2017-02-14T08:25:52.512605Z"/>
+<entry
+   name="RequirementsController.java"
+   checksum="e6196a91b7927ff47a6a70faff5953bc"
+   last-author="mayu"
+   committed-rev="1682"
+   text-time="2016-11-30T10:58:28.026000Z"
+   kind="file"
+   committed-date="2016-11-30T10:58:28.026787Z"/>
+<entry
+   name="TeamController.java"
+   checksum="7037a964ee6ea061dc19341c70480eda"
+   last-author="wangqi"
+   text-time="2017-01-17T02:35:01.097000Z"
+   committed-rev="2622"
+   kind="file"
+   committed-date="2017-01-17T02:35:01.097351Z"/>
+<entry
+   name="TeamCreditController.java"
+   checksum="9fede88a04ee3c7b75f0b15f52d207a3"
+   last-author="zhengss"
+   committed-rev="1685"
+   text-time="2016-11-30T12:15:47.142000Z"
+   kind="file"
+   committed-date="2016-11-30T12:15:47.142216Z"/>
+<entry
+   name="UserController.java"
+   checksum="f521466e7cf220195abbe39d67884c89"
+   last-author="huangshouxi"
+   text-time="2017-02-27T06:08:46.823000Z"
+   committed-rev="2882"
+   kind="file"
+   committed-date="2017-02-28T03:00:44.134000Z"/>
+<entry
+   name="WebController.java"
+   checksum="67dec3df1a0c9da4a9ac0fe092374b20"
+   last-author="mayu"
+   text-time="2017-01-15T08:50:33.482000Z"
+   committed-rev="2569"
+   kind="file"
+   committed-date="2017-01-15T08:50:33.482291Z"/>
+</wc-entries>

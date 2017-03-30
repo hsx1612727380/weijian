@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2827"
+   last-author="mayu"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/src/com/fengyun/web/page"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="1709"
+   kind="dir"
+   committed-date="2016-12-01T10:14:58.790017Z"/>
+<entry
+   name="Log4jInitServlet.java"
+   checksum="b423ed1cf90fa2bf9cc44b6a8314cadd"
+   last-author="mayu"
+   committed-rev="139"
+   text-time="2016-09-22T09:35:46.102000Z"
+   kind="file"
+   committed-date="2016-09-22T09:35:46.102139Z"/>
+<entry
+   name="ServletInit.java"
+   checksum="08224dfcd46dd9775b05cb825c0540f9"
+   last-author="mayu"
+   committed-rev="1709"
+   text-time="2016-12-01T10:14:58.790000Z"
+   kind="file"
+   committed-date="2016-12-01T10:14:58.790017Z"/>
+</wc-entries>

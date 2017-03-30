@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2865"
+   last-author="wangqi"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/team"
+   committed-rev="2739"
+   kind="dir"
+   committed-date="2017-02-14T08:28:07.925139Z"/>
+<entry
+   name="teamMember_list.jsp"
+   checksum="0546826f4f2d07800b5a5f164b8e6495"
+   last-author="wangqi"
+   committed-rev="2676"
+   text-time="2017-02-06T08:05:50.294000Z"
+   kind="file"
+   committed-date="2017-02-06T08:05:50.294075Z"/>
+<entry
+   name="team_add.jsp"
+   checksum="fbe2690ddb31d3a7af52ac1707c937e4"
+   last-author="wangqi"
+   text-time="2016-12-16T08:04:59.468000Z"
+   committed-rev="2078"
+   kind="file"
+   committed-date="2016-12-16T08:04:59.468865Z"/>
+<entry
+   name="team_list.jsp"
+   checksum="b86d1420a275cc4ad65f493d55f1a050"
+   last-author="wangqi"
+   committed-rev="2739"
+   text-time="2017-02-14T08:28:07.925000Z"
+   kind="file"
+   committed-date="2017-02-14T08:28:07.925139Z"/>
+</wc-entries>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2827"
+   last-author="zhengss"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/src/com/fengyun/web/common"
+   committed-rev="2826"
+   kind="dir"
+   committed-date="2017-02-22T11:24:03.618255Z"/>
+<entry
+   name="ApplicationConfig.java"
+   checksum="f2aee3951337fabef9ea0123c64d655f"
+   last-author="mayu"
+   text-time="2016-09-22T09:35:46.102000Z"
+   committed-rev="139"
+   kind="file"
+   committed-date="2016-09-22T09:35:46.102139Z"/>
+<entry
+   name="Config.java"
+   checksum="1d4f015422ad66185b3a22eb9fa61b3e"
+   last-author="zhengss"
+   text-time="2017-02-22T11:24:03.618000Z"
+   committed-rev="2826"
+   kind="file"
+   committed-date="2017-02-22T11:24:03.618255Z"/>
+</wc-entries>

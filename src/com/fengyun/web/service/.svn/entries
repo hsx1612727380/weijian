@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2865"
+   last-author="zhengss"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/src/com/fengyun/web/service"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2860"
+   kind="dir"
+   committed-date="2017-02-24T11:10:45.874047Z"/>
+<entry
+   name="AccrecordService.java"
+   checksum="c9db104a74f1d6c4f1a34ccc225cc8d5"
+   last-author="huangshouxi"
+   committed-rev="2713"
+   text-time="2017-02-13T09:18:30.472000Z"
+   kind="file"
+   committed-date="2017-02-13T09:49:46.953000Z"/>
+<entry
+   name="AdminService.java"
+   checksum="73d38b58120eb68ec95b4f278bca2bba"
+   last-author="wangqi"
+   text-time="2017-01-16T09:33:46.440000Z"
+   committed-rev="2605"
+   kind="file"
+   committed-date="2017-01-16T09:33:46.440318Z"/>
+<entry
+   name="AptitudeService.java"
+   checksum="dbe80cd97eb612668bc941850be7bf3e"
+   last-author="huangshouxi"
+   committed-rev="1261"
+   text-time="2016-11-14T15:02:34.360000Z"
+   kind="file"
+   committed-date="2016-11-14T15:02:34.360380Z"/>
+<entry
+   name="AttendanceInfoService.java"
+   checksum="0416521b52930bcfe320dd287634e14a"
+   last-author="huangshouxi"
+   committed-rev="2772"
+   text-time="2017-02-20T03:39:47.576000Z"
+   kind="file"
+   committed-date="2017-02-20T08:23:19.064000Z"/>
+<entry
+   name="BehaviorService.java"
+   checksum="e3dca295cd355f4363f40f1387e977fd"
+   last-author="wangqi"
+   committed-rev="1499"
+   text-time="2016-11-23T02:37:34.728000Z"
+   kind="file"
+   committed-date="2016-11-23T02:37:34.728834Z"/>
+<entry
+   name="BidInfoService.java"
+   checksum="64f56cf3ce5a3d09490dea3a94feee87"
+   last-author="wangqi"
+   committed-rev="997"
+   text-time="2016-11-02T06:56:20.024000Z"
+   kind="file"
+   committed-date="2016-11-02T06:56:20.024756Z"/>
+<entry
+   name="CmdSummPersonService.java"
+   checksum="9651891f3a5afe38580e56c24d3e81dc"
+   last-author="huangshouxi"
+   committed-rev="2532"
+   text-time="2017-01-13T06:09:00.713000Z"
+   kind="file"
+   committed-date="2017-01-13T08:26:27.773000Z"/>
+<entry
+   name="CmdSummService.java"
+   checksum="b1a39f13dcadc235bf7c491ea5882e51"
+   last-author="huangshouxi"
+   committed-rev="2523"
+   text-time="2017-01-12T02:56:34.076000Z"
+   kind="file"
+   committed-date="2017-01-12T03:50:17.370000Z"/>
+<entry
+   name="CmdSummSupplierService.java"
+   checksum="18798fb4abde68c4535306b5345dfe32"
+   last-author="huangshouxi"
+   committed-rev="2534"
+   text-time="2017-01-13T13:49:04.476000Z"
+   kind="file"
+   committed-date="2017-01-13T16:18:13.904000Z"/>
+<entry
+   name="CommentsService.java"
+   checksum="a96f3a94ba46f73de34754fd9777943e"
+   last-author="zhengss"
+   committed-rev="2707"
+   text-time="2017-02-09T08:03:11.596000Z"
+   kind="file"
+   committed-date="2017-02-09T08:03:11.596482Z"/>
+<entry
+   name="CompanyCompactService.java"
+   checksum="87d7de3cfc90404281386a8e2de5cf89"
+   last-author="huangshouxi"
+   committed-rev="2678"
+   text-time="2017-02-06T08:02:07.054000Z"
+   kind="file"
+   committed-date="2017-02-06T09:49:25.851000Z"/>
+<entry
+   name="CompanyService.java"
+   checksum="16397da39a65d13ba2d155162c8ddc9a"
+   last-author="huangshouxi"
+   committed-rev="2647"
+   text-time="2017-01-19T07:25:35.572000Z"
+   kind="file"
+   committed-date="2017-01-19T15:08:06.591000Z"/>
+<entry
+   name="EngineerService.java"
+   checksum="e86231fb32adf84803385fdc657c0de3"
+   last-author="mayu"
+   text-time="2017-01-15T08:50:33.482000Z"
+   committed-rev="2569"
+   kind="file"
+   committed-date="2017-01-15T08:50:33.482291Z"/>
+<entry
+   name="EquipmentService.java"
+   checksum="b2c90a5562e1c3b087c2230120a6d6d5"
+   last-author="huangshouxi"
+   committed-rev="2518"
+   text-time="2017-01-11T07:12:12.128000Z"
+   kind="file"
+   committed-date="2017-01-11T15:37:47.243000Z"/>
+<entry
+   name="EquipmentTradService.java"
+   checksum="45b779bf4c3935d866b5c551e1b99dd2"
+   last-author="zhengss"
+   committed-rev="1712"
+   text-time="2016-12-01T10:33:45.498000Z"
+   kind="file"
+   committed-date="2016-12-01T10:33:45.498512Z"/>
+<entry
+   name="JoinBuildService.java"
+   checksum="cd780a6d588e79c46cdc6fc701173fea"
+   last-author="huangshouxi"
+   committed-rev="1643"
+   text-time="2016-11-28T14:55:23.372000Z"
+   kind="file"
+   committed-date="2016-11-28T14:55:23.372467Z"/>
+<entry
+   name="KeyPersonService.java"
+   checksum="c392f77bc21d62b9db04f34de89f7e7b"
+   last-author="huangshouxi"
+   committed-rev="1643"
+   text-time="2016-11-28T14:55:23.372000Z"
+   kind="file"
+   committed-date="2016-11-28T14:55:23.372467Z"/>
+<entry
+   name="LawInsuService.java"
+   checksum="bb8fffe54c41c7d620b299a0058ac5a8"
+   last-author="mayu"
+   committed-rev="1130"
+   text-time="2016-11-09T02:56:34.861000Z"
+   kind="file"
+   committed-date="2016-11-09T02:56:34.861026Z"/>
+<entry
+   name="LogManager.java"
+   checksum="18a471353435ea5669e86dc02feaa1b4"
+   last-author="mayu"
+   committed-rev="139"
+   text-time="2016-09-22T09:35:46.102000Z"
+   kind="file"
+   committed-date="2016-09-22T09:35:46.102139Z"/>
+<entry
+   name="MaterialService.java"
+   checksum="86e3da50ff4357f8413e2de8e64a81e8"
+   last-author="huangshouxi"
+   committed-rev="2518"
+   text-time="2017-01-11T07:07:38.040000Z"
+   kind="file"
+   committed-date="2017-01-11T15:37:47.243000Z"/>
+<entry
+   name="MaterialTradService.java"
+   checksum="8043f4c2e8ed71555351663e99366a07"
+   last-author="zhengss"
+   committed-rev="1536"
+   text-time="2016-11-24T02:14:25.901000Z"
+   kind="file"
+   committed-date="2016-11-24T02:14:25.901024Z"/>
+<entry
+   name="MerchantService.java"
+   checksum="631777c72642463f547975be0adcad33"
+   last-author="wangqi"
+   committed-rev="2160"
+   text-time="2016-12-21T07:48:24.064000Z"
+   kind="file"
+   committed-date="2016-12-21T07:48:24.064161Z"/>
+<entry
+   name="MessageService.java"
+   revision="2891"
+   checksum="10047340e7a0b0f4c692b6e8c4909a60"
+   last-author="huangshouxi"
+   committed-rev="2891"
+   text-time="2017-02-28T08:27:08.259000Z"
+   kind="file"
+   committed-date="2017-02-28T10:23:51.037000Z"/>
+<entry
+   name="NoticeLogService.java"
+   checksum="c1485a8554bfdebb89da74aa20cd6e24"
+   last-author="huangshouxi"
+   text-time="2017-02-16T07:33:41.177000Z"
+   committed-rev="2752"
+   kind="file"
+   committed-date="2017-02-16T09:35:21.280000Z"/>
+<entry
+   name="NoticeService.java"
+   revision="2882"
+   checksum="8a02fa31daca7f7aac42b8dc62029725"
+   last-author="huangshouxi"
+   committed-rev="2882"
+   text-time="2017-02-27T06:06:14.069000Z"
+   kind="file"
+   committed-date="2017-02-28T03:00:44.134000Z"/>
+<entry
+   name="OperateCompactService.java"
+   checksum="1fd5b4861c585f027a5e0b854ce1a599"
+   last-author="zhengss"
+   committed-rev="2720"
+   text-time="2017-02-14T06:01:43.637000Z"
+   kind="file"
+   committed-date="2017-02-14T06:01:43.637469Z"/>
+<entry
+   name="PayrollRecordService.java"
+   checksum="f758b21309420249ad22f6e0ab28c9e9"
+   last-author="huangshouxi"
+   committed-rev="2771"
+   text-time="2017-02-17T11:49:32.087000Z"
+   kind="file"
+   committed-date="2017-02-20T03:30:19.900000Z"/>
+<entry
+   name="PersonService.java"
+   checksum="613cd0de815361212bb6952669168fc8"
+   last-author="wangqi"
+   committed-rev="2065"
+   text-time="2016-12-16T07:32:02.806000Z"
+   kind="file"
+   committed-date="2016-12-16T07:32:02.806774Z"/>
+<entry
+   name="ProjectDepartmentService.java"
+   revision="2868"
+   checksum="f69fc9d8fffb23480b2bb49a56823f4f"
+   last-author="huangshouxi"
+   committed-rev="2868"
+   text-time="2017-02-25T03:21:37.373000Z"
+   kind="file"
+   committed-date="2017-02-25T06:41:55.575000Z"/>
+<entry
+   name="ProjectProgressService.java"
+   checksum="aa315d3656c2ac6654870c495730fec4"
+   last-author="zhengss"
+   committed-rev="2264"
+   text-time="2016-12-27T03:27:11.330000Z"
+   kind="file"
+   committed-date="2016-12-27T03:27:11.330825Z"/>
+<entry
+   name="ProjectRosterService.java"
+   checksum="309c4ac29ede9d699561a965d8c63598"
+   last-author="huangshouxi"
+   committed-rev="2372"
+   text-time="2016-12-30T14:30:16.421000Z"
+   kind="file"
+   committed-date="2016-12-30T14:30:16.421220Z"/>
+<entry
+   name="ProjectService.java"
+   revision="2868"
+   checksum="22f44a5a05fb874915cafaf99ac3c4a0"
+   last-author="huangshouxi"
+   committed-rev="2868"
+   text-time="2017-02-25T02:22:37.324000Z"
+   kind="file"
+   committed-date="2017-02-25T06:41:55.575000Z"/>
+<entry
+   name="RequirementsService.java"
+   checksum="a729a402b6f340c93e163f82a6da5548"
+   last-author="zhengss"
+   text-time="2017-02-23T10:58:21.885000Z"
+   committed-rev="2850"
+   kind="file"
+   committed-date="2017-02-23T10:58:21.885288Z"/>
+<entry
+   name="RewardsAndPunishService.java"
+   checksum="b02b536d6ab4595a824d2ff59d241ac1"
+   last-author="zhengss"
+   text-time="2017-01-20T08:31:48.295000Z"
+   committed-rev="2658"
+   kind="file"
+   committed-date="2017-01-20T08:31:48.295427Z"/>
+<entry
+   name="TeamMemberService.java"
+   checksum="1e15e5f61a2653604cd33b7e5f482ab7"
+   last-author="zhengss"
+   text-time="2017-02-23T09:32:13.154000Z"
+   committed-rev="2846"
+   kind="file"
+   committed-date="2017-02-23T09:32:13.154729Z"/>
+<entry
+   name="TeamScheduleService.java"
+   checksum="7de5a74af788eb0fcc0d480d83607895"
+   last-author="zhengss"
+   committed-rev="2231"
+   text-time="2016-12-26T10:32:47.891000Z"
+   kind="file"
+   committed-date="2016-12-26T10:32:47.891650Z"/>
+<entry
+   name="TeamService.java"
+   checksum="cd8035b0a4c9ddb31e0023e9f8f17393"
+   last-author="huangshouxi"
+   committed-rev="2212"
+   text-time="2016-12-23T10:00:52.254000Z"
+   kind="file"
+   committed-date="2016-12-23T10:00:52.254951Z"/>
+<entry
+   name="UserService.java"
+   checksum="3b1487cc1062b20b3b4262c55469573d"
+   last-author="zhengss"
+   text-time="2017-02-22T08:20:50.663000Z"
+   committed-rev="2820"
+   kind="file"
+   committed-date="2017-02-22T08:20:50.663641Z"/>
+<entry
+   name="impl"
+   kind="dir"/>
+</wc-entries>

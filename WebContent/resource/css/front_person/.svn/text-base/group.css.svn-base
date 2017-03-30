@@ -1,0 +1,64 @@
+.mensearch {
+	width: 100%;
+}
+.mensearch td{
+	height: 40px;
+}
+.mensearch input,.mensearch select{
+	height: 20px;
+	width: 115px;
+	box-sizing: border-box;
+	border-radius: 5px;
+	border: 1px solid lightslategray;
+	line-height: 20px;
+}
+.mensearch .search{
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 82px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+}
+.teammen {
+	background-color: #999;
+	width: 100%;
+	margin-top: 30px;
+}
+.teammen th,.teammen td{
+	background-color: white;
+	text-align: center;
+	height: 30px;
+}
+.teammen .invite {
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 82px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	display: inline-block;
+}
+.selected{
+	background-color: rgba(54, 146, 223,0.7);
+}
+.selected a{
+	color: white;
+}
+.detailright .tabfooter {
+	margin-top: 10px;
+	text-align: center;
+}
+.detailright .tabfooter button{
+	background-color: transparent;
+	border: 0 none;
+	cursor: pointer;
+}

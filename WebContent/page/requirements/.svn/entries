@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2865"
+   last-author="mayu"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/requirements"
+   committed-rev="1268"
+   kind="dir"
+   committed-date="2016-11-15T03:14:03.892444Z"/>
+<entry
+   name="job_equip_add.jsp"
+   checksum="61fc4ceeac5235e17ab996d2c6dd1de3"
+   last-author="mayu"
+   text-time="2016-11-15T03:14:03.892000Z"
+   committed-rev="1268"
+   kind="file"
+   committed-date="2016-11-15T03:14:03.892444Z"/>
+<entry
+   name="job_equip_list.jsp"
+   checksum="5df585ad15250536d60ee38db190097b"
+   last-author="ruankai"
+   text-time="2016-11-14T06:29:31.197000Z"
+   committed-rev="1229"
+   kind="file"
+   committed-date="2016-11-14T06:29:31.197520Z"/>
+<entry
+   name="job_material_add.jsp"
+   checksum="b924135f9eab7127f0b99bc4a38840d7"
+   last-author="mayu"
+   text-time="2016-11-15T03:14:03.892000Z"
+   committed-rev="1268"
+   kind="file"
+   committed-date="2016-11-15T03:14:03.892444Z"/>
+<entry
+   name="job_material_list.jsp"
+   checksum="fe3937230ec756be4187535130ea23f0"
+   last-author="mayu"
+   text-time="2016-11-11T07:04:13.732000Z"
+   committed-rev="1211"
+   kind="file"
+   committed-date="2016-11-11T07:04:13.732588Z"/>
+<entry
+   name="job_person_add.jsp"
+   checksum="fe8b7482364d3a6ababf7c8640198b3b"
+   last-author="mayu"
+   text-time="2016-11-15T03:14:03.892000Z"
+   committed-rev="1268"
+   kind="file"
+   committed-date="2016-11-15T03:14:03.892444Z"/>
+<entry
+   name="job_person_list.jsp"
+   checksum="b332af022e27768e44e2cce7fa9aa333"
+   last-author="mayu"
+   text-time="2016-11-11T07:04:13.732000Z"
+   committed-rev="1211"
+   kind="file"
+   committed-date="2016-11-11T07:04:13.732588Z"/>
+<entry
+   name="job_team_add.jsp"
+   checksum="57f19c03724aa27ae809a4853bce1a44"
+   last-author="mayu"
+   text-time="2016-11-15T03:14:03.892000Z"
+   committed-rev="1268"
+   kind="file"
+   committed-date="2016-11-15T03:14:03.892444Z"/>
+<entry
+   name="job_team_list.jsp"
+   checksum="324adb30b4ed58970564028ee00eefd1"
+   last-author="mayu"
+   text-time="2016-11-11T07:04:13.732000Z"
+   committed-rev="1211"
+   kind="file"
+   committed-date="2016-11-11T07:04:13.732588Z"/>
+<entry
+   name="recruit_equip_add.jsp"
+   checksum="663abb3668b40e1d25d5464e4435e670"
+   last-author="mayu"
+   text-time="2016-11-15T03:14:03.892000Z"
+   committed-rev="1268"
+   kind="file"
+   committed-date="2016-11-15T03:14:03.892444Z"/>
+<entry
+   name="recruit_equip_list.jsp"
+   checksum="987a04cb1e464f12fa02394864f7c956"
+   last-author="mayu"
+   text-time="2016-11-11T07:04:13.732000Z"
+   committed-rev="1211"
+   kind="file"
+   committed-date="2016-11-11T07:04:13.732588Z"/>
+<entry
+   name="recruit_material_add.jsp"
+   checksum="64022848f42a9a84803abaf42015e0cc"
+   last-author="mayu"
+   text-time="2016-11-15T03:14:03.892000Z"
+   committed-rev="1268"
+   kind="file"
+   committed-date="2016-11-15T03:14:03.892444Z"/>
+<entry
+   name="recruit_material_list.jsp"
+   checksum="a9041ee861e7c22f8491b90c96a3dfeb"
+   last-author="mayu"
+   text-time="2016-11-11T07:04:13.732000Z"
+   committed-rev="1211"
+   kind="file"
+   committed-date="2016-11-11T07:04:13.732588Z"/>
+<entry
+   name="recruit_person_add.jsp"
+   checksum="200edefc298ac4852b60c1d564a702bc"
+   last-author="mayu"
+   text-time="2016-11-15T03:14:03.892000Z"
+   committed-rev="1268"
+   kind="file"
+   committed-date="2016-11-15T03:14:03.892444Z"/>
+<entry
+   name="recruit_person_list.jsp"
+   checksum="4a7523e3ec7530275aee8b59e36db214"
+   last-author="mayu"
+   text-time="2016-11-11T07:04:13.732000Z"
+   committed-rev="1211"
+   kind="file"
+   committed-date="2016-11-11T07:04:13.732588Z"/>
+<entry
+   name="recruit_team_add.jsp"
+   checksum="041788f8ecfcff90b478da397d3284e2"
+   last-author="mayu"
+   text-time="2016-11-15T03:14:03.892000Z"
+   committed-rev="1268"
+   kind="file"
+   committed-date="2016-11-15T03:14:03.892444Z"/>
+<entry
+   name="recruit_team_list.jsp"
+   checksum="583c482ae7727d4d6acbb9bd485709ec"
+   last-author="mayu"
+   text-time="2016-11-11T07:04:13.732000Z"
+   committed-rev="1211"
+   kind="file"
+   committed-date="2016-11-11T07:04:13.732588Z"/>
+</wc-entries>

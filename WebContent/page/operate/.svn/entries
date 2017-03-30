@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2881"
+   last-author="mayu"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/operate"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2880"
+   kind="dir"
+   committed-date="2017-02-28T02:32:28.632601Z"/>
+<entry
+   name="operate.jsp"
+   checksum="fb915b14eca1d92398c9cf498ac88114"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_accrecord.jsp"
+   checksum="76de65f02823723659b70ae2337dce50"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_addInviteTeam.jsp"
+   checksum="3db3d7c4a93952aaa094329c485a3444"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_addNeed.jsp"
+   checksum="d3e178fb169093ad6b164056b32b3074"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_addcompact.jsp"
+   checksum="982b239d362a290fce6a081c940e1caf"
+   last-author="mayu"
+   committed-rev="2880"
+   text-time="2017-02-28T02:32:28.632000Z"
+   kind="file"
+   committed-date="2017-02-28T02:32:28.632601Z"/>
+<entry
+   name="operate_addenterandexit.jsp"
+   checksum="a27f076a77113c08e9099cc8e6c86b1d"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_addprojectprogress.jsp"
+   checksum="0187f99ea6b3ac076bdec0243595c0fd"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_addrewardsandpunish.jsp"
+   checksum="ced6592d07117f3550a0605393acfb58"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_addteamschedule.jsp"
+   checksum="2dc91b0479245df826b633f2100369b8"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_attendence.jsp"
+   checksum="c0769b90b3e3f61afa799451e556159c"
+   last-author="zhengss"
+   text-time="2017-02-25T08:23:31.492000Z"
+   committed-rev="2870"
+   kind="file"
+   committed-date="2017-02-25T08:23:31.492778Z"/>
+<entry
+   name="operate_auditTeam.jsp"
+   checksum="a533eb7a36d0e4c56d1090558959d274"
+   last-author="huangshouxi"
+   committed-rev="2868"
+   text-time="2017-02-25T06:37:25.114000Z"
+   kind="file"
+   committed-date="2017-02-25T06:41:55.575000Z"/>
+<entry
+   name="operate_compact.jsp"
+   checksum="d7125fc0d321dcb0456fd5760a5cc802"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_editecompact.jsp"
+   checksum="8fbeabe1db8769b05790d2169a2e4272"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_enterandexit.jsp"
+   checksum="64531668f3de456f6f717d91e0879cc3"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_equipmentRecruit.jsp"
+   checksum="61d40b4b14c8fdd14b9ec01deaf06215"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_info.jsp"
+   checksum="1cb39a8435a966fd9e5901863b540edd"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_inviteTeam.jsp"
+   checksum="91298779351c74f2828edc6c27683c65"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_leaveTeam.jsp"
+   checksum="6d276dced3fefdbf3bfa88e6bbf4b9d2"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_manage.jsp"
+   checksum="ca99320667218099b2c42b036367984b"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_materialRecruit.jsp"
+   checksum="1101cedc98d6db985ca08cce842abe87"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_message.jsp"
+   revision="2891"
+   checksum="357049e4253bc1d563aabdc6bdfddedd"
+   last-author="huangshouxi"
+   text-time="2017-02-28T09:05:35.175000Z"
+   committed-rev="2891"
+   kind="file"
+   committed-date="2017-02-28T10:23:51.037000Z"/>
+<entry
+   name="operate_need.jsp"
+   checksum="1b88c2f671640224fee8e34c1d721235"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_notice.jsp"
+   revision="2882"
+   checksum="624a336c34bbbb0762791e7fe4abe329"
+   last-author="huangshouxi"
+   text-time="2017-02-27T08:56:54.297000Z"
+   committed-rev="2882"
+   kind="file"
+   committed-date="2017-02-28T03:00:44.134000Z"/>
+<entry
+   name="operate_posterMEAdd.jsp"
+   checksum="4d18fb669197c2c8e20db3c2114cd88d"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_posterProjectAdd.jsp"
+   checksum="f97552de4203b3b543257e943937e82c"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_posterUserAdd.jsp"
+   checksum="c9304e4a79dfa47973472ad8e99e12b1"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_report.jsp"
+   checksum="86ab7038a8087347252d8e810c0d4e97"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_reportEquipmentList.jsp"
+   checksum="e1e275ac6cb64b8809a054b7158d1e85"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_reportMEAdd.jsp"
+   checksum="38879870b16c8c86a50bb9583df4e710"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_reportMEDetailAdd.jsp"
+   checksum="c8d326092fc779241fd2ea1e9db1bf5b"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_reportMEDetailList.jsp"
+   checksum="2f689ce320e4836a40c353fa52389192"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_reportMaterialList.jsp"
+   checksum="fca257fb20f382ce5ddb4dc2313d6351"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_reportTeamAdd.jsp"
+   checksum="cb93f7ba8c55266ed6b8332844940a74"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_reportTeamDetailAdd.jsp"
+   checksum="b95d8183f49b2dac0524c8972380c1a1"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_reportTeamDetailList.jsp"
+   checksum="9ebe485009414b7c204c62dec9922aef"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_reportTeamList.jsp"
+   checksum="28949c455747f6d374298f078b4d046f"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_rewardsandpunish.jsp"
+   checksum="fb55199c667bf5086edfeb058846fc23"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_salary.jsp"
+   checksum="37d27db365d0a6e0a15272ebff6f95ca"
+   last-author="zhengss"
+   committed-rev="2870"
+   text-time="2017-02-25T08:23:31.492000Z"
+   kind="file"
+   committed-date="2017-02-25T08:23:31.492778Z"/>
+<entry
+   name="operate_schedule.jsp"
+   checksum="da696a484b8f992fcf47dbddfa5fafda"
+   last-author="zhengss"
+   committed-rev="2870"
+   text-time="2017-02-25T08:23:31.492000Z"
+   kind="file"
+   committed-date="2017-02-25T08:23:31.492778Z"/>
+<entry
+   name="operate_secondarytitle.jsp"
+   checksum="287ce6608efa28365c2df46dcf213869"
+   last-author="huangshouxi"
+   text-time="2017-02-22T11:42:32.123000Z"
+   committed-rev="2828"
+   kind="file"
+   committed-date="2017-02-22T11:46:16.979000Z"/>
+<entry
+   name="operate_team.jsp"
+   checksum="1307ebfdf2c0ac93d2cfb2191700cfe2"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_teamRecruit.jsp"
+   checksum="b69f438799cd1ff48cff47bf55211fd5"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_tmeQC.jsp"
+   checksum="60c391df4ecbc8f2433ee633e159486c"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_tmeSC.jsp"
+   checksum="08e35f7c768907439bc7f823231091af"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_top.jsp"
+   checksum="06f50654626ff128ed1bb47f1a274f91"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_updaterpojectprogress.jsp"
+   checksum="2cd286fa1280af79aeb47f0cd36b23e5"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="operate_updateteamschedule.jsp"
+   checksum="0623595ac33dcc446be01373fa1125d9"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+</wc-entries>

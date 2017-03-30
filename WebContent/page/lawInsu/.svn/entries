@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2865"
+   last-author="wangqi"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/lawInsu"
+   committed-rev="2429"
+   kind="dir"
+   committed-date="2017-01-05T05:10:42.306477Z"/>
+<entry
+   name="lawInsu_add.jsp"
+   checksum="6333ff0095e66b41843c04bdeabe2349"
+   last-author="wangqi"
+   text-time="2016-12-16T08:03:42.615000Z"
+   committed-rev="2072"
+   kind="file"
+   committed-date="2016-12-16T08:03:42.615102Z"/>
+<entry
+   name="lawInsu_list.jsp"
+   checksum="2804f05b8eb48d63d63f067a14545ba4"
+   last-author="wangqi"
+   text-time="2016-12-16T08:03:42.615000Z"
+   committed-rev="2072"
+   kind="file"
+   committed-date="2016-12-16T08:03:42.615102Z"/>
+<entry
+   name="lawInsu_modify.jsp"
+   checksum="ad395c119a9d01726b30dd4e506f12df"
+   last-author="wangqi"
+   text-time="2017-01-05T05:10:42.306000Z"
+   committed-rev="2429"
+   kind="file"
+   committed-date="2017-01-05T05:10:42.306477Z"/>
+</wc-entries>

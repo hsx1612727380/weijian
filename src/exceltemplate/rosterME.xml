@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<excel id="rosterME" code="rosterME" name="供应商花名册导入">
+    <colgroup>
+        <col index="A" width='12em'></col>
+        <col index="B" width='17em'></col>
+        <col index="C" width='17em'></col>
+        <col index="D" width='17em'></col>
+        <col index="E" width='17em'></col>
+        <col index="F" width='25em'></col>
+        <col index="G" width='15em'></col>
+        <col index="H" width='17em'></col>  
+    </colgroup>
+    <title>
+        <tr height="16px">
+            <td rowspan="1" colspan="8" value="供应商花名册导入" />
+        </tr>
+    </title>
+    <thead>
+        <tr height="16px">
+        	<th value="供应商类型" />
+        	<th value="供应商名称" />
+            <th value="供应商机构代码" />
+            <th value="统一社会信用代码" />
+            <th value="供应材料或设备名称" />
+            <th value="街道地址" />
+            <th value="联系人" />
+            <th value="手机号" />            
+        </tr>
+    </thead>
+    <tbody>
+        <tr height="16px" firstrow="2" firstcol="0" repeat="100">
+        	<td type="enum" isnullable="true" format="材料商,设备商" />
+         	<td type="string" isnullable="false" maxlength="50" />
+            <td type="string" isnullable="false" maxlength="30" />
+            <td type="string" isnullable="false" maxlength="40" />
+            <td type="string" isnullable="false" maxlength="40" />
+            <td type="string" isnullable="false" maxlength="50" />
+            <td type="string" isnullable="false" maxlength="50" />
+            <td type="string" isnullable="false" maxlength="20" />
+            <td type="string" isnullable="false" maxlength="11" />
+        </tr>
+    </tbody>
+</excel>

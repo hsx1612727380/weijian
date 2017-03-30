@@ -1,0 +1,30 @@
+.textcontent.content {
+	min-height: 74%;
+}
+.textcontent.content img{
+	width: 22%;
+	vertical-align: top;
+	margin-right: 10px;
+}
+.textcontent.content h3 {
+	margin: 0;
+	height: 50px;
+	line-height: 50px;
+}
+.textcontent.content p {
+	font-size: 14px;
+	text-indent: 2em;
+	padding: 10px 0;
+	margin: 0;
+}
+.textcontent.content p a {
+	font-size: 16px;
+	display: inline-block;
+	margin-bottom: 20px;
+}
+.tright{
+	text-align: right;
+}
+.tcenter{
+	text-align: center;
+}

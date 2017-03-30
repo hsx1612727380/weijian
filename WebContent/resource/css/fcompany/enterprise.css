@@ -1,0 +1,69 @@
+.personal {
+	min-height: 84%;
+	box-sizing: border-box;
+}
+.title>.content>span{
+	display: inline;
+	margin-right: 10px;
+}
+.title>.content>span img{
+	vertical-align: middle;
+}
+.personal div {
+	box-sizing: border-box;
+}
+.personal .autstate {
+	width: 100%;
+	border-bottom: 1px solid #C0C0C0;
+	font:bold 18px sans-serif;
+}
+.personal .autstate ul{
+	margin: 0;
+	padding: 0;
+}
+.personal .autstate li{
+	float: left;
+	padding: 0 20px;
+	height: 50px;
+	line-height: 50px;
+	box-sizing: border-box;
+}
+.personal .autstate li a{
+	color: #003366;
+}
+.personal .autstate li:hover {
+	border-bottom: 3px solid #27AE61;
+}
+.personal .autstate li:hover a{
+	color: #58D68D;
+}
+.personal .project .intitle {
+	margin-top: 10px;
+	padding-left: 30px;
+	font-size: 20px;
+	font-weight: bold;
+	color: #333333;
+}
+.personal .project li{
+	float: left;
+	padding: 20px 0;
+	width: 180px;
+	margin:0 40px;
+	background-color: #293F5F;
+	text-align: center;
+	border-radius: 10px;
+	color: white;
+	
+}
+.personal .project li div{
+	height: 30px;
+	line-height: 30px;
+	font-weight: bold;
+	font-size: 18px;
+}
+#echart{
+	width: 95%;
+	height: 500px;
+	margin-top: 40px;
+	margin-left: 30px;
+}

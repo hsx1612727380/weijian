@@ -1,0 +1,68 @@
+.personal {
+	min-height: 74%;
+}
+.personal .teammenber,.personal .team {
+	width: 700px;
+	margin: 20px;
+	float: left;
+	border: 1px solid #D9D9D9;
+	padding: 20px;
+}
+.personal .teammenber th,.personal .team th {
+	background-color: white;
+	text-align: left;
+	font-weight: normal;
+	width: 150px;
+}
+.personal .teammenber th{
+	text-align: center;
+}
+.personal .teammenber td{
+	background-color: white;
+	height: 30px;
+	text-align: center;
+}
+.personal .teammenber{
+	background-color: #999;
+	padding: 0;
+}
+.personal .teammenber caption{
+	text-align: left;
+	padding-left: 20px;
+	font:600 18px sans-serif;
+	height: 40px;
+}
+.personal .credit {
+	float: left;
+	border: 1px solid #D9D9D9;
+	width: 250px;
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 60px;
+}
+.personal .credit>img {
+	margin-top: 30px;
+}
+.personal .creditname{
+	height: 30px;
+	line-height: 30px;
+}
+.personal .creditname>span{
+	display: inline-block;
+	width:60px;
+	height: 1px;
+	background-color: #D9D9D9;
+}
+.personal .creditname .creditrecord{
+	width: auto;
+	height: auto;
+	background-color: white;
+	vertical-align: middle;
+}
+.personal .records>div{
+	float: left;
+	margin-right: 18px;
+}
+.personal .records{
+	margin-left: 20px;
+}

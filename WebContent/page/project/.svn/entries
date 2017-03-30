@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2865"
+   last-author="wangqi"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/project"
+   committed-rev="2738"
+   kind="dir"
+   committed-date="2017-02-14T08:27:57.216046Z"/>
+<entry
+   name="joinbuild_add.jsp"
+   checksum="eb889fdc5c4fea684fac6b92992beb64"
+   last-author="wangqi"
+   text-time="2016-12-16T08:05:12.665000Z"
+   committed-rev="2080"
+   kind="file"
+   committed-date="2016-12-16T08:05:12.665594Z"/>
+<entry
+   name="joinbuild_modify.jsp"
+   checksum="e1c666dd3e2a4e14649631e0adf7fe70"
+   last-author="wangqi"
+   text-time="2016-12-16T08:05:12.665000Z"
+   committed-rev="2080"
+   kind="file"
+   committed-date="2016-12-16T08:05:12.665594Z"/>
+<entry
+   name="keyperson_add.jsp"
+   checksum="c3490bf4308ce538613fa38376cee3a2"
+   last-author="wangqi"
+   text-time="2016-12-16T08:05:12.665000Z"
+   committed-rev="2080"
+   kind="file"
+   committed-date="2016-12-16T08:05:12.665594Z"/>
+<entry
+   name="keyperson_modify.jsp"
+   checksum="f24b8b72609c44a583a5cac3579c79d0"
+   last-author="wangqi"
+   text-time="2016-12-16T08:05:12.665000Z"
+   committed-rev="2080"
+   kind="file"
+   committed-date="2016-12-16T08:05:12.665594Z"/>
+<entry
+   name="link_modify.jsp"
+   checksum="8258c499ba86d64d3fa44b4ae3054317"
+   last-author="wangqi"
+   text-time="2016-12-16T08:05:12.665000Z"
+   committed-rev="2080"
+   kind="file"
+   committed-date="2016-12-16T08:05:12.665594Z"/>
+<entry
+   name="project_add.jsp"
+   checksum="5c60aa7a9a32fc34b8db612dfb1c4944"
+   last-author="wangqi"
+   committed-rev="2610"
+   text-time="2017-01-16T09:34:54.355000Z"
+   kind="file"
+   committed-date="2017-01-16T09:34:54.355545Z"/>
+<entry
+   name="project_info.jsp"
+   checksum="843dd7703f4a6649a3b5a6061396715f"
+   last-author="wangqi"
+   text-time="2017-02-14T08:27:52.303000Z"
+   committed-rev="2737"
+   kind="file"
+   committed-date="2017-02-14T08:27:52.303531Z"/>
+<entry
+   name="project_list.jsp"
+   checksum="4729d6041b037999c1b7f73a2f640c6d"
+   last-author="wangqi"
+   committed-rev="2738"
+   text-time="2017-02-14T08:27:57.216000Z"
+   kind="file"
+   committed-date="2017-02-14T08:27:57.216046Z"/>
+<entry
+   name="project_modify.jsp"
+   checksum="78683a1dd1ecbac69e2cba48b38da171"
+   last-author="wangqi"
+   text-time="2016-12-27T01:42:11.875000Z"
+   committed-rev="2247"
+   kind="file"
+   committed-date="2016-12-27T01:42:11.875692Z"/>
+</wc-entries>

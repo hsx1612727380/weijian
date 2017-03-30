@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2827"
+   last-author="mayu"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/resource/css/front_company"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2038"
+   kind="dir"
+   committed-date="2016-12-15T06:48:35.342494Z"/>
+<entry
+   name="identerprise.css"
+   checksum="e29dd4da83750f1603ad64673a417a20"
+   last-author="mayu"
+   committed-rev="2037"
+   text-time="2016-12-15T06:48:23.861000Z"
+   kind="file"
+   committed-date="2016-12-15T06:48:23.861945Z"/>
+<entry
+   name="principalaudit.css"
+   checksum="7d5a82ea424b3653febfe28cd5036072"
+   last-author="huangshouxi"
+   committed-rev="1688"
+   text-time="2016-12-01T02:18:23.587000Z"
+   kind="file"
+   committed-date="2016-12-01T02:18:23.587433Z"/>
+<entry
+   name="principalmanage.css"
+   checksum="82627286634efe90e681f0f7a86a8058"
+   last-author="huangshouxi"
+   committed-rev="1659"
+   text-time="2016-11-30T02:37:35.938000Z"
+   kind="file"
+   committed-date="2016-11-30T02:37:35.938339Z"/>
+<entry
+   name="principalrecruit.css"
+   checksum="a4e1ced63fe9421c9e953c226e10d918"
+   last-author="huangshouxi"
+   committed-rev="1673"
+   text-time="2016-11-30T09:41:42.862000Z"
+   kind="file"
+   committed-date="2016-11-30T09:41:42.862088Z"/>
+<entry
+   name="projectadd.css"
+   checksum="a4e1ced63fe9421c9e953c226e10d918"
+   last-author="huangshouxi"
+   committed-rev="1761"
+   text-time="2016-12-04T11:54:52.127000Z"
+   kind="file"
+   committed-date="2016-12-04T11:54:52.127707Z"/>
+<entry
+   name="projectappend.css"
+   checksum="6506a4e240fb7bdfd4f2c3d0226f4449"
+   last-author="mayu"
+   committed-rev="2037"
+   text-time="2016-12-15T06:48:23.861000Z"
+   kind="file"
+   committed-date="2016-12-15T06:48:23.861945Z"/>
+<entry
+   name="projectaudit.css"
+   checksum="94f5bddccbc16f6837e901871748b318"
+   last-author="mayu"
+   committed-rev="2037"
+   text-time="2016-12-15T06:48:23.861000Z"
+   kind="file"
+   committed-date="2016-12-15T06:48:23.861945Z"/>
+<entry
+   name="projectdetail.css"
+   checksum="d430715ea91661ce26ab6df1603a0353"
+   last-author="mayu"
+   committed-rev="2038"
+   text-time="2016-12-15T06:48:35.342000Z"
+   kind="file"
+   committed-date="2016-12-15T06:48:35.342494Z"/>
+<entry
+   name="projectinvite.css"
+   checksum="75dbcc6568d839d2ecb92b45c0636131"
+   last-author="mayu"
+   committed-rev="2037"
+   text-time="2016-12-15T06:48:23.861000Z"
+   kind="file"
+   committed-date="2016-12-15T06:48:23.861945Z"/>
+<entry
+   name="projectinvited.css"
+   checksum="0893d668143c9af08dff38e01fdbbd03"
+   last-author="mayu"
+   committed-rev="2037"
+   text-time="2016-12-15T06:48:23.861000Z"
+   kind="file"
+   committed-date="2016-12-15T06:48:23.861945Z"/>
+<entry
+   name="projectmanage.css"
+   checksum="194676916114c23a11c3ee5c1025a796"
+   last-author="mayu"
+   committed-rev="2037"
+   text-time="2016-12-15T06:48:23.861000Z"
+   kind="file"
+   committed-date="2016-12-15T06:48:23.861945Z"/>
+<entry
+   name="projectmenber.css"
+   checksum="eb9b0f744c310ce4e120ae60058b126b"
+   last-author="mayu"
+   committed-rev="2037"
+   text-time="2016-12-15T06:48:23.861000Z"
+   kind="file"
+   committed-date="2016-12-15T06:48:23.861945Z"/>
+</wc-entries>

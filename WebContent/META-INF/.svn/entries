@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2693"
+   last-author="mayu"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/META-INF"
+   committed-rev="139"
+   kind="dir"
+   committed-date="2016-09-22T09:35:46.102139Z"/>
+<entry
+   name="MANIFEST.MF"
+   checksum="b10f37c8bb1803d98c127a01d1a71cc5"
+   last-author="mayu"
+   text-time="2016-09-22T09:35:46.102000Z"
+   committed-rev="139"
+   kind="file"
+   committed-date="2016-09-22T09:35:46.102139Z"/>
+</wc-entries>

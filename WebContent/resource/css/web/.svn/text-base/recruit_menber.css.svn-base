@@ -1,0 +1,49 @@
+.personal {
+	min-height: 74%;
+}
+.personal .colcenter{
+	width: 850px;
+	margin: 0 auto;
+}
+.personal .column{
+	border: 3px solid #E5F2F5;
+	padding: 20px 30px;
+	margin-top: 20px;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+}
+.personal .colright,.personal .colleft{
+	float: left;
+}
+.personal .colleft{
+	margin-left: 50px;
+}
+.personal .colleft table th{
+	text-align: left;
+	height: 30px;
+	color: #00529C;
+	font-size: 18px;
+}
+.personal .colleft table td{
+	padding-left: 30px;
+}
+.personal .colleft table img.special{
+	width: 18px;
+}
+.personal .intitle{
+	font-weight: 700;
+	font-size: 20px;
+	margin-top: 20px;
+}
+.personal .column .certificate{
+	width: 100%;
+}
+.personal .column .certificate th{
+	background-color: #3399FF;
+	color: white;
+	padding: 5px 0;
+}
+.personal .column .certificate td{
+	padding: 5px 0;
+	text-align: center;
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2865"
+   last-author="wangqi"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/user"
+   committed-rev="2332"
+   kind="dir"
+   committed-date="2016-12-28T08:17:15.931851Z"/>
+<entry
+   name="admin_addUI.jsp"
+   checksum="def21ba61a8967eff588b24f8bd64c94"
+   last-author="ruankai"
+   text-time="2016-09-27T20:45:04.432000Z"
+   committed-rev="242"
+   kind="file"
+   committed-date="2016-09-27T20:45:04.432307Z"/>
+<entry
+   name="user_add.jsp"
+   checksum="e38e7302e3f7e7faacdb65ee69ab15a1"
+   last-author="wangqi"
+   text-time="2016-12-28T08:17:15.931000Z"
+   committed-rev="2332"
+   kind="file"
+   committed-date="2016-12-28T08:17:15.931851Z"/>
+<entry
+   name="user_info.jsp"
+   checksum="881a24c524b5bd76356617b4932f7395"
+   last-author="wangqi"
+   text-time="2016-12-27T06:11:25.417000Z"
+   committed-rev="2272"
+   kind="file"
+   committed-date="2016-12-27T06:11:25.417301Z"/>
+<entry
+   name="user_list.jsp"
+   checksum="897f7bbc89ffbf6983e4928c610ddf07"
+   last-author="wangqi"
+   text-time="2016-12-16T08:05:06.386000Z"
+   committed-rev="2079"
+   kind="file"
+   committed-date="2016-12-16T08:05:06.386651Z"/>
+</wc-entries>

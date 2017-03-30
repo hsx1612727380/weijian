@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2842"
+   last-author="wangqi"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/resource/js/skins/qianhuang"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2126"
+   kind="dir"
+   committed-date="2016-12-20T13:33:34.053048Z"/>
+<entry
+   name="icon.png"
+   checksum="5bfdaf6ad3c43c33629b5f6f57451acd"
+   last-author="wangqi"
+   committed-rev="2126"
+   text-time="2016-12-20T13:33:34.053000Z"
+   kind="file"
+   committed-date="2016-12-20T13:33:34.053048Z"
+   prop-time="2017-01-11T01:46:40.967000Z"/>
+<entry
+   name="laydate.css"
+   checksum="dc97d2affdd6fd28fe614bdf289d450f"
+   last-author="wangqi"
+   committed-rev="2126"
+   text-time="2016-12-20T13:33:34.053000Z"
+   kind="file"
+   committed-date="2016-12-20T13:33:34.053048Z"/>
+</wc-entries>

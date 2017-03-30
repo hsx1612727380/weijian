@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2842"
+   last-author="huangshouxi"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/resource/js/fcompany"
+   committed-rev="2716"
+   kind="dir"
+   committed-date="2017-02-14T02:25:00.782506Z"/>
+<entry
+   name="addAdlevel.js"
+   checksum="8b7f4a48ffbc6f46540329785aa30506"
+   last-author="huangshouxi"
+   committed-rev="2716"
+   text-time="2017-02-14T02:06:49.092000Z"
+   kind="file"
+   committed-date="2017-02-14T02:25:00.782000Z"/>
+<entry
+   name="companyAptitude.js"
+   checksum="b6a1ddd9912327123b119e0b55e23353"
+   last-author="huangshouxi"
+   committed-rev="2647"
+   text-time="2017-01-19T06:39:03.419000Z"
+   kind="file"
+   committed-date="2017-01-19T15:08:06.591000Z"/>
+<entry
+   name="companyCompact.js"
+   checksum="5379294de0283dcb809d9ea5eab18747"
+   last-author="huangshouxi"
+   committed-rev="2678"
+   text-time="2017-02-06T03:37:45.668000Z"
+   kind="file"
+   committed-date="2017-02-06T09:49:25.851000Z"/>
+<entry
+   name="companyEegineer.js"
+   checksum="2c792b326390a938a0eea887a45c3a29"
+   last-author="huangshouxi"
+   committed-rev="2647"
+   text-time="2017-01-18T05:51:32.063000Z"
+   kind="file"
+   committed-date="2017-01-19T15:08:06.591000Z"/>
+<entry
+   name="companyPasswordModfiy.js"
+   checksum="16951a0b8cd0fdf58b2c2af5c0b7c61b"
+   last-author="huangshouxi"
+   committed-rev="2657"
+   text-time="2017-01-20T01:47:32.086000Z"
+   kind="file"
+   committed-date="2017-01-20T06:50:37.538000Z"/>
+<entry
+   name="companyProject.js"
+   checksum="532dc198de7dfdf3121165b1fd8a9164"
+   last-author="huangshouxi"
+   committed-rev="2657"
+   text-time="2017-01-20T03:09:53.040000Z"
+   kind="file"
+   committed-date="2017-01-20T06:50:37.538000Z"/>
+<entry
+   name="companyUpdateBaseInfo.js"
+   checksum="e738786573ace7515d99c10e3b63d9c8"
+   last-author="huangshouxi"
+   committed-rev="2647"
+   text-time="2017-01-19T02:56:28.373000Z"
+   kind="file"
+   committed-date="2017-01-19T15:08:06.591000Z"/>
+<entry
+   name="enterprise.js"
+   checksum="fbc6fedbe30790f6ebe04914ebf5ab77"
+   last-author="huangshouxi"
+   committed-rev="2647"
+   text-time="2017-01-18T01:55:26.821000Z"
+   kind="file"
+   committed-date="2017-01-19T15:08:06.591000Z"/>
+<entry
+   name="enterprisebase.js"
+   checksum="9a8c0889167f63ef01c9782aa5cce9c3"
+   last-author="huangshouxi"
+   committed-rev="2647"
+   text-time="2017-01-18T07:33:56.607000Z"
+   kind="file"
+   committed-date="2017-01-19T15:08:06.591000Z"/>
+</wc-entries>

@@ -1,0 +1,14 @@
+#数据库配置帐号密码
+mongodb.debug=true
+mongodb.host=192.168.0.104
+mongodb.port=27017
+mongodb.username=root
+mongodb.password=admin
+mongodb.dbname=weijian
+mongodb.maxConnection=50
+
+#Redis缓存配置
+redis.host=192.168.0.104
+redis.port=6380
+redis.password=
+

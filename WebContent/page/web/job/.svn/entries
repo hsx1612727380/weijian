@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2865"
+   last-author="mayu"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/web/job"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2863"
+   kind="dir"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="persontoteam.jsp"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"
+   checksum="5a569900935a5e90054135e1b4d6fd48"/>
+<entry
+   name="projecttoequipment.jsp"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"
+   checksum="415287d7003eb8fee7c0af0fe6ffcf3e"/>
+<entry
+   name="projecttomaterial.jsp"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"
+   checksum="704b91abcc14a577813ab7e947e3910c"/>
+<entry
+   name="projecttoteam.jsp"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"
+   checksum="734443944ca9000666d79ff2041f1477"/>
+<entry
+   name="teamtoperson.jsp"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"
+   checksum="e7ec3e38dc0c65954726b9f925c88c49"/>
+<entry
+   name="teamtoproject.jsp"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"
+   checksum="3ba3ed206c2e0302bce63d290a3951cc"/>
+</wc-entries>

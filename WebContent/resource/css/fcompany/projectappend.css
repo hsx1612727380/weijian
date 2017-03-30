@@ -1,0 +1,105 @@
+.personal {
+	min-height: 74%;
+	box-sizing: border-box;
+}
+.personal .operate {
+	margin:20px 0;
+}
+.personal .operate div {
+	float:left;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 100px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	margin-right: 20px;
+}
+.personal .intitle{
+	font-size: 22px;
+	padding: 10px;
+}
+.personal .intitle span{
+	font-size: 16px;
+	margin-left: 20px;
+}
+.personal .basedetail{
+	width: 100%;
+}
+.personal .basedetail input{
+		display: inline-block;
+	box-sizing: border-box;
+	padding-left: 3px;
+	width: 214px;
+	height: 27px;
+	line-height: 27px;
+}
+.personal .basedetail th{
+	padding: 2px 5px;
+	height: 50px;
+}
+.personal .column,.personal .columntwo {
+	padding-bottom: 20px;
+	/*border-bottom: 1px solid #999;*/
+}
+.personal .columntwo{
+	border: none;
+}
+.personal .columnthree{
+	padding-bottom: 20px;
+	text-align: center;
+}
+.personal textarea {
+	width: 600px;
+	height: 100px;
+	vertical-align: middle;
+}
+.personal .describe{
+	margin:0 50px;
+}
+.personal .cancel {
+	display: inline-block;
+	height: 25px;
+	text-align: center;
+	width: 82px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	margin-left: 50px;
+	padding: 0;
+}
+#container {
+	width: 92%;
+	height: 350px;
+	margin-left: 15px;
+}
+.biginput {
+	width: 300px;
+}
+.smallinput {
+	width: 150px;
+}
+.bigtd {
+	width: 360px;
+}
+.firsttd{
+	padding-left: 50px;
+}
+.smallimg{
+	width: 15px;
+	cursor: pointer;
+}
+.red{
+	color: darkred;
+	margin-right: 5px;
+}
+#map{
+	height: 360px;
+}

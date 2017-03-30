@@ -1,0 +1,34 @@
+.textcontent.content {
+	min-height: 74%;
+	padding-top: 20px;
+	box-sizing: border-box;
+}
+.textcontent.content table{
+	width: 100%;
+}
+.textcontent.content tr {
+	height: 60px;
+}
+.textcontent.content th {
+	text-align: left;
+}
+.textcontent p{
+	text-indent: 2em;
+}
+.enterinfo {
+	height: 60px;
+	padding: 20px 0 20px 40px;
+}
+.enterinfo img{
+	height: 100%;
+	float: left;
+}
+.enterinfo p {
+	margin: 0;
+	padding-left: 100px;
+	height: 30px;
+	line-height: 30px;
+}
+.enterinfo .ptime{
+	font-size: 12px;
+}

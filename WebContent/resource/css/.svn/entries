@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2827"
+   last-author="mayu"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/resource/css"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2819"
+   kind="dir"
+   committed-date="2017-02-22T08:03:36.117460Z"/>
+<entry
+   name="agreement.css"
+   checksum="5de3beec85f44bea725bb422d902a625"
+   last-author="mayu"
+   committed-rev="1922"
+   text-time="2016-12-09T09:30:59.303000Z"
+   kind="file"
+   committed-date="2016-12-09T09:30:59.303600Z"/>
+<entry
+   name="common.css"
+   revision="2848"
+   checksum="8da228cca0d5fd4eafb2c0115845bcce"
+   last-author="huangshouxi"
+   text-time="2017-02-23T09:33:23.188000Z"
+   committed-rev="2848"
+   kind="file"
+   committed-date="2017-02-23T10:11:18.056000Z"/>
+<entry
+   name="companysign.css"
+   checksum="137cfd38168fa03e59c0c141ff588920"
+   last-author="mayu"
+   committed-rev="1922"
+   text-time="2016-12-09T09:30:59.303000Z"
+   kind="file"
+   committed-date="2016-12-09T09:30:59.303600Z"/>
+<entry
+   name="dataFormat.css"
+   checksum="2fae1419c3d7f1bcfbb259fa38e613c7"
+   last-author="ruankai"
+   committed-rev="1818"
+   text-time="2016-12-06T07:37:20.695000Z"
+   kind="file"
+   committed-date="2016-12-06T07:37:20.695505Z"/>
+<entry
+   name="default.css"
+   checksum="6e612c691d0d0bd6ec2d170eb8a30a86"
+   last-author="mayu"
+   committed-rev="1114"
+   text-time="2016-11-08T08:59:23.077000Z"
+   kind="file"
+   committed-date="2016-11-08T08:59:23.077223Z"/>
+<entry
+   name="fcompany"
+   kind="dir"/>
+<entry
+   name="forgetpsw.css"
+   checksum="97228d26015c89ee4443eeae030fac70"
+   last-author="mayu"
+   committed-rev="1922"
+   text-time="2016-12-09T09:30:59.303000Z"
+   kind="file"
+   committed-date="2016-12-09T09:30:59.303600Z"/>
+<entry
+   name="form.css"
+   checksum="c6c83f27f4a11a36bc85ab727feee7ce"
+   last-author="wangqi"
+   committed-rev="2792"
+   text-time="2017-02-21T09:02:59.836000Z"
+   kind="file"
+   committed-date="2017-02-21T09:02:59.836460Z"/>
+<entry
+   name="front_company"
+   kind="dir"/>
+<entry
+   name="front_equipment"
+   kind="dir"/>
+<entry
+   name="front_person"
+   kind="dir"/>
+<entry
+   name="front_project"
+   kind="dir"/>
+<entry
+   name="index.css"
+   checksum="eac15b57ffa5bdf09a4a8e2f5670d493"
+   last-author="mayu"
+   committed-rev="1709"
+   text-time="2016-12-01T10:14:58.790000Z"
+   kind="file"
+   committed-date="2016-12-01T10:14:58.790017Z"/>
+<entry
+   name="index1.css"
+   revision="2882"
+   checksum="c319523d0f2f729d77e78e844496751c"
+   last-author="huangshouxi"
+   text-time="2017-02-28T02:05:36.154000Z"
+   committed-rev="2882"
+   kind="file"
+   committed-date="2017-02-28T03:00:44.134000Z"/>
+<entry
+   name="input.css"
+   checksum="dbe6c55b1c0902de7fff430ba2fce0e4"
+   last-author="wangqi"
+   committed-rev="490"
+   text-time="2016-10-14T17:26:59.233000Z"
+   kind="file"
+   committed-date="2016-10-14T17:26:59.233826Z"/>
+<entry
+   name="kindeditor.css"
+   checksum="331198da87a05e382f9a56286569259d"
+   last-author="wangqi"
+   committed-rev="1089"
+   text-time="2016-11-07T17:28:06.675000Z"
+   kind="file"
+   committed-date="2016-11-07T17:28:06.675233Z"/>
+<entry
+   name="login.css"
+   checksum="2f3c5595063ce5e2caf0a44eec93434e"
+   last-author="mayu"
+   committed-rev="1922"
+   text-time="2016-12-09T09:30:59.303000Z"
+   kind="file"
+   committed-date="2016-12-09T09:30:59.303600Z"/>
+<entry
+   name="messageinfo.css"
+   revision="2828"
+   checksum="ed360864eae752ecfae42d9b9a9c74c9"
+   last-author="huangshouxi"
+   committed-rev="2828"
+   text-time="2017-02-22T02:10:02.756000Z"
+   kind="file"
+   committed-date="2017-02-22T11:46:16.979000Z"/>
+<entry
+   name="normalize.css"
+   checksum="4d98ed29683c8481d58a8a8b45072b27"
+   last-author="huangshouxi"
+   committed-rev="2681"
+   text-time="2017-02-07T01:29:21.204000Z"
+   kind="file"
+   committed-date="2017-02-07T02:15:11.032000Z"/>
+<entry
+   name="operate"
+   kind="dir"/>
+<entry
+   name="records.css"
+   checksum="f7b6c3be15b8c4d6a22b6aba6976dce8"
+   last-author="wangqi"
+   text-time="2017-02-14T08:28:19.769000Z"
+   committed-rev="2740"
+   kind="file"
+   committed-date="2017-02-14T08:28:19.769123Z"/>
+<entry
+   name="signin.css"
+   checksum="a1fc211745572d302d91e92532b84a78"
+   last-author="mayu"
+   text-time="2017-02-22T08:03:36.117000Z"
+   committed-rev="2819"
+   kind="file"
+   committed-date="2017-02-22T08:03:36.117460Z"/>
+<entry
+   name="silder.css"
+   checksum="f3a22e973d17e09eaa44649b8d0fcbc7"
+   last-author="wangqi"
+   text-time="2017-02-06T01:49:29.674000Z"
+   committed-rev="2668"
+   kind="file"
+   committed-date="2017-02-06T01:49:29.674735Z"/>
+<entry
+   name="tabfooter.css"
+   checksum="b3fa30f03f0f59bcd43e863b91b74a83"
+   last-author="zhengss"
+   committed-rev="1197"
+   text-time="2016-11-10T10:39:56.380000Z"
+   kind="file"
+   committed-date="2016-11-10T10:39:56.380344Z"/>
+<entry
+   name="table.css"
+   checksum="862e009f3912d039b81c702651182995"
+   last-author="wangqi"
+   committed-rev="2817"
+   text-time="2017-02-22T07:51:26.043000Z"
+   kind="file"
+   committed-date="2017-02-22T07:51:26.043713Z"/>
+<entry
+   name="web"
+   kind="dir"/>
+<entry
+   name="welcome.css"
+   checksum="a291047069cf3624ee4815e6c7242a2e"
+   last-author="wangqi"
+   text-time="2017-02-06T01:49:29.674000Z"
+   committed-rev="2668"
+   kind="file"
+   committed-date="2017-02-06T01:49:29.674735Z"/>
+</wc-entries>

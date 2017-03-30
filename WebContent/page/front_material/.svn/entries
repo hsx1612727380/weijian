@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2872"
+   last-author="zhengss"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/front_material"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2872"
+   kind="dir"
+   committed-date="2017-02-27T02:06:28.714688Z"/>
+<entry
+   name="material_file.jsp"
+   checksum="c7a16fb0c09e65b8053721cbdadcc277"
+   last-author="zhengss"
+   committed-rev="2867"
+   text-time="2017-02-25T06:41:15.431000Z"
+   kind="file"
+   committed-date="2017-02-25T06:41:15.431689Z"/>
+<entry
+   name="material_info.jsp"
+   checksum="4642af97a03909f15703078774dbaada"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="material_invite.jsp"
+   checksum="2ac17ad97249e9f54f4aa4024be0063f"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="material_joinproject.jsp"
+   checksum="12fd00a686b3dad3eac4e196eba71b63"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="material_left.jsp"
+   checksum="28b1acd51df75d37ccdbb4a30c139824"
+   last-author="huangshouxi"
+   text-time="2017-02-22T11:05:54.503000Z"
+   committed-rev="2828"
+   kind="file"
+   committed-date="2017-02-22T11:46:16.979000Z"/>
+<entry
+   name="material_log.jsp"
+   checksum="914d7290a4a835f20d8c16be4c7d9682"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="material_message.jsp"
+   checksum="38255ac295632def01b5c8588c88a378"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="material_modifypassword.jsp"
+   checksum="cd1413e75f4e6ae1ba5987a6786d904f"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="material_notice.jsp"
+   checksum="02b1b02da46b8d0e382a4fb617a35760"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="material_passwordnext.jsp"
+   checksum="ea606e68cff8ba7813b1850bcaade826"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="material_past.jsp"
+   checksum="401f8b8dd529b381b5e426b7994f56e3"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="material_project.jsp"
+   checksum="bb9604e4e75406eafd7a408681039bf8"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="material_supply.jsp"
+   checksum="4395ecd22d36567ba60d5d7f44f54cb9"
+   last-author="zhengss"
+   committed-rev="2872"
+   text-time="2017-02-27T02:06:28.714000Z"
+   kind="file"
+   committed-date="2017-02-27T02:06:28.714688Z"/>
+</wc-entries>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2842"
+   last-author="huangshouxi"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/resource/js/front_company"
+   committed-rev="2647"
+   kind="dir"
+   committed-date="2017-01-19T15:08:06.591631Z"/>
+<entry
+   name="addAdlevel.js"
+   checksum="4eee8c5210b1dd1c0b55cd232828019b"
+   last-author="huangshouxi"
+   text-time="2016-11-16T12:02:45.287000Z"
+   committed-rev="1350"
+   kind="file"
+   committed-date="2016-11-16T12:02:45.287082Z"/>
+<entry
+   name="addSkillSmallType.js"
+   checksum="86bc60bc3d9a06728f7cdf397737e969"
+   last-author="huangshouxi"
+   text-time="2016-11-30T09:41:42.862000Z"
+   committed-rev="1673"
+   kind="file"
+   committed-date="2016-11-30T09:41:42.862088Z"/>
+<entry
+   name="auditTeam.js"
+   checksum="ac4deac0b901cd877c002c50005b0655"
+   last-author="huangshouxi"
+   text-time="2016-12-13T11:27:11.279000Z"
+   committed-rev="1949"
+   kind="file"
+   committed-date="2016-12-13T11:27:11.279799Z"/>
+<entry
+   name="companyAptitude.js"
+   checksum="4083c33edb09d26b5a80007ae7557677"
+   last-author="huangshouxi"
+   text-time="2016-12-19T17:50:41.090000Z"
+   committed-rev="2110"
+   kind="file"
+   committed-date="2016-12-19T17:50:41.090554Z"/>
+<entry
+   name="companyDetailProject.js"
+   checksum="9e222ed578d640d532eb32aee6754336"
+   last-author="huangshouxi"
+   text-time="2016-11-24T05:30:19.712000Z"
+   committed-rev="1541"
+   kind="file"
+   committed-date="2016-11-24T05:30:19.712895Z"/>
+<entry
+   name="companyEegineer.js"
+   checksum="d3abb8e289cb8341f8b363ca01bd5d5f"
+   last-author="huangshouxi"
+   text-time="2016-12-19T17:50:41.090000Z"
+   committed-rev="2110"
+   kind="file"
+   committed-date="2016-12-19T17:50:41.090554Z"/>
+<entry
+   name="companyPasswordModfiy.js"
+   checksum="d30d426056b375d6d46c20f5324e039f"
+   last-author="huangshouxi"
+   text-time="2017-01-19T09:52:10.535000Z"
+   committed-rev="2647"
+   kind="file"
+   committed-date="2017-01-19T15:08:06.591000Z"/>
+<entry
+   name="companyProject.js"
+   revision="2891"
+   checksum="826138e1852e9cc0a71ed43588d8b072"
+   last-author="huangshouxi"
+   text-time="2017-02-28T10:03:07.245000Z"
+   committed-rev="2891"
+   kind="file"
+   committed-date="2017-02-28T10:23:51.037000Z"/>
+<entry
+   name="companyUpdateBaseInfo.js"
+   checksum="a0497c39bb53d57476113f6ba61b8d33"
+   last-author="huangshouxi"
+   text-time="2016-11-24T05:30:19.712000Z"
+   committed-rev="1541"
+   kind="file"
+   committed-date="2016-11-24T05:30:19.712895Z"/>
+<entry
+   name="equipmentRecruit.js"
+   checksum="447ff57292ffafd88d7d821ea3ff6017"
+   last-author="huangshouxi"
+   text-time="2016-11-30T09:41:42.862000Z"
+   committed-rev="1673"
+   kind="file"
+   committed-date="2016-11-30T09:41:42.862088Z"/>
+<entry
+   name="identerprise.js"
+   checksum="e1dedd9c993a31c333a1908f30cc323c"
+   last-author="huangshouxi"
+   text-time="2016-12-09T03:25:42.160000Z"
+   committed-rev="1907"
+   kind="file"
+   committed-date="2016-12-09T03:25:42.160945Z"/>
+<entry
+   name="joinBuild.js"
+   checksum="53d06fdec00cdb72fc962ed44342fb39"
+   last-author="huangshouxi"
+   text-time="2017-01-06T02:23:07.734000Z"
+   committed-rev="2449"
+   kind="file"
+   committed-date="2017-01-06T02:23:07.734099Z"/>
+<entry
+   name="keyPerson.js"
+   checksum="d2c0e23e5f1bc98929121a6e5892296f"
+   last-author="huangshouxi"
+   text-time="2016-11-28T14:55:23.372000Z"
+   committed-rev="1643"
+   kind="file"
+   committed-date="2016-11-28T14:55:23.372467Z"/>
+<entry
+   name="materialRecruit.js"
+   checksum="4aa0dad608ced6eecdfc293a6d8fc582"
+   last-author="huangshouxi"
+   text-time="2016-11-30T09:41:42.862000Z"
+   committed-rev="1673"
+   kind="file"
+   committed-date="2016-11-30T09:41:42.862088Z"/>
+<entry
+   name="modfiyAdlevel.js"
+   checksum="05588dc7add9a2474d7889f7b90cfd95"
+   last-author="huangshouxi"
+   text-time="2016-11-24T05:30:19.712000Z"
+   committed-rev="1541"
+   kind="file"
+   committed-date="2016-11-24T05:30:19.712895Z"/>
+<entry
+   name="posterMEAdd.js"
+   checksum="f565883d78ca71a9462df3ba2a5d3bad"
+   last-author="huangshouxi"
+   text-time="2017-01-11T06:01:46.890000Z"
+   committed-rev="2518"
+   kind="file"
+   committed-date="2017-01-11T15:37:47.243000Z"/>
+<entry
+   name="posterProjectAdd.js"
+   checksum="6cf796a9487f8588e194a739e3cf4b22"
+   last-author="huangshouxi"
+   text-time="2017-01-06T07:46:02.506000Z"
+   committed-rev="2469"
+   kind="file"
+   committed-date="2017-01-06T07:46:02.506521Z"/>
+<entry
+   name="posterUserAdd.js"
+   checksum="e467e531c1efa5760db745494634c71b"
+   last-author="huangshouxi"
+   text-time="2017-01-06T07:46:02.506000Z"
+   committed-rev="2469"
+   kind="file"
+   committed-date="2017-01-06T07:46:02.506521Z"/>
+<entry
+   name="projectDepartment.js"
+   checksum="fa379010eccef528692c3842c1438234"
+   last-author="huangshouxi"
+   text-time="2017-01-05T09:39:18.783000Z"
+   committed-rev="2445"
+   kind="file"
+   committed-date="2017-01-05T09:39:18.783374Z"/>
+<entry
+   name="projectchart.js"
+   checksum="6f3d210ae3bdd5ec484c8ab3536842a9"
+   last-author="huangshouxi"
+   text-time="2017-01-05T09:39:18.783000Z"
+   committed-rev="2445"
+   kind="file"
+   committed-date="2017-01-05T09:39:18.783374Z"/>
+<entry
+   name="projectdemand.js"
+   checksum="bce13d0eb7745ca04f9c52a405b62192"
+   last-author="huangshouxi"
+   text-time="2016-12-04T11:54:52.127000Z"
+   committed-rev="1761"
+   kind="file"
+   committed-date="2016-12-04T11:54:52.127707Z"/>
+<entry
+   name="projectdetail.js"
+   checksum="c807fe4957ff37464fe7b1b159e9ddcb"
+   last-author="huangshouxi"
+   text-time="2016-11-28T09:59:54.127000Z"
+   committed-rev="1628"
+   kind="file"
+   committed-date="2016-11-28T09:59:54.127306Z"/>
+<entry
+   name="projectinvite.js"
+   checksum="9e0e79bcf46c835be76ea3feac1bc084"
+   last-author="huangshouxi"
+   text-time="2016-12-05T10:00:27.943000Z"
+   committed-rev="1790"
+   kind="file"
+   committed-date="2016-12-05T10:00:27.943720Z"/>
+<entry
+   name="recruitLobor.js"
+   checksum="cf889a0162c251cda62468a7f5fc4244"
+   last-author="huangshouxi"
+   text-time="2016-12-18T06:30:25.976000Z"
+   committed-rev="2091"
+   kind="file"
+   committed-date="2016-12-18T06:30:25.976545Z"/>
+<entry
+   name="reportMEAdd.js"
+   checksum="4a8006bbda3292da376844729203f294"
+   last-author="huangshouxi"
+   text-time="2017-01-06T06:02:40.613000Z"
+   committed-rev="2460"
+   kind="file"
+   committed-date="2017-01-06T06:02:40.613792Z"/>
+<entry
+   name="reportMaterialDetailAdd.js"
+   checksum="037e9c0e3baa0a5233eab5b1779150c3"
+   last-author="huangshouxi"
+   text-time="2017-01-06T06:02:40.613000Z"
+   committed-rev="2460"
+   kind="file"
+   committed-date="2017-01-06T06:02:40.613792Z"/>
+<entry
+   name="reportTeamAdd.js"
+   checksum="a49deb2fce3d9cd52509e26f40a43328"
+   last-author="huangshouxi"
+   text-time="2017-01-05T09:39:18.783000Z"
+   committed-rev="2445"
+   kind="file"
+   committed-date="2017-01-05T09:39:18.783374Z"/>
+<entry
+   name="reportTeamDetailAdd.js"
+   checksum="e551328fc479aceb0cf1a8686338f15c"
+   last-author="huangshouxi"
+   text-time="2017-01-05T09:39:18.783000Z"
+   committed-rev="2445"
+   kind="file"
+   committed-date="2017-01-05T09:39:18.783374Z"/>
+<entry
+   name="teamRecruit.js"
+   checksum="a3b999d3f1afe19242fbb9aac18c0aab"
+   last-author="huangshouxi"
+   text-time="2016-11-30T09:41:42.862000Z"
+   committed-rev="1673"
+   kind="file"
+   committed-date="2016-11-30T09:41:42.862088Z"/>
+</wc-entries>

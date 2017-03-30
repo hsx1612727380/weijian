@@ -1,0 +1,132 @@
+.personal {
+	min-height: 74%;
+	box-sizing: border-box;
+}
+
+.personal .autstate {
+	width: 100%;
+	border-bottom: 1px solid #C0C0C0;
+	font:bold 18px sans-serif;
+}
+.personal .autstate ul{
+	margin: 0;
+	padding: 0;
+}
+.personal .autstate li{
+	float: left;
+	padding: 0 20px;
+	height: 50px;
+	line-height: 50px;
+	box-sizing: border-box;
+}
+.personal .autstate li a{
+	color: #003366;
+}
+.personal .autstate li:hover {
+	border-bottom: 3px solid #27AE61;
+}
+.personal .autstate li:hover a{
+	color: #58D68D;
+}
+.personal .condition {
+	margin-top: 20px;
+	padding-bottom: 10px;
+	width: 100%;
+}
+.personal .condition td{
+	padding: 0 10px;
+}
+.personal .condition td input,.personal .condition td select{
+	width: 180px;
+}
+.personal .condition div {
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 82px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	display: inline-block;
+}
+.personal .condition div a{
+	color: white;
+}
+.personal .searchtype{
+	width: 100%;
+	margin-top: 20px;
+	background-color: #999;
+}
+.personal .searchtype th{
+	background-color: #4488FF;
+	font-weight: normal;
+	color: white;
+	height: 30px;
+	box-sizing: border-box;
+	padding: 3px 2px;
+}
+.personal .searchtype td{
+	text-align: center;
+	background-color: white;
+	height: 30px;
+}
+.personal .searchtype td:last-of-type{
+	width: 100px;
+}
+.personal .searchtype td div{
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 75px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	margin: 0 auto;
+}
+.personal .searchtype td div a{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	color: white;
+}
+.personal .searchtype .files,.personal .searchtype .submit{
+	float: left;
+	height: 18px;
+	width: 18px;
+	border: 0 none;
+	border-radius: 5px;
+	background: url(../../images/file.png) no-repeat center center;
+	background-color: #3399FF;
+	position: relative;
+	cursor: pointer;
+	margin: 0 2px;
+}
+.personal .searchtype .submit{
+	background: url(../../images/submi.png) no-repeat center center;
+	background-color: #3399FF;
+}
+.personal .searchtype .files input,.personal .searchtype .submit input{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+    right: 0;
+    top: 0;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    cursor: pointer;
+}
+.personal .tabfooter{
+	margin-top: 10px;
+	text-align: center;
+}
+.personal .tabfooter button{
+	background-color: transparent;
+	border: 0 none;
+	cursor: pointer;
+}

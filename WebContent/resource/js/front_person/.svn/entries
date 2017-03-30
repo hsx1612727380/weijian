@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2881"
+   last-author="zhengss"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/resource/js/front_person"
+   committed-rev="2878"
+   kind="dir"
+   committed-date="2017-02-27T09:08:05.042243Z"/>
+<entry
+   name="applyTeam.js"
+   checksum="88ccc9a23c5057ebc59bcdb7fba4bc8a"
+   last-author="mayu"
+   text-time="2016-12-19T17:05:28.371000Z"
+   committed-rev="2107"
+   kind="file"
+   committed-date="2016-12-19T17:05:28.371370Z"/>
+<entry
+   name="front_person"
+   kind="dir"/>
+<entry
+   name="front_person_file.js"
+   checksum="50030d296254e2ba4746b2d7ff478c3b"
+   last-author="zhengss"
+   committed-rev="2878"
+   text-time="2017-02-27T09:08:05.042000Z"
+   kind="file"
+   committed-date="2017-02-27T09:08:05.042243Z"/>
+<entry
+   name="front_person_print.js"
+   checksum="0cea495220133c7d4cc13d94cc2c06cc"
+   last-author="zhengss"
+   committed-rev="2870"
+   text-time="2017-02-25T08:23:31.492000Z"
+   kind="file"
+   committed-date="2017-02-25T08:23:31.492778Z"/>
+<entry
+   name="front_team_recuited.js"
+   checksum="839be782f6c17ac2abd25a30e5eda131"
+   last-author="zhengss"
+   committed-rev="2878"
+   text-time="2017-02-27T09:08:05.042000Z"
+   kind="file"
+   committed-date="2017-02-27T09:08:05.042243Z"/>
+<entry
+   name="idperson.js"
+   checksum="0cfa71ce2c3c03a8cc3a65a2e7f56235"
+   last-author="zhengss"
+   committed-rev="2786"
+   text-time="2017-02-21T07:38:20.792000Z"
+   kind="file"
+   committed-date="2017-02-21T07:38:20.792515Z"/>
+<entry
+   name="passModify.js"
+   checksum="71e099e05ceab6f5ac0bbcd384e6aa43"
+   last-author="mayu"
+   text-time="2016-12-02T02:23:45.457000Z"
+   committed-rev="1722"
+   kind="file"
+   committed-date="2016-12-02T02:23:45.457141Z"/>
+<entry
+   name="person_left_handler.js"
+   checksum="b447069e2eb906942b4c621db49b0d5f"
+   last-author="zhengss"
+   committed-rev="2767"
+   text-time="2017-02-17T08:29:49.561000Z"
+   kind="file"
+   committed-date="2017-02-17T08:29:49.561246Z"/>
+<entry
+   name="skillType.js"
+   checksum="2dd59e4a1a77988aab9eb23b28e4c4ce"
+   last-author="ruankai"
+   text-time="2016-11-15T05:46:01.125000Z"
+   committed-rev="1282"
+   kind="file"
+   committed-date="2016-11-15T05:46:01.125545Z"/>
+<entry
+   name="teamApplyProject.js"
+   checksum="6d5ccef2c5d6443f83565a1aff3daa4d"
+   last-author="ruankai"
+   committed-rev="2565"
+   text-time="2017-01-15T06:24:23.112000Z"
+   kind="file"
+   committed-date="2017-01-15T06:24:23.112381Z"/>
+</wc-entries>

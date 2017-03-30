@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2827"
+   last-author="huangshouxi"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/src/exceltemplate"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2574"
+   kind="dir"
+   committed-date="2017-01-15T15:50:37.609079Z"/>
+<entry
+   name="recordAccrecord.xml"
+   checksum="03f59766307eb593d610554303bea3f6"
+   last-author="huangshouxi"
+   text-time="2017-01-15T05:40:25.151000Z"
+   committed-rev="2574"
+   kind="file"
+   committed-date="2017-01-15T15:50:37.609000Z"/>
+<entry
+   name="recordAttendence.xml"
+   checksum="e70cf7542e54aa6cbe8ec6e5f0bf7feb"
+   last-author="huangshouxi"
+   text-time="2017-01-15T07:25:54.862000Z"
+   committed-rev="2574"
+   kind="file"
+   committed-date="2017-01-15T15:50:37.609000Z"/>
+<entry
+   name="recordSalary.xml"
+   checksum="d238d106d4e8214e5758386dc9645f4c"
+   last-author="huangshouxi"
+   committed-rev="2561"
+   text-time="2017-01-14T07:58:14.824000Z"
+   kind="file"
+   committed-date="2017-01-15T03:35:43.631000Z"/>
+<entry
+   name="reportME.xml"
+   checksum="0a28e84c842f2da3bac702180db4e160"
+   last-author="huangshouxi"
+   text-time="2017-01-12T08:04:29.671000Z"
+   committed-rev="2529"
+   kind="file"
+   committed-date="2017-01-12T15:29:12.061000Z"/>
+<entry
+   name="reportMEDetail.xml"
+   checksum="4fbe073ae8154801ccf7a8c3077c5daa"
+   last-author="huangshouxi"
+   committed-rev="2534"
+   text-time="2017-01-13T10:57:20.654000Z"
+   kind="file"
+   committed-date="2017-01-13T16:18:13.904000Z"/>
+<entry
+   name="reportTeam.xml"
+   checksum="5adad95d73580ea52a6b81c3fcf89fd7"
+   last-author="huangshouxi"
+   text-time="2017-01-12T06:32:10.682000Z"
+   committed-rev="2526"
+   kind="file"
+   committed-date="2017-01-12T09:20:03.014000Z"/>
+<entry
+   name="reportTeamDetail.xml"
+   checksum="8992a57f079b8d1e8a20e5a2c01cd2dc"
+   last-author="huangshouxi"
+   text-time="2017-01-13T02:05:09.357000Z"
+   committed-rev="2532"
+   kind="file"
+   committed-date="2017-01-13T08:26:27.773000Z"/>
+<entry
+   name="rosterME.xml"
+   checksum="aeceec58c348650e0f8873a25ec5c6bb"
+   last-author="huangshouxi"
+   text-time="2017-01-12T08:04:45.813000Z"
+   committed-rev="2526"
+   kind="file"
+   committed-date="2017-01-12T09:20:03.014000Z"/>
+<entry
+   name="rosterProject.xml"
+   checksum="ae3ee94894caba7eb7dfc8a226bd2bc0"
+   last-author="huangshouxi"
+   committed-rev="2526"
+   text-time="2017-01-12T06:32:25.525000Z"
+   kind="file"
+   committed-date="2017-01-12T09:20:03.014000Z"/>
+<entry
+   name="rosterUser.xml"
+   checksum="fd725876b8c0303b9faba56fce22ada6"
+   last-author="huangshouxi"
+   text-time="2017-01-12T06:32:31.178000Z"
+   committed-rev="2526"
+   kind="file"
+   committed-date="2017-01-12T09:20:03.014000Z"/>
+</wc-entries>

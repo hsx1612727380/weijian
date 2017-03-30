@@ -1,0 +1,72 @@
+.personal {
+	min-height: 74%;
+	box-sizing: border-box;
+}
+.personal>div {
+	box-sizing: border-box;
+	padding: 14px 0 11px;
+}
+.personal .autstate {
+	width: 100%;
+	border-bottom: 1px solid #C0C0C0;
+	font:bold 18px sans-serif;
+}
+.personal .detail>div,.personal .detail>ul {
+	float: left;
+}
+.personal .detailbar {
+	padding: 0;
+	border-radius: 10px;
+	width: 170px;
+	margin: 0 0 0 30px;
+}
+.personal .detailbar>li{
+	box-sizing: border-box;
+	height: 40px;
+	line-height: 40px;
+	background-color: #E7F1F9;
+	padding-left: 20px;
+}
+.personal .detailbar>li a{
+	display: inline-block;
+	width: 100%;
+	color: #555555;
+}
+.personal .detailbar>li a:hover{
+	color: #0088E6;
+}
+.personal .detailright{
+	width: 800px;
+	margin-left: 95px;
+	background-color: #E7F1F9;
+	box-sizing: border-box;
+	padding: 15px 100px;
+	border-radius: 15px;
+	margin-bottom: 20px;
+}
+.detailright .groupform,.detailright .groupmenber{
+	font:700 18px sans-serif;
+	color: #555555;
+}
+.detailright .groupdetail,.detailright .menberdata{
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.detailright .groupdetail tr td:first-child{
+	width: 80px;
+	height: 30px;
+	padding-right: 30px;
+	text-align: right;
+}
+.detailright .menberdata,.detailright .groupmenber{
+	margin-top: 20px;
+}
+.detailright .menberdata {
+	background-color: #d9d9d9;
+}
+.detailright .menberdata td,.detailright .menberdata th{
+	text-align: center;
+	background-color: white;
+	width: 25%;
+	height: 25px;
+}

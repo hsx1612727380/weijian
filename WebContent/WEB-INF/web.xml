@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+	<display-name></display-name>
+	<servlet>
+		<servlet-name>start</servlet-name>
+		<servlet-class>com.fengyun.web.page.ServletInit</servlet-class>
+		<load-on-startup>0</load-on-startup>
+	</servlet>
+	
+	<servlet>  
+        <servlet-name>log4j config file</servlet-name>  
+        <servlet-class>com.fengyun.web.page.Log4jInitServlet</servlet-class>  
+        <init-param>  
+            <param-name>configfile</param-name>  
+            <param-value>/WEB-INF/classes/log4j.properties</param-value>  
+        </init-param>  
+           
+        <load-on-startup>1</load-on-startup>  
+    </servlet>  
+	
+	<!-- 监听spring上下文容器 -->
+	<listener>
+		<listener-class>
+			org.springframework.web.context.ContextLoaderListener
+		</listener-class>
+	</listener>
+	
+	<!-- 加载spring的xml配置文件到 spring的上下文容器中 -->
+	<context-param>
+		<param-name>contextConfigLocation</param-name>
+		<param-value>classpath:root-context.xml</param-value>
+	</context-param>
+	
+	<!-- 配置Spring MVC DispatcherServlet -->
+	<servlet>
+		<servlet-name>MVC</servlet-name>
+		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+		<!-- 初始化参数 -->
+		<init-param>
+			<!-- 加载SpringMVC的xml到 spring的上下文容器中 -->
+			<param-name>contextConfigLocation</param-name>
+			<param-value>
+				/WEB-INF/classes/mvc*.*
+			</param-value>
+		</init-param>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+
+	<!-- 配置DispatcherServlet所需要拦截的 url -->
+	<servlet-mapping>
+		<servlet-name>MVC</servlet-name>
+		<url-pattern>*.html</url-pattern>
+	</servlet-mapping>
+
+	<filter>
+		<filter-name>CharacterEncodingFilter</filter-name>
+			<filter-class>com.fengyun.web.filter.CharacterEncodingFilter</filter-class>
+		<init-param>
+		    <param-name>encoding</param-name>
+			<param-value>UTF-8</param-value>
+	   </init-param>
+ 	</filter>
+	 <filter-mapping>
+		<filter-name>CharacterEncodingFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	 </filter-mapping>  
+	<filter>
+		<filter-name>Loginfilter</filter-name>
+			<filter-class>com.fengyun.web.filter.LoginOverdueFilter</filter-class>
+ 	</filter>
+ 	
+	<filter-mapping>
+		<filter-name>Loginfilter</filter-name>
+		
+		<!-- 材料商、设备商 -->
+		<url-pattern>/material/*</url-pattern>
+		<url-pattern>/equipment/*</url-pattern>
+		<!-- 工人、劳务班组 -->
+		<url-pattern>/person.html</url-pattern>
+		<url-pattern>/modifyPassForm.html</url-pattern>
+		<url-pattern>/personGroup.html</url-pattern>
+		<url-pattern>/personAttendance.html</url-pattern>
+		<url-pattern>/personIORecord.html</url-pattern>
+		<url-pattern>/personSalary.html</url-pattern>
+		<url-pattern>/teamFile.html</url-pattern>
+		<url-pattern>/applyTeamPersonForm.html</url-pattern>
+		<url-pattern>/TeamInvitePersonForm.html</url-pattern>
+		<url-pattern>/recruitTeamProjectForm.html</url-pattern>
+		<url-pattern>/inviteTeamProjectForm.html</url-pattern>
+		<url-pattern>/teamApplyForProject.html</url-pattern>
+		<url-pattern>/personRecruit.html</url-pattern>
+		<url-pattern>/teamProject.html</url-pattern>
+		<url-pattern>/personFile.html</url-pattern>
+		<url-pattern>/createTeam.html</url-pattern>
+		<url-pattern>/personApplyTeamForm.html</url-pattern>
+		<url-pattern>/personInvite.html</url-pattern>
+		<url-pattern>/personResume.html</url-pattern>
+		<url-pattern>/company_info.html</url-pattern>
+		<url-pattern>/company_member.html</url-pattern>
+		<url-pattern>/company_credit.html</url-pattern>
+		<url-pattern>/company_project.html</url-pattern>
+		<url-pattern>/company_compact.html</url-pattern>
+		<url-pattern>/company_message.html</url-pattern>
+		<!-- 拦截请求类型: 直接请求、转发请求、页面引入式请求、以及错误提示页面请求 -->
+		<dispatcher>REQUEST</dispatcher><!-- 默认模式 -->
+	 	<dispatcher>FORWARD</dispatcher>
+	 	<dispatcher>INCLUDE</dispatcher>
+	 	<dispatcher>ERROR</dispatcher> 
+	</filter-mapping>
+	<!-- 后台过滤 -->
+	<filter>
+		<filter-name>BackgroundLoginfilter</filter-name>
+			<filter-class>com.fengyun.web.filter.BackgroundLoginOverdueFilter</filter-class>
+ 	</filter>
+	<filter-mapping>
+		<filter-name>BackgroundLoginfilter</filter-name>
+			<url-pattern>/admin_index.html</url-pattern>
+			<!-- 拦截请求类型: 直接请求、转发请求、页面引入式请求、以及错误提示页面请求 -->
+			<dispatcher>REQUEST</dispatcher><!-- 默认模式 -->
+	  		<dispatcher>FORWARD</dispatcher>
+	  		<dispatcher>INCLUDE</dispatcher>
+	  		<dispatcher>ERROR</dispatcher> 
+	</filter-mapping>
+	<listener>   
+		<listener-class>   
+			com.fengyun.web.filter.SessionCounter   
+		</listener-class>   
+	</listener>  
+	
+	<listener>   
+		<listener-class>   
+			com.fengyun.web.filter.TomcatListener  
+		</listener-class>   
+	</listener>
+	
+	<session-config>
+		<session-timeout>30</session-timeout>
+	</session-config>
+	
+	<welcome-file-list>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>index.html</welcome-file>
+	</welcome-file-list>
+	
+	
+	
+	
+	
+
+	<error-page>
+    <error-code>404</error-code>
+	    <location>/404.html</location>
+	</error-page>
+</web-app>

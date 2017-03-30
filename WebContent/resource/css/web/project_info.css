@@ -1,0 +1,62 @@
+.personal {
+	min-height: 74%;
+}
+.personal .projecttype{
+	padding: 0;
+	margin-top: 0;
+	padding-top: 20px;
+	margin-bottom: 50px;
+}
+.personal .projecttype li{
+	float: left;
+	margin-right: 7px;
+	height: 25px;
+	line-height: 25px;
+	border-radius: 5px;
+	text-align: center;
+	padding: 0 8px;
+}
+.personal .projecttype .search{
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 75px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	margin: 0 auto;
+}
+.personal li.entype{
+	background-color: #3399FF;
+	color: white;
+	padding: 0;
+	cursor: default;
+	padding: 0 8px;
+}
+.personal table{
+	width: 100%;
+	background-color: #D9D9D9;
+}
+.personal table th{
+	background-color: #F1F1F1;
+	padding: 8px;
+}
+.personal table td{
+	text-align: center;
+	padding: 8px;
+}
+.personal .tabfooter {
+	margin-top: 10px;
+	text-align: center;
+}
+.personal .tabfooter button{
+	background-color: transparent;
+	border: 0 none;
+	cursor: pointer;
+}
+.fcolor {
+	color: #4488FF;
+}

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2865"
+   last-author="mayu"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/company"
+   committed-rev="2863"
+   kind="dir"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="aptitude_add.jsp"
+   checksum="2e6956888f31099cb5c24686e8c11103"
+   last-author="wangqi"
+   text-time="2016-12-16T08:03:25.003000Z"
+   committed-rev="2070"
+   kind="file"
+   committed-date="2016-12-16T08:03:25.003097Z"/>
+<entry
+   name="aptitude_modify.jsp"
+   checksum="988987d596babdc14f05ec67f33e204b"
+   last-author="wangqi"
+   text-time="2016-12-16T08:03:25.003000Z"
+   committed-rev="2070"
+   kind="file"
+   committed-date="2016-12-16T08:03:25.003097Z"/>
+<entry
+   name="behavior_add.jsp"
+   checksum="1688fed7c83b1ca9cc0f97f62d510487"
+   last-author="wangqi"
+   text-time="2016-12-16T08:03:25.003000Z"
+   committed-rev="2070"
+   kind="file"
+   committed-date="2016-12-16T08:03:25.003097Z"/>
+<entry
+   name="behavior_modify.jsp"
+   checksum="77602aa7febacdbb5363cdb5777fb4b4"
+   last-author="wangqi"
+   text-time="2016-12-16T08:03:25.003000Z"
+   committed-rev="2070"
+   kind="file"
+   committed-date="2016-12-16T08:03:25.003097Z"/>
+<entry
+   name="company_add.jsp"
+   checksum="ab1b1481eb726d438d490a7f020e398f"
+   last-author="wangqi"
+   committed-rev="2609"
+   text-time="2017-01-16T09:34:42.058000Z"
+   kind="file"
+   committed-date="2017-01-16T09:34:42.058982Z"/>
+<entry
+   name="company_list.jsp"
+   checksum="9ea689ee49ffc2a43e1030a3d5aec638"
+   last-author="wangqi"
+   committed-rev="2780"
+   text-time="2017-02-21T06:31:13.616000Z"
+   kind="file"
+   committed-date="2017-02-21T06:31:13.616555Z"/>
+<entry
+   name="company_modify.jsp"
+   checksum="4c16380e203704b1874008e41d312664"
+   last-author="wangqi"
+   committed-rev="2609"
+   text-time="2017-01-16T09:34:42.058000Z"
+   kind="file"
+   committed-date="2017-01-16T09:34:42.058982Z"/>
+<entry
+   name="company_projectlist.jsp"
+   checksum="dea00395037e8a42f0103eaecea44137"
+   last-author="wangqi"
+   text-time="2017-02-14T08:27:28.210000Z"
+   committed-rev="2734"
+   kind="file"
+   committed-date="2017-02-14T08:27:28.210235Z"/>
+<entry
+   name="engineer_add.jsp"
+   checksum="e109786bf51c9e9d52f04dcaf2a818ba"
+   last-author="wangqi"
+   text-time="2016-12-16T08:03:25.003000Z"
+   committed-rev="2070"
+   kind="file"
+   committed-date="2016-12-16T08:03:25.003097Z"/>
+<entry
+   name="engineer_modify.jsp"
+   checksum="e66b59cfe772f6f88209e05c4d827c71"
+   last-author="wangqi"
+   text-time="2016-12-16T08:03:25.003000Z"
+   committed-rev="2070"
+   kind="file"
+   committed-date="2016-12-16T08:03:25.003097Z"/>
+<entry
+   name="front_company_regsiter.jsp"
+   checksum="5e6176afc326ebd4e8c20ab0e4a7e137"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+</wc-entries>

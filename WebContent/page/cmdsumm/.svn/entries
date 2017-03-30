@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2865"
+   last-author="wangqi"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/cmdsumm"
+   committed-rev="2357"
+   kind="dir"
+   committed-date="2016-12-29T06:29:34.257606Z"/>
+<entry
+   name="cmdsumm_list.jsp"
+   checksum="369ca2282333dd585fb3274060524f1c"
+   last-author="wangqi"
+   text-time="2016-12-29T02:06:43.359000Z"
+   committed-rev="2350"
+   kind="file"
+   committed-date="2016-12-29T02:06:43.359743Z"/>
+<entry
+   name="cmdsumm_time.jsp"
+   checksum="ded0b90bcd4d1565261446e18b7e2e0a"
+   last-author="wangqi"
+   text-time="2016-12-20T15:05:18.153000Z"
+   committed-rev="2140"
+   kind="file"
+   committed-date="2016-12-20T15:05:18.153906Z"/>
+<entry
+   name="persondetail_add.jsp"
+   checksum="68c0ab393bbe55240d411c465e083b5e"
+   last-author="wangqi"
+   text-time="2016-12-27T01:37:03.219000Z"
+   committed-rev="2232"
+   kind="file"
+   committed-date="2016-12-27T01:37:03.219663Z"/>
+<entry
+   name="persondetail_list.jsp"
+   checksum="ca1a71204bbd2c0e61d871fc8de9ef91"
+   last-author="wangqi"
+   text-time="2016-12-27T01:37:11.009000Z"
+   committed-rev="2233"
+   kind="file"
+   committed-date="2016-12-27T01:37:11.009644Z"/>
+<entry
+   name="personsummary_add.jsp"
+   checksum="290e87cdccb30adb41d862a1b3fbe1f9"
+   last-author="wangqi"
+   text-time="2016-12-22T05:33:01.724000Z"
+   committed-rev="2184"
+   kind="file"
+   committed-date="2016-12-22T05:33:01.724255Z"/>
+<entry
+   name="personsummary_list.jsp"
+   checksum="a499bcd99e33ad84b2e31894ff49473b"
+   last-author="wangqi"
+   text-time="2016-12-29T02:06:43.359000Z"
+   committed-rev="2350"
+   kind="file"
+   committed-date="2016-12-29T02:06:43.359743Z"/>
+<entry
+   name="supplierdetail_add.jsp"
+   checksum="a3afed0650ba9a129ac54986d8e71281"
+   last-author="wangqi"
+   text-time="2016-12-16T08:03:16.748000Z"
+   committed-rev="2069"
+   kind="file"
+   committed-date="2016-12-16T08:03:16.748671Z"/>
+<entry
+   name="supplierdetail_list.jsp"
+   checksum="0b3d6cc65d8ac68d14a1efb317721ce5"
+   last-author="wangqi"
+   text-time="2016-12-29T02:06:43.359000Z"
+   committed-rev="2350"
+   kind="file"
+   committed-date="2016-12-29T02:06:43.359743Z"/>
+<entry
+   name="suppliersummary_add.jsp"
+   checksum="05c414af30116f440864994c46bd38d7"
+   last-author="wangqi"
+   text-time="2016-12-29T06:29:27.884000Z"
+   committed-rev="2356"
+   kind="file"
+   committed-date="2016-12-29T06:29:27.884437Z"/>
+<entry
+   name="suppliersummary_list.jsp"
+   checksum="43de928f5245d7eff90c5b3cd84b78e8"
+   last-author="wangqi"
+   text-time="2016-12-29T06:29:34.257000Z"
+   committed-rev="2357"
+   kind="file"
+   committed-date="2016-12-29T06:29:34.257606Z"/>
+</wc-entries>

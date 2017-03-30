@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2827"
+   last-author="ruankai"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/src/com/fengyun/web/db/vo"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2448"
+   kind="dir"
+   committed-date="2017-01-06T00:41:11.599123Z"/>
+<entry
+   name="AdlevelVo.java"
+   checksum="5935d658b0fea4270bb7c480308ff855"
+   last-author="huangshouxi"
+   committed-rev="1262"
+   text-time="2016-11-14T15:03:04.402000Z"
+   kind="file"
+   committed-date="2016-11-14T15:03:04.402244Z"/>
+<entry
+   name="EquipmentCommentVo.java"
+   checksum="ff53b3c05810ce119df09452b282ef0c"
+   last-author="huangshouxi"
+   committed-rev="1716"
+   text-time="2016-12-01T12:19:07.852000Z"
+   kind="file"
+   committed-date="2016-12-01T12:19:07.852835Z"/>
+<entry
+   name="MaterialCommentVo.java"
+   checksum="8e83ef1a56a497a1e310cfc9ee596920"
+   last-author="huangshouxi"
+   committed-rev="1716"
+   text-time="2016-12-01T12:19:07.852000Z"
+   kind="file"
+   committed-date="2016-12-01T12:19:07.852835Z"/>
+<entry
+   name="MaterialEquipmentRosterVo.java"
+   checksum="a64d1d55818f5ee449012a25965b2d26"
+   last-author="huangshouxi"
+   committed-rev="2382"
+   text-time="2016-12-31T09:47:25.589000Z"
+   kind="file"
+   committed-date="2016-12-31T09:47:25.589248Z"/>
+<entry
+   name="ProjectVo.java"
+   checksum="c0ec2e6666de4bfc1c7c8c42dfdd9910"
+   last-author="ruankai"
+   committed-rev="2448"
+   text-time="2017-01-06T00:41:11.599000Z"
+   kind="file"
+   committed-date="2017-01-06T00:41:11.599123Z"/>
+<entry
+   name="RequirementsVo.java"
+   checksum="7d61e72fe91a858a1f1f465b4e22c6fb"
+   last-author="huangshouxi"
+   committed-rev="2092"
+   text-time="2016-12-19T11:38:06.666000Z"
+   kind="file"
+   committed-date="2016-12-19T11:38:06.666685Z"/>
+<entry
+   name="SkillVo.java"
+   checksum="d8bf9b66d8978a3e5583567694e9344f"
+   last-author="mayu"
+   committed-rev="852"
+   text-time="2016-10-27T11:19:40.749000Z"
+   kind="file"
+   committed-date="2016-10-27T11:19:40.749190Z"/>
+<entry
+   name="TeamAttendenceInfoVo.java"
+   checksum="2b7f29cd230bc962b9715cc12f17d840"
+   last-author="huangshouxi"
+   committed-rev="1931"
+   text-time="2016-12-12T13:41:55.615000Z"
+   kind="file"
+   committed-date="2016-12-12T13:41:55.615122Z"/>
+<entry
+   name="TeamCommentVo.java"
+   checksum="cf72c033fc2362d9f01cdfa2ac4b76ee"
+   last-author="huangshouxi"
+   committed-rev="1716"
+   text-time="2016-12-01T12:19:07.852000Z"
+   kind="file"
+   committed-date="2016-12-01T12:19:07.852835Z"/>
+<entry
+   name="TeamSkillSmallTypeVo.java"
+   checksum="0bc44ade892283c0e50e87a8588401be"
+   last-author="huangshouxi"
+   committed-rev="1673"
+   text-time="2016-11-30T09:41:42.862000Z"
+   kind="file"
+   committed-date="2016-11-30T09:41:42.862088Z"/>
+<entry
+   name="TimeVo.java"
+   checksum="e5617fd617f82655d888f804397c0a9a"
+   last-author="mayu"
+   committed-rev="852"
+   text-time="2016-10-27T11:19:40.749000Z"
+   kind="file"
+   committed-date="2016-10-27T11:19:40.749190Z"/>
+<entry
+   name="TotalVo.java"
+   checksum="1d7cc4f482b97f909eb6d711ea50ef88"
+   last-author="wangqi"
+   committed-rev="1552"
+   text-time="2016-11-24T08:05:58.867000Z"
+   kind="file"
+   committed-date="2016-11-24T08:05:58.867385Z"/>
+<entry
+   name="UserCmdSummDetailVo.java"
+   checksum="9978ca4e1242dcfd39a1d95654dde74c"
+   last-author="huangshouxi"
+   committed-rev="2334"
+   text-time="2016-12-28T08:39:53.798000Z"
+   kind="file"
+   committed-date="2016-12-28T08:39:53.798481Z"/>
+<entry
+   name="UserTeamRosterVo.java"
+   checksum="a3daa99ee51fb46e312965cd05624848"
+   last-author="huangshouxi"
+   committed-rev="2379"
+   text-time="2016-12-31T03:20:02.612000Z"
+   kind="file"
+   committed-date="2016-12-31T03:20:02.612016Z"/>
+</wc-entries>

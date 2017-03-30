@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2827"
+   last-author="mayu"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/src/com/fengyun/web/timer"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="139"
+   kind="dir"
+   committed-date="2016-09-22T09:35:46.102139Z"/>
+<entry
+   name="BaseTimerTask.java"
+   checksum="068dd058dfaac58dd8e1417826acd50c"
+   last-author="mayu"
+   committed-rev="139"
+   text-time="2016-09-22T09:35:46.102000Z"
+   kind="file"
+   committed-date="2016-09-22T09:35:46.102139Z"/>
+<entry
+   name="OnlineQtyTask.java"
+   checksum="6c7e3493b53ea6b48f49e49859ab9a7c"
+   last-author="mayu"
+   committed-rev="139"
+   text-time="2016-09-22T09:35:46.102000Z"
+   kind="file"
+   committed-date="2016-09-22T09:35:46.102139Z"/>
+<entry
+   name="ResetTask.java"
+   checksum="642d8ac06652bd5357ef90778fb6406a"
+   last-author="mayu"
+   committed-rev="139"
+   text-time="2016-09-22T09:35:46.102000Z"
+   kind="file"
+   committed-date="2016-09-22T09:35:46.102139Z"/>
+<entry
+   name="TimerServer.java"
+   checksum="1e25503263a139c00b63d99c5ed98ae9"
+   last-author="mayu"
+   committed-rev="139"
+   text-time="2016-09-22T09:35:46.102000Z"
+   kind="file"
+   committed-date="2016-09-22T09:35:46.102139Z"/>
+</wc-entries>

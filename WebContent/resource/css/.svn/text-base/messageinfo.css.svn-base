@@ -1,0 +1,151 @@
+.personal {
+	min-height: 74%;
+}
+.personal>ul{
+	margin: 0;
+	padding: 0;
+	float: left;
+	margin: 20px 0 40px;
+}
+.personal .info_l{
+	border-right: 1px solid #D9D9D9;
+	width: 150px;
+	height: 700px;
+}
+.personal .info_l li{
+	text-align: center;
+	font-weight: 700;
+	font-size: 16px;
+	padding-bottom: 10px;
+}
+.personal .info_l li>div{
+	font-weight: normal;
+	cursor: pointer;
+	display: inline-block;
+	width: 100%;
+}
+.personal .info_l li>div>div{
+	display: none;
+	padding-top: 5px;
+}
+.personal .info_l li a{
+	font-weight: normal;
+	font-size: 14px;
+	display: inline-block;
+	width: 100%;
+}
+.personal .info_l li a:hover{
+	color: red;
+}
+.personal .info_r{
+	margin-left: 50px;
+	width: 900px;
+}
+.personal .info_r li{
+	padding: 10px 10px 30px;
+	color: #333;
+}
+.personal .info_r .info_title{
+	font-weight: 700;
+	font-size: 20px;
+	height: 40px;
+	border-bottom: 1px solid #DADADA;
+	background-color: white;
+	padding-bottom: 0;
+}
+.personal .info_r .info_title span{
+	font-size: 14px;
+}
+.personal .info_r h4{
+	margin: 0;
+	height: 30px;
+	color: #00529C;
+	line-height: 30px;
+}
+.personal .info_r h4 a{
+	color: #00529C;
+}
+.personal .info_r p{
+	margin: 0;
+	font-size: 14px;
+}
+.personal .info_r .info_detail{
+	width: 635px;
+	margin-left: 40px;
+}
+.personal .info_r .info_mess{
+	font-size: 13px;
+	height: 21px;
+	float: right;
+}
+.personal .info_r .info_mess a{
+	margin-left: 10px;
+	color: #2FA1A6;
+}
+.notice,.info_de{
+	position: absolute;
+	width: 500px;
+	top: 40%;
+	left: 50%;
+	margin-left: -250px;
+	box-sizing: border-box;
+	display: none;
+	z-index: 100;
+	background-color: white;
+}
+.notice p span,.info_de p span{
+	position: absolute;
+	top: -25px;
+	right: -12px;
+	color: darkred;
+	font-size: 26px;
+	cursor: pointer;
+}
+.notice p,.info_de p{
+	margin: 0;
+	position: relative;
+	font-size: 14px;
+}
+.notice{
+	padding: 15px;
+}
+.notice h3{
+	margin: 0;
+	font-size: 14px;
+	padding: 10px 0;
+	text-align: center;
+	width: 100%;
+}
+.info_de{
+	padding: 20px;
+}
+.info_de p{
+	text-align: center;
+	font-size: 16px;
+	margin: 0;
+}
+.info_de a{
+	text-align: center;
+	width: 40px;
+	height: 25px;
+	line-height: 25px;
+	display: inline-block;
+	margin: 20px 5px 0;
+	font-size: 12px;
+}
+.info_de .info_sure{
+	background-color: #00529C;
+	color: white;
+}
+.info_de .info_cancel{
+	background-color: #E6E6E6;
+}
+.personal .tabfooter {
+	margin-top: 10px;
+	text-align: center;
+}
+.personal .tabfooter button{
+	background-color: transparent;
+	border: 0 none;
+	cursor: pointer;
+}

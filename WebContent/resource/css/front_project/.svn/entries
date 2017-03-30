@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2827"
+   last-author="mayu"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/resource/css/front_project"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2038"
+   kind="dir"
+   committed-date="2016-12-15T06:48:35.342494Z"/>
+<entry
+   name="idprincipal.css"
+   checksum="fd1143902eff296b90125a35528fd264"
+   last-author="mayu"
+   committed-rev="2038"
+   text-time="2016-12-15T06:48:35.342000Z"
+   kind="file"
+   committed-date="2016-12-15T06:48:35.342494Z"/>
+<entry
+   name="principalaudit.css"
+   checksum="7f0e7012065f7b591d8e14db3cb7ed00"
+   last-author="mayu"
+   committed-rev="2038"
+   text-time="2016-12-15T06:48:35.342000Z"
+   kind="file"
+   committed-date="2016-12-15T06:48:35.342494Z"/>
+<entry
+   name="principalinvite.css"
+   checksum="75dbcc6568d839d2ecb92b45c0636131"
+   last-author="mayu"
+   committed-rev="2038"
+   text-time="2016-12-15T06:48:35.342000Z"
+   kind="file"
+   committed-date="2016-12-15T06:48:35.342494Z"/>
+<entry
+   name="principallog.css"
+   checksum="f11b94dc55af10aa22afab879fada119"
+   last-author="mayu"
+   committed-rev="2038"
+   text-time="2016-12-15T06:48:35.342000Z"
+   kind="file"
+   committed-date="2016-12-15T06:48:35.342494Z"/>
+<entry
+   name="principalmanage.css"
+   checksum="c362adb74d2a56caafec3447dcbc8e5b"
+   last-author="mayu"
+   committed-rev="2038"
+   text-time="2016-12-15T06:48:35.342000Z"
+   kind="file"
+   committed-date="2016-12-15T06:48:35.342494Z"/>
+<entry
+   name="principalneed.css"
+   checksum="29f84e071ac515047d7a8863465db9df"
+   last-author="mayu"
+   committed-rev="2038"
+   text-time="2016-12-15T06:48:35.342000Z"
+   kind="file"
+   committed-date="2016-12-15T06:48:35.342494Z"/>
+<entry
+   name="principalrecruit.css"
+   checksum="a4e1ced63fe9421c9e953c226e10d918"
+   last-author="mayu"
+   committed-rev="1608"
+   text-time="2016-11-28T03:13:27.090000Z"
+   kind="file"
+   committed-date="2016-11-28T03:13:27.090492Z"/>
+</wc-entries>

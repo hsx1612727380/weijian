@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<excel id="reportTeamDetail" code="reportTeamDetail" name="供应商(材料或设备商)明细表导入">
+    <colgroup>
+        <col index="A" width='10em'></col>
+        <col index="B" width='15em'></col>
+        <col index="C" width='15em'></col>
+        <col index="D" width='10em'></col>
+        <col index="E" width='10em'></col>
+        <col index="F" width='10em'></col>
+        <col index="G" width='10em'></col>
+        <col index="H" width='10em'></col>
+        <col index="I" width='10em'></col>
+        <col index="J" width='10em'></col>
+        <col index="K" width='10em'></col>
+        <col index="L" width='10em'></col>
+        <col index="M" width='10em'></col>
+        <col index="N" width='10em'></col>
+        <col index="O" width='10em'></col>
+        <col index="P" width='10em'></col>
+        <col index="Q" width='17em'></col>
+        <col index="R" width='17em'></col>
+        <col index="S" width='17em'></col>
+        <col index="T" width='20em'></col>
+        <col index="U" width='12em'></col>
+        <col index="V" width='17em'></col>
+    </colgroup>
+    <title>
+        <tr height="16px">
+            <td rowspan="1" colspan="22" value="供应商(材料或设备商)明细表导入" />
+        </tr>
+    </title>
+    <thead>
+        <tr height="16px">
+            <th value="经办人" />
+            <th value="名称或规格或型号" />
+            <th value="支付账号和凭证" />
+            <th value="单位" />
+            <th value="次数" />
+            <th value="预算量" />
+            <th value="数量" />
+            <th value="单价" /> 
+            <th value="小计" />
+            <th value="预付款" />
+            <th value="本次入库量" />
+            <th value="累计入库量" />
+            <th value="本次付款" />
+            <th value="累计付款" /> 
+            <th value="其他款" />
+            <th value="余款" />
+            <th value="资料情况" />
+            <th value="发票情况" />
+            <th value="结算情况" />
+            <th value="用途" />
+            <th value="质量" />
+            <th value="备注" />
+        </tr>
+    </thead>
+    <tbody>
+        <tr height="16px" firstrow="2" firstcol="0" repeat="100">
+            <td type="string" isnullable="false" maxlength="30" />
+            <td type="string" isnullable="false" maxlength="30" />
+            <td type="string" isnullable="false" maxlength="30" />
+            <td type="string" isnullable="false" maxlength="30" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="string" isnullable="false" maxlength="100" />
+            <td type="string" isnullable="false" maxlength="100" />
+            <td type="string" isnullable="false" maxlength="100" />
+            <td type="string" isnullable="false" maxlength="100" />
+            <td type="string" isnullable="false" maxlength="100" />
+            <td type="string" isnullable="false" maxlength="100" />
+        </tr>
+    </tbody>
+</excel>

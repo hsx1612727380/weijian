@@ -1,0 +1,171 @@
+.personal {
+	min-height: 74%;
+	box-sizing: border-box;
+}
+.personal>div {
+	box-sizing: border-box;
+	padding: 14px 0 11px;
+}
+.personal .autstate {
+	width: 100%;
+	border-bottom: 1px solid #C0C0C0;
+	font:bold 18px sans-serif;
+}
+.personal .detail>div,.personal .detail>ul {
+	float: left;
+}
+.personal .detailbar {
+	padding: 0;
+	border-radius: 10px;
+	width: 170px;
+	margin: 0 0 0 30px;
+}
+.personal .detailbar>li{
+	box-sizing: border-box;
+	height: 40px;
+	line-height: 40px;
+	background-color: #E7F1F9;
+	padding-left: 20px;
+}
+.personal .detailbar>li a{
+	display: inline-block;
+	width: 100%;
+	color: #555555;
+}
+.personal .detailbar>li a:hover{
+	color: #0088E6;
+}
+.personal .detailright{
+	width: 800px;
+	margin-left: 95px;
+	background-color: #E7F1F9;
+	box-sizing: border-box;
+	padding: 15px 30px;
+	border-radius: 15px;
+	margin-bottom: 20px;
+	font-size: 14px;
+}
+.detailright .groupform,.detailright .groupmenber{
+	font:700 18px sans-serif;
+	color: #555555;
+}
+.detailright .groupform>span{
+	display: inline-block;
+	width: 200px;
+}
+.detailright .groupdetail,.detailright .menberdata{
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.detailright .certificate {
+	margin-bottom: 50px;
+	margin-top: 20px;
+}
+.detailright .certificate table{
+	background-color: #999;
+	width: 100%;
+}
+.detailright .certificate th{
+	background-color: white;
+	height: 30px;
+}
+.detailright .certificate td{
+	background-color: white;
+	text-align: center;
+	height: 30px;
+}
+.detailright .groupdetail tr td:first-child{
+	width: 80px;
+	height: 30px;
+	padding-right: 30px;
+	text-align: right;
+}
+.detailright .menberdata,.detailright .groupmenber{
+	margin-top: 20px;
+}
+.detailright .menberdata {
+	background-color: #999;
+}
+.detailright .menberdata td,.detailright .menberdata th{
+	text-align: center;
+	background-color: white;
+	width: 25%;
+	height: 25px;
+}
+.detailright .add{
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 82px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	display: inline-block;
+	margin-left: 100px;
+}
+.mask{
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	top: 0;
+	background-color: rgba(0,0,0,0.2);
+	display: none;
+	z-index: 20;
+	
+}
+.creditinfo {
+	width: 500px;
+	position: fixed;
+	top: 20%;
+	left: 50%;
+	margin-left: -250px;
+	z-index: 30;
+	background-color: white;
+	text-align: center;
+	display: none;
+}
+.creditinfo div{
+	height: 40px;
+	margin-top: 20px;
+}
+.creditinfo span{
+	margin-right: 40px;
+	width: 80px;
+	text-align: left;
+	display: inline-block;
+}
+.creditinfo button,.creditinfo .submit{
+	margin-right: 30px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 82px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+}
+.creditinfo .submit{
+	margin-right: 0;
+}
+.X{
+	position: absolute;
+	top: 5px;
+	right: 7px;
+	font-size: 25px;
+	font-weight: bold;
+	color: darkred;
+	line-height: 14px;
+	cursor: pointer;
+}
+.selected{
+	background-color: rgba(54, 146, 223,0.7);
+}
+.selected a{
+	color: white;
+}

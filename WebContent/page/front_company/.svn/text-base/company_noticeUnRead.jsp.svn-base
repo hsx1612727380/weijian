@@ -1,0 +1,123 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%
+	String path = request.getContextPath();
+	String basePath = request.getScheme() + "://"
+			+ request.getServerName() + ":" + request.getServerPort()
+			+ path + "/";
+%>
+
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<title>微建平台</title>
+	<link rel="stylesheet" type="text/css" href="<%=basePath%>/resource/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" href="<%=basePath%>/resource/css/common.css" />
+	<link rel="stylesheet" type="text/css" href="<%=basePath%>/resource/css/messageinfo.css"/>
+</head>
+
+<body>
+	<jsp:include page="../top.jsp" flush="true" />
+	<div class="title">
+		<div class="content">
+			<span><a href="<%=basePath%>person.html"><img src="<%=basePath%>/resource/images/home.png"/></a>
+			<a href='<%=basePath%>person.html' style="color: #FFFFFF;">${companyModel.name}</a></span>
+		</div>
+	</div>
+	<div class="content personal">
+		<input type="hidden" id="companyId" name="companyId" value="${companyModel.id }"/>
+		<ul class="info_l">
+			<li>消息中心</li>
+			<li><a href="">收信箱</a></li>
+			<li><a href="company_notice.html">公告<c:if test="${count > 0 }">(${count })</c:if></a></li>
+		</ul>
+		<ul class="info_r">
+			<c:if test="${count > 0 }">
+				<li  class="info_title"><div>系统未读消息<span>（共${count }条）</span></div></li>
+				<c:forEach items="${unReadNoticeModels }" var="unReadNoticeModel">
+					<li>
+						<p class="info_detail">${unReadNoticeModel.noticeTitle }</p>
+						<p class="info_mess">${unReadNoticeModel.createTimeStr }<a href="#">查看</a></p>
+					</li>
+				</c:forEach>
+				<div class="tabfooter">
+					<button>首页</button>
+					<button>上一页</button>
+					<span>当前有</span>
+					<span>1</span><span>/</span><span>1</span>
+					<span>页</span>
+					<button>下一页</button>
+					<button>尾页</button>
+				</div>
+			</c:if>
+			<c:if test="${count <= 0 }">
+				<li  class="info_title"><div>系统未读消息无</div></li>
+			</c:if>
+		</ul>
+		
+		<ul class="info_r">
+			<c:if test="${readCount > 0 }">
+				<li  class="info_title"><div>系统已读消息<span>（共${readCount }条）</span></div></li>
+				<c:forEach items="${readNoticeModels }" var="readNoticeModel">
+					<p class="info_detail">${readNoticeModel.noticeTitle }</p>
+					<p class="info_mess">${readNoticeModel.createTimeStr }<a href="#">查看</a></p>
+				</c:forEach>
+				<div class="tabfooter">
+					<button>首页</button>
+					<button>上一页</button>
+					<span>当前有</span>
+					<span>1</span><span>/</span><span>1</span>
+					<span>页</span>
+					<button>下一页</button>
+					<button>尾页</button>
+				</div>
+			</c:if>
+			<c:if test="${readCount <= 0 }">
+				<li  class="info_title"><div>系统已读消息无</div></li>
+			</c:if>
+		</ul>
+	</div>
+		
+		
+		<%-- 公告列表
+		<table border="1">
+			<tr>
+				<th>序号</th>
+				<th>公告标题</th>
+				<th>创建时间</th>
+			</tr>
+			<c:forEach items="${noticeModels }"  var="noticeModel" varStatus="status">
+				<tr>
+					<td>${status.index + 1 }</td>
+					<td><a href="company_notice.html?nId=${noticeModel.id }&cId=${companyModel.id }">${noticeModel.noticeTitle }</a></td>
+					<td>${noticeModel.createTimeStr }</td>
+				</tr>
+			</c:forEach>
+		</table>
+		
+				
+	</div> --%>
+	<jsp:include page="../down.jsp" flush="true" />
+		
+	<script src="<%=basePath%>/resource/js/jquery-1.12.3.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="<%=basePath%>/resource/js/qianmain.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+			$('.info_r li:odd').css({ backgroundColor: '#F1F1F1' });
+			$('.mess_del').on('click', function() {
+				$('.mask').show();
+				$('.info_de').show();
+			})
+			$('.info_de span').on('click', function() {
+				$('.mask').hide();
+				$(this).parent().parent().hide();
+			})
+			$('.info_cancel').on('click', function() {
+				$('.mask').hide();
+				$(this).parent().parent().hide();
+			})
+		</script>
+</body>
+
+</html>

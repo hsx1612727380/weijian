@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2865"
+   last-author="mayu"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/admin"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2863"
+   kind="dir"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="admin_addForm.jsp"
+   checksum="1c8261589a2b85f125870a2f35fde947"
+   last-author="wangqi"
+   committed-rev="2838"
+   text-time="2017-02-23T07:47:28.956000Z"
+   kind="file"
+   committed-date="2017-02-23T07:47:28.956855Z"/>
+<entry
+   name="admin_index.jsp"
+   checksum="35906a46f02b47af65d71cd695ca36c6"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="admin_list.jsp"
+   checksum="7a97c91c87563595c316232856dd5c2d"
+   last-author="wangqi"
+   committed-rev="2838"
+   text-time="2017-02-23T07:47:28.956000Z"
+   kind="file"
+   committed-date="2017-02-23T07:47:28.956855Z"/>
+<entry
+   name="admin_right.jsp"
+   checksum="06cac1314821a47060049db3733f215a"
+   last-author="mayu"
+   committed-rev="397"
+   text-time="2016-10-12T11:28:41.449000Z"
+   kind="file"
+   committed-date="2016-10-12T11:28:41.449526Z"/>
+<entry
+   name="checkAdmin.jsp"
+   checksum="a60957d1ac35bf6afc97aeb9ceec1806"
+   last-author="wangqi"
+   committed-rev="2608"
+   text-time="2017-01-16T09:34:29.076000Z"
+   kind="file"
+   committed-date="2017-01-16T09:34:29.076150Z"/>
+<entry
+   name="showAdmin.jsp"
+   checksum="48db75959d0ebac2f53c9bd5f5c0ccf5"
+   last-author="wangqi"
+   committed-rev="2838"
+   text-time="2017-02-23T07:47:28.956000Z"
+   kind="file"
+   committed-date="2017-02-23T07:47:28.956855Z"/>
+<entry
+   name="showPersonAdmin.jsp"
+   checksum="573a82bcec50e973b1254791b03d6eb0"
+   last-author="wangqi"
+   committed-rev="2608"
+   text-time="2017-01-16T09:34:29.076000Z"
+   kind="file"
+   committed-date="2017-01-16T09:34:29.076150Z"/>
+</wc-entries>

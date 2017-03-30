@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<excel id="rosterUser" code="rosterUser" name="工人花名册导入">
+    <colgroup>
+        <col index="A" width='17em'></col>
+        <col index="B" width='15em'></col>
+        <col index="C" width='7em'></col>
+        <col index="D" width='10em'></col>
+        <col index="E" width='20em'></col>
+        <col index="F" width='25em'></col>
+        <col index="G" width='17em'></col>  
+    </colgroup>
+    <title>
+        <tr height="16px">
+            <td rowspan="1" colspan="7" value="工人花名册导入" />
+        </tr>
+    </title>
+    <thead>
+        <tr height="16px">
+        	<th value="班组名称" />
+        	<th value="姓名" />
+            <th value="性别" />
+            <th value="技术类别" />
+            <th value="身份证号" />
+            <th value="住址" />
+            <th value="手机号" />            
+        </tr>
+    </thead>
+    <tbody>
+        <tr height="16px" firstrow="2" firstcol="0" repeat="100">
+         	<td type="string" isnullable="false" maxlength="20" />
+            <td type="string" isnullable="false" maxlength="20" />
+            <td type="enum" isnullable="true" format="男,女" />
+            <td type="enum" isnullable="true" format="土建,管理,安装,其他" />
+            <!-- <td type="enum" isnullable="true" format="101:瓦工班,102:木工班,103:钢筋班,104:混凝土班,105:油漆班,106:防水班,107:装饰装修班,108:机械设备班,109:架子班,110:外架租赁,111:铝模班,112:普工班,113:铝合金班,114:石方爆破班,115:古建筑装饰班,116:园林绿化班,117:地基基础班,201:项目经理,202:施工员,203:安全员,204:资料员,205:测量员,206:造价员,207:质量员,208:材料员,209:机械员,210:监理,211:工程师,212:投标员,213:执行经理,214:生产经理,215:BIMB技术员,216:商务经理,301:电气设备班,302:给排水班,303:消防安装班,304:通风空调班,305:弱电安装班,306:燃气安装班,307:电梯安装班,308:钢结构安装班,309:幕墙安装班,401:塔吊司机,402:塔吊指挥,403:吊车司机,404:司索工,405:电焊工,406:保安,407:后勤,408:劳务队" />--><td type="string" isnullable="false" maxlength="18" />
+            <td type="string" isnullable="false" maxlength="50" />
+            <td type="string" isnullable="false" maxlength="11" />
+        </tr>
+    </tbody>
+</excel>

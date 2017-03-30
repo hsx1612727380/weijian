@@ -1,0 +1,32 @@
+(function($){
+	$(function(){
+		$('.smallimg').on('click',function(){
+			$(this).parent().siblings().find('.baseeditinput').show();
+			$(this).parent().siblings().find('.baseedits').hide();
+			$(this).parent().parent().siblings('.columnthree').find('.baseeditinput').show();
+		});
+		$('.editimgone').on('click',function(){
+			$(this).parent().parent().find('.baseeditinput').show();
+			$(this).parent().parent().find('.baseedits').hide();
+			$(this).parent().parent().parent().parent().parent().siblings('.columnthree').find('.baseeditinput').show();
+		});
+		$('.editimgtwo').on('click',function(){
+			$(this).parent().parent().find('textarea').show();
+			$(this).parent().parent().find('.des').hide();
+			$(this).parent().parent().siblings('.columnthree').find('.baseeditinput').show();
+		});
+		$('.subcancel').on('click',function(){
+			$(this).parent().siblings().find('.baseedits').show();
+			$(this).parent().siblings().find('.baseeditinput').hide();
+			$(this).parent().find('.baseeditinput').hide();
+		});
+		$('.addimg').on('click',function(){
+			$('#'+$(this).data('value')).show();
+			$('.mask').show();
+		});
+		$('.addcancel').on('click',function(){
+			$(this).parent().parent().hide();
+			$('.mask').hide();
+		});
+	});
+})(jQuery);

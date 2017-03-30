@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2865"
+   last-author="wangqi"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/merchant"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2673"
+   kind="dir"
+   committed-date="2017-02-06T08:05:12.399936Z"/>
+<entry
+   name="merchant_add.jsp"
+   checksum="649bad2ab5b05aefa22428054dc651dc"
+   last-author="wangqi"
+   text-time="2017-02-06T08:05:00.417000Z"
+   committed-rev="2672"
+   kind="file"
+   committed-date="2017-02-06T08:05:00.417087Z"/>
+<entry
+   name="merchant_form.jsp"
+   checksum="e1c7e667b14e17757a0ecc87379e8967"
+   last-author="wangqi"
+   text-time="2017-02-06T08:05:12.399000Z"
+   committed-rev="2673"
+   kind="file"
+   committed-date="2017-02-06T08:05:12.399936Z"/>
+<entry
+   name="merchant_list.jsp"
+   checksum="449cc3906ded650d13f00f41af0d0117"
+   last-author="wangqi"
+   committed-rev="2161"
+   text-time="2016-12-21T07:48:39.060000Z"
+   kind="file"
+   committed-date="2016-12-21T07:48:39.060798Z"/>
+<entry
+   name="merchant_modify.jsp"
+   checksum="164db62abd922b80179312809c4950b2"
+   last-author="wangqi"
+   committed-rev="1780"
+   text-time="2016-12-05T06:41:39.130000Z"
+   kind="file"
+   committed-date="2016-12-05T06:41:39.130403Z"/>
+<entry
+   name="person_add.jsp"
+   checksum="a253ede9086fc1aead644f27e347562c"
+   last-author="wangqi"
+   text-time="2017-02-06T08:05:12.399000Z"
+   committed-rev="2673"
+   kind="file"
+   committed-date="2017-02-06T08:05:12.399936Z"/>
+<entry
+   name="person_form.jsp"
+   checksum="650815d91b8b82f95dc6bd2831c19ea9"
+   last-author="wangqi"
+   committed-rev="1994"
+   text-time="2016-12-14T14:09:31.253000Z"
+   kind="file"
+   committed-date="2016-12-14T14:09:31.253348Z"/>
+<entry
+   name="person_list.jsp"
+   checksum="c4efd6b7cd282413890d810292f9bc42"
+   last-author="wangqi"
+   committed-rev="2073"
+   text-time="2016-12-16T08:03:51.831000Z"
+   kind="file"
+   committed-date="2016-12-16T08:03:51.831404Z"/>
+<entry
+   name="person_modify.jsp"
+   checksum="dbb4e41bfe1c3a7f2910af6edee1c80f"
+   last-author="wangqi"
+   committed-rev="2408"
+   text-time="2017-01-04T02:06:02.049000Z"
+   kind="file"
+   committed-date="2017-01-04T02:06:02.049013Z"/>
+<entry
+   name="teamCredit_add.jsp"
+   checksum="5c0b4618ecd6b3d3d3d3f600c7bee725"
+   last-author="wangqi"
+   text-time="2017-02-06T08:05:12.399000Z"
+   committed-rev="2673"
+   kind="file"
+   committed-date="2017-02-06T08:05:12.399936Z"/>
+<entry
+   name="teamCredit_form.jsp"
+   checksum="e0df86a7e9caa34ea1cff09394d1c9e4"
+   last-author="wangqi"
+   committed-rev="1993"
+   text-time="2016-12-14T14:09:25.032000Z"
+   kind="file"
+   committed-date="2016-12-14T14:09:25.032764Z"/>
+<entry
+   name="teamCredit_list.jsp"
+   checksum="83f5291fe50f1ead223e1e6c20740cbf"
+   last-author="wangqi"
+   committed-rev="2073"
+   text-time="2016-12-16T08:03:51.831000Z"
+   kind="file"
+   committed-date="2016-12-16T08:03:51.831404Z"/>
+<entry
+   name="teamCredit_modify.jsp"
+   checksum="1c42346f6d3b3a2fab5144bb37d124e8"
+   last-author="wangqi"
+   committed-rev="2073"
+   text-time="2016-12-16T08:03:51.831000Z"
+   kind="file"
+   committed-date="2016-12-16T08:03:51.831404Z"/>
+</wc-entries>

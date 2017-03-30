@@ -1,0 +1,111 @@
+.textcontent.content {
+	min-height: 74%;
+	box-sizing: border-box;
+	padding-top: 20px;
+}
+
+.textcontent.content label {
+	margin-left: 13px;
+}
+
+.textcontent.content input,
+.textcontent.content select {
+	width: 90px;
+}
+
+.textcontent .search {
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 75px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	float: right;
+	margin-right: 27px;
+}
+.textcontent .particulars{
+	width: 100%;
+}
+.textcontent .particulars>ul,.textcontent .particulars>div{
+	float: left;
+	margin-top: 40px;
+}
+.textcontent .particulars>ul{
+	padding: 0;
+	border: 1px #e6e6e6 solid;
+	width: 210px;
+	margin-left: 20px;
+}
+.textcontent .particulars .infomation{
+	color: white;
+	background-color: #4684D9;
+	font-size: 20px;
+	font-weight: bold;
+	border: none;
+	cursor: default;
+}
+.textcontent .particulars li{
+	height: 34px;
+	line-height: 34px;
+	box-sizing: border-box;
+	padding-left: 20px;
+	border-bottom: 1px dashed #e8e7ec;
+}
+.textcontent .particulars li a{
+	font-size: 14px;
+	color: #333;
+}
+.textcontent .particulars>div{
+	float: right;
+	width: 75%;
+	padding-right: 10px;
+}
+.textcontent table {
+	width: 100%;
+	background-color: #D9D9D9;
+}
+
+.textcontent table th {
+	background-color: #4488ff;
+	padding: 8px;
+	color: white;
+	cursor: default;
+}
+
+.textcontent table td {
+	text-align: center;
+	padding: 8px;
+	background-color: white;
+}
+
+.textcontent .tabfooter {
+	margin-top: 10px;
+	text-align: center;
+}
+
+.textcontent .tabfooter button {
+	background-color: transparent;
+	border: 0 none;
+	cursor: pointer;
+}
+
+.textcontent .employ {
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 75px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	margin: 0 auto;
+}
+.fcolor {
+	color: #4488FF;
+}

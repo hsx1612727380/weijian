@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2865"
+   last-author="mayu"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/front_company"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2863"
+   kind="dir"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="company.jsp"
+   checksum="b0f5f22d91e77f8ad8df9aa48ac1aa81"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="company_compact.jsp"
+   checksum="94c99989d1316a72d1fec249a7f0605d"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="company_compactAdd.jsp"
+   revision="2886"
+   checksum="cfa1dccd3dc0fe26224a486315cd9c7a"
+   last-author="huangshouxi"
+   text-time="2017-02-28T03:50:30.596000Z"
+   committed-rev="2886"
+   kind="file"
+   committed-date="2017-02-28T06:38:56.820000Z"/>
+<entry
+   name="company_compactUpdate.jsp"
+   checksum="73fa8eef6baa5bd5a0eb08f99bb80a68"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="company_credit.jsp"
+   checksum="23e8bc62da55c95fce3b3726ca6c24bb"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="company_creditAdd.jsp"
+   checksum="5fc594818813f6385d2dbeecb012337f"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="company_creditUpdate.jsp"
+   checksum="3036eccdf573f294ae8bc5b50f57e70d"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="company_detailProject.jsp"
+   checksum="eeb38fc5d52de1eb31d1a3700202d685"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="company_info.jsp"
+   checksum="b9bb7362498b6de8df2b0a8cdbc9f7e7"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="company_infoPwdUpdate.jsp"
+   checksum="9a4ce9cabe92f9c4d45f71e34b2e8cdf"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="company_infoUpdate.jsp"
+   checksum="4aa3d8b6f2e0c9ff7e929a3460b773f1"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="company_member.jsp"
+   checksum="4326c71080ffa9ccd25964f2a019eecc"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="company_memberAdd.jsp"
+   checksum="9a21e6998052edb6769d64c337c2e40e"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="company_memberUpdate.jsp"
+   checksum="9fd95e70f233859e9296e776f0aa164b"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="company_message.jsp"
+   revision="2882"
+   checksum="448b2aca4e00b1a7899e73716c40547c"
+   last-author="huangshouxi"
+   committed-rev="2882"
+   text-time="2017-02-28T02:00:56.853000Z"
+   kind="file"
+   committed-date="2017-02-28T03:00:44.134000Z"/>
+<entry
+   name="company_notice.jsp"
+   revision="2882"
+   checksum="1a5d347da51679da7470da18815e6f9a"
+   last-author="huangshouxi"
+   text-time="2017-02-27T08:59:27.290000Z"
+   committed-rev="2882"
+   kind="file"
+   committed-date="2017-02-28T03:00:44.134000Z"/>
+<entry
+   name="company_project.jsp"
+   checksum="926f94c064cfe33ea68b526324338e41"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="company_projectAdd.jsp"
+   checksum="74c852fe304d2f178819ccc520e0d08e"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="company_projectChart.jsp"
+   checksum="a88ad8844a645a2a8a5567af13e0c151"
+   last-author="mayu"
+   text-time="2017-02-25T05:41:46.902000Z"
+   committed-rev="2863"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+</wc-entries>

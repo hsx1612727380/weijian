@@ -1,0 +1,12 @@
+.manage table td {
+	text-align:left;
+}
+.manage table th {
+	text-align:center;
+	font-weight:500;
+	font-size:16px;
+}
+.manage table button{
+	background-color:darkgreen;
+	cursor:pointer;
+}

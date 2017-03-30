@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2827"
+   last-author="zhengss"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/src/com/fengyun/web/hardcode"
+   committed-rev="2820"
+   kind="dir"
+   committed-date="2017-02-22T08:20:50.663641Z"/>
+<entry
+   name="Area.java"
+   checksum="66bd1fbe2d361651db600342b70e4a90"
+   last-author="mayu"
+   text-time="2016-10-14T10:24:00.321000Z"
+   committed-rev="455"
+   kind="file"
+   committed-date="2016-10-14T10:24:00.321597Z"/>
+<entry
+   name="EAdlevel.java"
+   checksum="ee43f5319f97b671f7e1ad5f352ee1b1"
+   last-author="wangqi"
+   text-time="2016-11-11T03:07:54.839000Z"
+   committed-rev="1202"
+   kind="file"
+   committed-date="2016-11-11T03:07:54.839245Z"/>
+<entry
+   name="EAdtype.java"
+   checksum="1a8237b91a77fb18f8450857cecfb135"
+   last-author="wangqi"
+   text-time="2016-11-11T03:07:54.839000Z"
+   committed-rev="1202"
+   kind="file"
+   committed-date="2016-11-11T03:07:54.839245Z"/>
+<entry
+   name="EScore.java"
+   checksum="59447e50bab44df5f1f6fdb77877d3ac"
+   last-author="zhengss"
+   text-time="2016-12-13T15:43:07.962000Z"
+   committed-rev="1961"
+   kind="file"
+   committed-date="2016-12-13T15:43:07.962741Z"/>
+<entry
+   name="ESessionKey.java"
+   checksum="f6b35a2a0731010a3712324ee249ad88"
+   last-author="wangqi"
+   committed-rev="2604"
+   text-time="2017-01-16T09:33:36.979000Z"
+   kind="file"
+   committed-date="2017-01-16T09:33:36.979570Z"/>
+<entry
+   name="ETeamSkillBigType.java"
+   checksum="0ec3837ebbdb312f7d9970e4ac796a1e"
+   last-author="wangqi"
+   text-time="2016-10-17T14:06:08.679000Z"
+   committed-rev="500"
+   kind="file"
+   committed-date="2016-10-17T14:06:08.679092Z"/>
+<entry
+   name="ETeamSkillSmallType.java"
+   checksum="3b6996947d13d2727b72ae8d6d87bb66"
+   last-author="huangshouxi"
+   text-time="2017-01-10T15:28:47.034000Z"
+   committed-rev="2509"
+   kind="file"
+   committed-date="2017-01-10T15:28:47.034067Z"/>
+<entry
+   name="EUserStatus.java"
+   checksum="2c67d9d6bb848bb029935442d55ec944"
+   last-author="mayu"
+   text-time="2016-09-22T15:41:54.887000Z"
+   committed-rev="150"
+   kind="file"
+   committed-date="2016-09-22T15:41:54.887979Z"/>
+<entry
+   name="IMageUploadInfo.java"
+   checksum="deaa4bc89704a19ae71f555ea6834d1d"
+   last-author="zhengss"
+   text-time="2017-02-22T08:20:50.663000Z"
+   committed-rev="2820"
+   kind="file"
+   committed-date="2017-02-22T08:20:50.663641Z"/>
+<entry
+   name="UserType.java"
+   revision="2843"
+   checksum="8ca7a258fd4e1cde2b7a9f261d927a84"
+   last-author="huangshouxi"
+   text-time="2017-02-23T05:41:14.662000Z"
+   committed-rev="2843"
+   kind="file"
+   committed-date="2017-02-23T08:42:57.254000Z"/>
+</wc-entries>

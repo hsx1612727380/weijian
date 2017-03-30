@@ -1,0 +1,121 @@
+.personal {
+	min-height: 84%;
+	box-sizing: border-box;
+}
+.title>.content>span{
+	display: inline;
+	margin-right: 10px;
+}
+.title>.content>span img{
+	vertical-align: middle;
+}
+.personal .autstate {
+	width: 100%;
+	border-bottom: 1px solid #C0C0C0;
+	font:bold 18px sans-serif;
+}
+.personal .autstate ul{
+	margin: 0;
+	padding: 0;
+}
+.personal .autstate li{
+	float: left;
+	padding: 0 9px;
+	height: 50px;
+	line-height: 50px;
+	box-sizing: border-box;
+}
+.personal .autstate li a{
+	color: #003366;
+}
+.personal .autstate li:hover {
+	border-bottom: 3px solid #27AE61;
+}
+.personal .autstate li:hover a{
+	color: #58D68D;
+}
+.personal .detail>div,.personal .detail>ul {
+	float: left;
+}
+
+.personal .detailright{
+	width: 1140px;
+	padding-top: 10px;
+	margin-bottom: 20px;
+	box-sizing: border-box;
+	padding: 15px;
+	border-radius: 15px;
+}
+.personal form{
+	margin-left: 30px;
+}
+.personal form input,.personal form select,.personal input {
+	padding:2px 10px;
+	border: 1px solid lightslategray;
+	border-radius: 4px;
+	box-sizing: border-box;
+	width: 180px;
+}
+.personal  label,.personal form>label{
+	display: inline-block;
+	width: 180px;
+	text-align: right;
+	padding:0 25px;
+}
+.personal .detailright>div,.personal form>div {
+	margin-bottom: 25px;
+}
+.personal .team>div {
+	margin-bottom: 25px;
+}
+.personal .quit{
+	display: none;
+}
+.personal .quit>div{
+	margin-bottom: 25px;
+}
+.personal .quit ul{
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+}
+.personal .quit li{
+	float: left;
+	height: 15px;
+}
+.personal .quit li img{
+	cursor: pointer;
+	
+}
+.personal input.identy {
+	display: inline-block;
+	height: 25px;
+	text-align: center;
+	width: 82px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	margin-left: 400px;
+}
+.personal .intitle{
+	font-size: 20px;
+	font-weight: bold;
+	height: 50px;
+}
+.personal .cancel {
+	display: inline-block;
+	height: 25px;
+	text-align: center;
+	width: 82px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	margin-left: 50px;
+	padding: 0;
+}

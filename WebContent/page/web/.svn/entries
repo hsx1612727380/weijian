@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2865"
+   last-author="mayu"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/web"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2863"
+   kind="dir"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="company"
+   kind="dir"/>
+<entry
+   name="info"
+   kind="dir"/>
+<entry
+   name="job"
+   kind="dir"/>
+<entry
+   name="other"
+   kind="dir"/>
+<entry
+   name="project"
+   kind="dir"/>
+<entry
+   name="team"
+   kind="dir"/>
+</wc-entries>

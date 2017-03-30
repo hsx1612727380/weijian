@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2827"
+   last-author="huangshouxi"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/resource/css/operate"
+   committed-rev="2713"
+   kind="dir"
+   committed-date="2017-02-13T09:49:46.953028Z"/>
+<entry
+   name="identerprise.css"
+   checksum="dfef2e60404c25733e2792ad612f5f2a"
+   last-author="huangshouxi"
+   text-time="2016-12-13T15:38:56.356000Z"
+   committed-rev="1960"
+   kind="file"
+   committed-date="2016-12-13T15:38:56.356094Z"/>
+<entry
+   name="newoperate.css"
+   checksum="c7d198e11524d0af3ffcb4fbab50aca2"
+   last-author="huangshouxi"
+   text-time="2016-12-19T14:26:49.831000Z"
+   committed-rev="2095"
+   kind="file"
+   committed-date="2016-12-19T14:26:49.831028Z"/>
+<entry
+   name="operate.css"
+   checksum="2e0f5dff3ab3d2d7f23dc6b11d539520"
+   last-author="mayu"
+   text-time="2017-01-09T09:57:43.363000Z"
+   committed-rev="2480"
+   kind="file"
+   committed-date="2017-01-09T09:57:43.363344Z"/>
+<entry
+   name="operateadd.css"
+   checksum="8b6c0e146cf5eeeaada7efc23b181610"
+   last-author="zhengss"
+   committed-rev="2709"
+   text-time="2017-02-09T10:46:27.775000Z"
+   kind="file"
+   committed-date="2017-02-09T10:46:27.775238Z"/>
+<entry
+   name="operateaudit.css"
+   checksum="4391391f126f5e550057357137d7ef93"
+   last-author="mayu"
+   text-time="2017-01-09T09:57:43.363000Z"
+   committed-rev="2480"
+   kind="file"
+   committed-date="2017-01-09T09:57:43.363344Z"/>
+<entry
+   name="operatecostadd.css"
+   checksum="10d946284f021d56653bc40a23d9e320"
+   last-author="huangshouxi"
+   text-time="2016-12-23T00:36:48.455000Z"
+   committed-rev="2200"
+   kind="file"
+   committed-date="2016-12-23T00:36:48.455922Z"/>
+<entry
+   name="operatedemand.css"
+   checksum="03fc29fe34191c18e5a21d5043130254"
+   last-author="huangshouxi"
+   text-time="2016-12-29T15:16:17.534000Z"
+   committed-rev="2369"
+   kind="file"
+   committed-date="2016-12-29T15:16:17.534880Z"/>
+<entry
+   name="operatedemandadd.css"
+   checksum="2cfb1e21b90ec1ea258780eef8c65ebb"
+   last-author="mayu"
+   text-time="2017-01-09T09:57:43.363000Z"
+   committed-rev="2480"
+   kind="file"
+   committed-date="2017-01-09T09:57:43.363344Z"/>
+<entry
+   name="operateenter.css"
+   checksum="a40530dba1912c2f16f9ffe61f327dd2"
+   last-author="mayu"
+   text-time="2017-01-09T09:57:43.363000Z"
+   committed-rev="2480"
+   kind="file"
+   committed-date="2017-01-09T09:57:43.363344Z"/>
+<entry
+   name="operateinfo.css"
+   checksum="7a601594b35190b52ec39cd0e4630484"
+   last-author="huangshouxi"
+   text-time="2017-02-13T06:27:30.549000Z"
+   committed-rev="2713"
+   kind="file"
+   committed-date="2017-02-13T09:49:46.953000Z"/>
+<entry
+   name="operateinvite.css"
+   checksum="5f846279bd26c37dd4a99347cc0782f0"
+   last-author="mayu"
+   text-time="2017-01-09T09:57:43.363000Z"
+   committed-rev="2480"
+   kind="file"
+   committed-date="2017-01-09T09:57:43.363344Z"/>
+<entry
+   name="operatelog.css"
+   checksum="f9153bc8636d8333ff24aebcba08d7cd"
+   last-author="mayu"
+   text-time="2017-01-09T09:57:43.363000Z"
+   committed-rev="2480"
+   kind="file"
+   committed-date="2017-01-09T09:57:43.363344Z"/>
+<entry
+   name="operatemanage.css"
+   checksum="d9932b0e9c40d8749f2f69a6137d6c0d"
+   last-author="huangshouxi"
+   text-time="2017-02-08T08:57:15.068000Z"
+   committed-rev="2710"
+   kind="file"
+   committed-date="2017-02-09T12:05:35.548000Z"/>
+<entry
+   name="operateneed.css"
+   checksum="14cbf27cda101b4012cd746012de2d65"
+   last-author="mayu"
+   text-time="2017-01-09T09:57:43.363000Z"
+   committed-rev="2480"
+   kind="file"
+   committed-date="2017-01-09T09:57:43.363344Z"/>
+<entry
+   name="operatesafety.css"
+   checksum="d3ab6a076d5afa257d169ca64576182f"
+   last-author="huangshouxi"
+   text-time="2017-02-13T07:01:38.970000Z"
+   committed-rev="2713"
+   kind="file"
+   committed-date="2017-02-13T09:49:46.953000Z"/>
+<entry
+   name="principalaudit.css"
+   checksum="7d5a82ea424b3653febfe28cd5036072"
+   last-author="huangshouxi"
+   text-time="2016-12-13T11:27:11.279000Z"
+   committed-rev="1949"
+   kind="file"
+   committed-date="2016-12-13T11:27:11.279799Z"/>
+<entry
+   name="principalmanage.css"
+   checksum="82627286634efe90e681f0f7a86a8058"
+   last-author="huangshouxi"
+   text-time="2016-12-12T17:09:36.958000Z"
+   committed-rev="1938"
+   kind="file"
+   committed-date="2016-12-12T17:09:36.958246Z"/>
+<entry
+   name="projectadd.css"
+   checksum="a4e1ced63fe9421c9e953c226e10d918"
+   last-author="huangshouxi"
+   text-time="2016-12-13T15:38:56.356000Z"
+   committed-rev="1960"
+   kind="file"
+   committed-date="2016-12-13T15:38:56.356094Z"/>
+<entry
+   name="projectdetail.css"
+   checksum="d430715ea91661ce26ab6df1603a0353"
+   last-author="mayu"
+   text-time="2016-12-15T06:48:47.532000Z"
+   committed-rev="2039"
+   kind="file"
+   committed-date="2016-12-15T06:48:47.532324Z"/>
+<entry
+   name="projectinvited.css"
+   checksum="b30e71df1f599b8c22b91f0ca9ca928f"
+   last-author="huangshouxi"
+   text-time="2016-12-13T15:38:56.356000Z"
+   committed-rev="1960"
+   kind="file"
+   committed-date="2016-12-13T15:38:56.356094Z"/>
+</wc-entries>

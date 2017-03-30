@@ -1,0 +1,114 @@
+.personal {
+	min-height: 84%;
+	box-sizing: border-box;
+}
+.title>.content>span{
+	display: inline;
+	margin-right: 10px;
+}
+.title>.content>span img{
+	vertical-align: middle;
+}
+.personal .autstate {
+	width: 100%;
+	border-bottom: 1px solid #C0C0C0;
+	font:bold 18px sans-serif;
+}
+.personal .autstate ul{
+	margin: 0;
+	padding: 0;
+}
+.personal .autstate li{
+	float: left;
+	padding: 0 9px;
+	height: 50px;
+	line-height: 50px;
+	box-sizing: border-box;
+}
+.personal .autstate li a{
+	color: #003366;
+}
+.personal .autstate li:hover {
+	border-bottom: 3px solid #27AE61;
+}
+.personal .autstate li:hover a{
+	color: #58D68D;
+}
+.personal .persontitle {
+	line-height: 40px;
+}
+.personal .persontitle .filetile{
+	font-size: 18px;
+	font-weight: 700;
+}
+.personal .persontitle>div{
+	float: left;
+}
+.personal .update{
+	margin-left: 30px;
+}
+.personal .update{
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	padding: 0 10px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	margin-top: 7px;
+	display: inline-block;
+}
+.personal .project {
+	margin-left: 20px;
+}
+.personal .project div {
+	float:left;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 82px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	margin-top: 7px;
+	margin-right: 20px;
+}
+.personal table{
+	width: 100%;
+	margin: 20px 0;
+	font-size: 14px;
+	background-color: #999;
+}
+.personal  td{
+	text-align: center;
+	height: 30px;
+	background-color: white;
+}
+.personal  th{
+	background-color: #4488FF;
+	font-weight: normal;
+	color: white;
+	height: 30px;
+	box-sizing: border-box;
+	padding: 3px 2px;
+}
+.personal  td div{
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 82px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	margin-left: 10px;
+	display: inline-block;
+}

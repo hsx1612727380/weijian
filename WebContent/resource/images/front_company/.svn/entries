@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2693"
+   last-author="huangshouxi"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/resource/images/front_company"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="1628"
+   kind="dir"
+   committed-date="2016-11-28T09:59:54.127306Z"/>
+<entry
+   name="add.png"
+   checksum="298d7cdeedb6588f95211c4a15bacdb6"
+   last-author="huangshouxi"
+   committed-rev="1597"
+   text-time="2016-11-26T10:10:17.367000Z"
+   kind="file"
+   committed-date="2016-11-26T10:10:17.367255Z"
+   prop-time="2017-01-11T01:46:33.008000Z"/>
+<entry
+   name="edit.png"
+   checksum="e399eb06e5b194a7e15c0df917f42351"
+   last-author="huangshouxi"
+   committed-rev="1597"
+   text-time="2016-11-26T10:10:17.367000Z"
+   kind="file"
+   committed-date="2016-11-26T10:10:17.367255Z"
+   prop-time="2017-01-11T01:46:32.998000Z"/>
+<entry
+   name="save.png"
+   checksum="0e651924e838c2f436fb86e48cbbc4e1"
+   last-author="huangshouxi"
+   committed-rev="1628"
+   text-time="2016-11-28T09:59:54.127000Z"
+   kind="file"
+   committed-date="2016-11-28T09:59:54.127306Z"
+   prop-time="2017-01-11T01:46:32.983000Z"/>
+<entry
+   name="subcancel.png"
+   checksum="fd86d4daa8e187cc336562927a9ff70c"
+   last-author="huangshouxi"
+   committed-rev="1628"
+   text-time="2016-11-28T09:59:54.127000Z"
+   kind="file"
+   committed-date="2016-11-28T09:59:54.127306Z"
+   prop-time="2017-01-11T01:46:32.990000Z"/>
+</wc-entries>

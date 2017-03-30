@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2865"
+   last-author="wangqi"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/message_system"
+   committed-rev="2837"
+   kind="dir"
+   committed-date="2017-02-23T07:47:05.084185Z"/>
+<entry
+   name="message_add.jsp"
+   checksum="3f30de4f8f13983728b964fc774f44d1"
+   last-author="wangqi"
+   text-time="2017-02-23T07:47:05.084000Z"
+   committed-rev="2837"
+   kind="file"
+   committed-date="2017-02-23T07:47:05.084185Z"/>
+<entry
+   name="message_list.jsp"
+   checksum="4597419552ca87ad66aeda40ff244439"
+   last-author="wangqi"
+   text-time="2017-02-23T07:47:05.084000Z"
+   committed-rev="2837"
+   kind="file"
+   committed-date="2017-02-23T07:47:05.084185Z"/>
+<entry
+   name="notice_add.jsp"
+   checksum="1f13a1114fbb900ed0e94734bc1b28d5"
+   last-author="wangqi"
+   text-time="2017-02-23T07:47:05.084000Z"
+   committed-rev="2837"
+   kind="file"
+   committed-date="2017-02-23T07:47:05.084185Z"/>
+<entry
+   name="notice_list.jsp"
+   checksum="761ab4d3c0f5764e1fb973544a7d5400"
+   last-author="wangqi"
+   text-time="2017-02-23T07:47:05.084000Z"
+   committed-rev="2837"
+   kind="file"
+   committed-date="2017-02-23T07:47:05.084185Z"/>
+</wc-entries>

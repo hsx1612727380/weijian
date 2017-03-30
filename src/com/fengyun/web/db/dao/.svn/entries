@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2865"
+   last-author="zhengss"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/src/com/fengyun/web/db/dao"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2851"
+   kind="dir"
+   committed-date="2017-02-23T11:55:13.330914Z"/>
+<entry
+   name="AccrecordDAO.java"
+   checksum="3c715405f699ccbad6a67be6698fd9d2"
+   last-author="huangshouxi"
+   committed-rev="2713"
+   text-time="2017-02-13T09:23:07.726000Z"
+   kind="file"
+   committed-date="2017-02-13T09:49:46.953000Z"/>
+<entry
+   name="AdminDao.java"
+   checksum="335d737e7b7e6b51a8120ff9afdcc2b6"
+   last-author="wangqi"
+   text-time="2017-01-16T09:33:26.113000Z"
+   committed-rev="2603"
+   kind="file"
+   committed-date="2017-01-16T09:33:26.113326Z"/>
+<entry
+   name="AptitudeDAO.java"
+   checksum="65c9d6f6ee681846a4db47fb7d4cbd0a"
+   last-author="wangqi"
+   committed-rev="1225"
+   text-time="2016-11-14T01:47:45.085000Z"
+   kind="file"
+   committed-date="2016-11-14T01:47:45.085911Z"/>
+<entry
+   name="AttendanceInfoDAO.java"
+   checksum="cffde56f436c749471f966e6a86ae9d1"
+   last-author="huangshouxi"
+   committed-rev="2772"
+   text-time="2017-02-20T03:41:47.031000Z"
+   kind="file"
+   committed-date="2017-02-20T08:23:19.064000Z"/>
+<entry
+   name="BehaviorDAO.java"
+   checksum="aac9ad3fc04bed8c46947ad6b23062ac"
+   last-author="wangqi"
+   committed-rev="1496"
+   text-time="2016-11-23T02:32:01.512000Z"
+   kind="file"
+   committed-date="2016-11-23T02:32:01.512575Z"/>
+<entry
+   name="BidInfoDAO.java"
+   checksum="e2d88dce8e3bdccbfe56bd2e06208839"
+   last-author="wangqi"
+   committed-rev="996"
+   text-time="2016-11-02T06:56:09.980000Z"
+   kind="file"
+   committed-date="2016-11-02T06:56:09.980968Z"/>
+<entry
+   name="CmdSummDAO.java"
+   checksum="7ca04a938e54a3702a7ed8a18ebb4cdb"
+   last-author="huangshouxi"
+   committed-rev="2523"
+   text-time="2017-01-12T03:00:04.619000Z"
+   kind="file"
+   committed-date="2017-01-12T03:50:17.370000Z"/>
+<entry
+   name="CmdSummPersonDAO.java"
+   checksum="612a6b993c0fa76555ea8db6bb4f1e00"
+   last-author="huangshouxi"
+   committed-rev="2532"
+   text-time="2017-01-13T06:10:48.858000Z"
+   kind="file"
+   committed-date="2017-01-13T08:26:27.773000Z"/>
+<entry
+   name="CmdSummSupplierDAO.java"
+   checksum="855f568be3fa659aa5926bc81a917f4f"
+   last-author="huangshouxi"
+   committed-rev="2534"
+   text-time="2017-01-13T14:04:02.337000Z"
+   kind="file"
+   committed-date="2017-01-13T16:18:13.904000Z"/>
+<entry
+   name="CommentsDAO.java"
+   checksum="236485519298eb48b43f80a97f9a6624"
+   last-author="zhengss"
+   committed-rev="2024"
+   text-time="2016-12-14T11:58:11.818000Z"
+   kind="file"
+   committed-date="2016-12-14T11:58:11.818562Z"/>
+<entry
+   name="CompanyCompactDAO.java"
+   checksum="01a58dcb7f26e4590d67c795fcfe5535"
+   last-author="huangshouxi"
+   committed-rev="2678"
+   text-time="2017-02-06T08:12:49.975000Z"
+   kind="file"
+   committed-date="2017-02-06T09:49:25.851000Z"/>
+<entry
+   name="CompanyDAO.java"
+   checksum="3dfc273218ff11c1fc6830cfef4b2118"
+   last-author="huangshouxi"
+   text-time="2017-01-19T08:14:20.658000Z"
+   committed-rev="2647"
+   kind="file"
+   committed-date="2017-01-19T15:08:06.591000Z"/>
+<entry
+   name="EngineerDAO.java"
+   checksum="8f790dded35a6375681d29b267ac3d62"
+   last-author="mayu"
+   text-time="2017-01-15T08:50:33.482000Z"
+   committed-rev="2569"
+   kind="file"
+   committed-date="2017-01-15T08:50:33.482291Z"/>
+<entry
+   name="EquipmentDAO.java"
+   checksum="a41ac34aeee449886b38a21c8033872d"
+   last-author="zhengss"
+   text-time="2017-02-23T11:55:13.330000Z"
+   committed-rev="2851"
+   kind="file"
+   committed-date="2017-02-23T11:55:13.330914Z"/>
+<entry
+   name="EquipmentTradDAO.java"
+   checksum="477bca1ced2a65643e87b6af6e362585"
+   last-author="wangqi"
+   committed-rev="1732"
+   text-time="2016-12-02T03:07:29.482000Z"
+   kind="file"
+   committed-date="2016-12-02T03:07:29.482986Z"/>
+<entry
+   name="JoinBuildDAO.java"
+   checksum="6e6489cccbfd0dbb1352b58932d483a0"
+   last-author="huangshouxi"
+   committed-rev="1643"
+   text-time="2016-11-28T14:55:23.372000Z"
+   kind="file"
+   committed-date="2016-11-28T14:55:23.372467Z"/>
+<entry
+   name="KeyPersonDAO.java"
+   checksum="3e5eb55f33b12228455b7e3a6f7aa68a"
+   last-author="huangshouxi"
+   committed-rev="1643"
+   text-time="2016-11-28T14:55:23.372000Z"
+   kind="file"
+   committed-date="2016-11-28T14:55:23.372467Z"/>
+<entry
+   name="LawInsuDAO.java"
+   checksum="14189cfb8975a3ef6785c8dabe6d69ac"
+   last-author="mayu"
+   committed-rev="1130"
+   text-time="2016-11-09T02:56:34.861000Z"
+   kind="file"
+   committed-date="2016-11-09T02:56:34.861026Z"/>
+<entry
+   name="MaterialDAO.java"
+   checksum="43e11f2bfa680024c06284e13b08f006"
+   last-author="huangshouxi"
+   committed-rev="2518"
+   text-time="2017-01-11T07:10:36.256000Z"
+   kind="file"
+   committed-date="2017-01-11T15:37:47.243000Z"/>
+<entry
+   name="MaterialTradDAO.java"
+   checksum="8bb46beceeaee623e970bffab5b771b6"
+   last-author="wangqi"
+   committed-rev="1733"
+   text-time="2016-12-02T03:07:37.021000Z"
+   kind="file"
+   committed-date="2016-12-02T03:07:37.021756Z"/>
+<entry
+   name="MerchantDAO.java"
+   checksum="45f0c27000f519ea54a03f5ed8864266"
+   last-author="zhengss"
+   committed-rev="1712"
+   text-time="2016-12-01T10:33:45.498000Z"
+   kind="file"
+   committed-date="2016-12-01T10:33:45.498512Z"/>
+<entry
+   name="MessageDAO.java"
+   checksum="e4504af6d0598d51e02931a30453e613"
+   last-author="wangqi"
+   committed-rev="2842"
+   text-time="2017-02-23T08:40:47.112000Z"
+   kind="file"
+   committed-date="2017-02-23T08:40:47.112710Z"/>
+<entry
+   name="ModelTools.java"
+   checksum="9ed9fadeb8f7d539c0f672ac26f72682"
+   last-author="huangshouxi"
+   text-time="2017-02-15T08:37:57.526000Z"
+   committed-rev="2752"
+   kind="file"
+   committed-date="2017-02-16T09:35:21.280000Z"/>
+<entry
+   name="NoticeDAO.java"
+   checksum="1c65353d78e99fefb789e83ce203c9d1"
+   last-author="wangqi"
+   committed-rev="2842"
+   text-time="2017-02-23T08:40:47.112000Z"
+   kind="file"
+   committed-date="2017-02-23T08:40:47.112710Z"/>
+<entry
+   name="NoticeLogDAO.java"
+   checksum="53874e19ade16a5bb7dc249e2ff9e48c"
+   last-author="huangshouxi"
+   text-time="2017-02-16T07:34:57.067000Z"
+   committed-rev="2752"
+   kind="file"
+   committed-date="2017-02-16T09:35:21.280000Z"/>
+<entry
+   name="OperateCompactDAO.java"
+   checksum="1080ba2228ef582d09f080f8ed99651e"
+   last-author="zhengss"
+   committed-rev="2723"
+   text-time="2017-02-14T06:06:32.130000Z"
+   kind="file"
+   committed-date="2017-02-14T06:06:32.130508Z"/>
+<entry
+   name="PayrollRecordDAO.java"
+   checksum="85dce12692ac39509b995119e6135cc4"
+   last-author="huangshouxi"
+   committed-rev="2771"
+   text-time="2017-02-17T11:52:56.235000Z"
+   kind="file"
+   committed-date="2017-02-20T03:30:19.900000Z"/>
+<entry
+   name="PersonDAO.java"
+   checksum="8e10ea6b9331ab7198800aee27243047"
+   last-author="wangqi"
+   committed-rev="2053"
+   text-time="2016-12-15T09:39:05.631000Z"
+   kind="file"
+   committed-date="2016-12-15T09:39:05.631937Z"/>
+<entry
+   name="ProjectDAO.java"
+   checksum="86e7cd7b69b3f654ba52ab156d92f20f"
+   last-author="huangshouxi"
+   committed-rev="2561"
+   text-time="2017-01-14T07:25:51.448000Z"
+   kind="file"
+   committed-date="2017-01-15T03:35:43.631000Z"/>
+<entry
+   name="ProjectDepartmentDAO.java"
+   checksum="ea2b5484ad5cd0f0c3668c75b83253fd"
+   last-author="huangshouxi"
+   committed-rev="2771"
+   text-time="2017-02-17T11:13:06.424000Z"
+   kind="file"
+   committed-date="2017-02-20T03:30:19.900000Z"/>
+<entry
+   name="ProjectProgressDAO.java"
+   checksum="9af6e276ab2ec1bf6622558434fe5159"
+   last-author="zhengss"
+   committed-rev="2149"
+   text-time="2016-12-21T03:34:01.412000Z"
+   kind="file"
+   committed-date="2016-12-21T03:34:01.412377Z"/>
+<entry
+   name="ProjectRosterDao.java"
+   checksum="7ec8a14369badd136b30dbc045d18df0"
+   last-author="huangshouxi"
+   committed-rev="2372"
+   text-time="2016-12-30T14:30:16.421000Z"
+   kind="file"
+   committed-date="2016-12-30T14:30:16.421220Z"/>
+<entry
+   name="RequirementsDAO.java"
+   checksum="0c86f9ff33df25c78e312bdb51397092"
+   last-author="huangshouxi"
+   committed-rev="2092"
+   text-time="2016-12-19T11:38:06.666000Z"
+   kind="file"
+   committed-date="2016-12-19T11:38:06.666685Z"/>
+<entry
+   name="RewardsAndPunishDAO.java"
+   checksum="c3ac3b93cd27e0d1ae1f7cdeb22e339c"
+   last-author="zhengss"
+   committed-rev="1932"
+   text-time="2016-12-12T13:52:46.207000Z"
+   kind="file"
+   committed-date="2016-12-12T13:52:46.207613Z"/>
+<entry
+   name="Tables.java"
+   checksum="de323334d2ae080950badc33d2a9be13"
+   last-author="huangshouxi"
+   committed-rev="2752"
+   text-time="2017-02-15T08:37:13.144000Z"
+   kind="file"
+   committed-date="2017-02-16T09:35:21.280000Z"/>
+<entry
+   name="TeamDAO.java"
+   checksum="ec94157df7267d6ce690642828c2870d"
+   last-author="huangshouxi"
+   committed-rev="2212"
+   text-time="2016-12-23T10:00:52.254000Z"
+   kind="file"
+   committed-date="2016-12-23T10:00:52.254951Z"/>
+<entry
+   name="TeamMemberDAO.java"
+   checksum="bb12eec9fa6a82c1162907b51b8dce18"
+   last-author="zhengss"
+   text-time="2017-02-23T09:32:13.154000Z"
+   committed-rev="2846"
+   kind="file"
+   committed-date="2017-02-23T09:32:13.154729Z"/>
+<entry
+   name="TeamScheduleDAO.java"
+   checksum="0d8daceefa18155dd57d08771d5eff7e"
+   last-author="zhengss"
+   committed-rev="2149"
+   text-time="2016-12-21T03:34:01.412000Z"
+   kind="file"
+   committed-date="2016-12-21T03:34:01.412377Z"/>
+<entry
+   name="UserDAO.java"
+   checksum="914eb54d6562d94b13639fc66949a5c1"
+   last-author="wangqi"
+   text-time="2017-01-16T05:35:55.658000Z"
+   committed-rev="2583"
+   kind="file"
+   committed-date="2017-01-16T05:35:55.658957Z"/>
+</wc-entries>

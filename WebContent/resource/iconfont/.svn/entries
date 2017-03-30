@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2693"
+   last-author="mayu"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/resource/iconfont"
+   committed-rev="1148"
+   kind="dir"
+   committed-date="2016-11-09T06:43:58.099669Z"/>
+<entry
+   name="iconfont.eot"
+   checksum="3e3f87f16b05df3da3e8fb1c7ba060dd"
+   last-author="mayu"
+   text-time="2016-11-09T06:43:58.099000Z"
+   committed-rev="1148"
+   kind="file"
+   committed-date="2016-11-09T06:43:58.099669Z"
+   prop-time="2017-01-11T01:46:29.211000Z"/>
+<entry
+   name="iconfont.svg"
+   checksum="2a840f282a797e3233f01b8cccc42f2d"
+   last-author="mayu"
+   text-time="2016-11-09T06:43:58.099000Z"
+   committed-rev="1148"
+   kind="file"
+   committed-date="2016-11-09T06:43:58.099669Z"/>
+<entry
+   name="iconfont.ttf"
+   checksum="b14f687332ed933b504c0e7eaac6c5de"
+   last-author="mayu"
+   text-time="2016-11-09T06:43:58.099000Z"
+   committed-rev="1148"
+   kind="file"
+   committed-date="2016-11-09T06:43:58.099669Z"
+   prop-time="2017-01-11T01:46:29.221000Z"/>
+<entry
+   name="iconfont.woff"
+   checksum="0e960899a443a3d90cdfd3e74af66cb4"
+   last-author="mayu"
+   text-time="2016-11-09T06:43:58.099000Z"
+   committed-rev="1148"
+   kind="file"
+   committed-date="2016-11-09T06:43:58.099669Z"
+   prop-time="2017-01-11T01:46:29.199000Z"/>
+</wc-entries>

@@ -1,0 +1,157 @@
+.personal {
+	min-height: 74%;
+	box-sizing: border-box;
+}
+.personal>div {
+	box-sizing: border-box;
+	padding: 14px 0 11px;
+}
+.personal .autstate {
+	width: 100%;
+	border-bottom: 1px solid #C0C0C0;
+	font:bold 18px sans-serif;
+}
+.personal .persontitle {
+	line-height: 40px;
+}
+.personal .persontitle .filetile{
+	font-size: 18px;
+	font-weight: 700;
+}
+.personal .persontitle>div{
+	float: left;
+}
+.personal .update{
+	margin-left: 30px;
+}
+.personal .changepsw,.personal .update{
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 82px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	margin-top: 7px;
+}
+.personal .basedata tr {
+	height: 25px;
+}
+.personal .basedata th{
+	text-align: right;
+	padding-right: 20px;
+	font-weight: 700;
+	color: #555555;
+	font-size: 14px;
+}
+.personal .basedata td {
+	padding-right: 50px;
+	font-size: 14px;
+}
+.personal .project {
+	margin-left: 20px;
+}
+.personal .project div {
+	float:left;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 82px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	margin-top: 7px;
+	margin-right: 20px;
+}
+.personal .project a {
+	color: white;
+}
+.personalbot table{
+	width: 100%;
+	margin: 20px 0;
+	font-size: 14px;
+	background-color: #999;
+}
+.personal .personalbot td{
+	text-align: center;
+	height: 30px;
+	background-color: white;
+}
+.personal .personalbot th{
+	background-color: #4488FF;
+	font-weight: normal;
+	color: white;
+	height: 30px;
+	box-sizing: border-box;
+	padding: 3px 2px;
+}
+.personal .personalbot td div{
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 82px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	margin-left: 10px;
+	display: inline-block;
+}
+.personal .personalbot td div>a{
+	color: white;
+}
+.bdchange,.addproject {
+	box-sizing: border-box;
+	width: 400px;
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	margin-left: -200px;
+	background-color: #E7F1F9;
+	padding: 20px;
+	border-radius: 10px;
+	z-index: 20;
+	display: none;
+}
+.password {
+	margin-top: 20px;
+}
+.password label{
+	display: inline-block;
+	width: 150px;
+	text-align: right;
+	padding-right: 50px;
+}
+.password form{
+	width: 800px;
+	margin: 0 auto;
+}
+.password form>div {
+	margin-bottom: 20px;
+}
+.password .sure,.password .cancel {
+	display: inline-block;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 82px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	margin-left: 50px;
+	padding: 0;
+}
+.password .sure{
+	margin-left: 150px;
+}

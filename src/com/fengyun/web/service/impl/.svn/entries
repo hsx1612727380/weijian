@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2881"
+   last-author="zhengss"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/src/com/fengyun/web/service/impl"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2878"
+   kind="dir"
+   committed-date="2017-02-27T09:08:05.042243Z"/>
+<entry
+   name="AccrecordServicelmpl.java"
+   checksum="84a7d6d68c486c102d87ca93074d2952"
+   last-author="mayu"
+   text-time="2017-02-16T10:52:52.035000Z"
+   committed-rev="2758"
+   kind="file"
+   committed-date="2017-02-16T10:52:52.035517Z"/>
+<entry
+   name="AdminServiceImpl.java"
+   checksum="88b32228a3f931fbc5d14131868f9c0f"
+   last-author="zhengss"
+   committed-rev="2660"
+   text-time="2017-01-21T01:58:54.726000Z"
+   kind="file"
+   committed-date="2017-01-21T01:58:54.726390Z"/>
+<entry
+   name="AptitudeServicelmpl.java"
+   checksum="c3151e18d6de1d6328c9c67216d59157"
+   last-author="huangshouxi"
+   committed-rev="1261"
+   text-time="2016-11-14T15:02:34.360000Z"
+   kind="file"
+   committed-date="2016-11-14T15:02:34.360380Z"/>
+<entry
+   name="AttendanceInfoServicelmpl.java"
+   checksum="51f53093d9122b6c2c365dcd1793d774"
+   last-author="huangshouxi"
+   text-time="2017-02-20T03:42:29.881000Z"
+   committed-rev="2772"
+   kind="file"
+   committed-date="2017-02-20T08:23:19.064000Z"/>
+<entry
+   name="BehaviorServicelmpl.java"
+   checksum="998210c1d0f2edca829dc152226fa847"
+   last-author="wangqi"
+   committed-rev="1501"
+   text-time="2016-11-23T05:18:06.272000Z"
+   kind="file"
+   committed-date="2016-11-23T05:18:06.272119Z"/>
+<entry
+   name="BidInfoServicelmpl.java"
+   checksum="82d7476e524028606929b559f81d34af"
+   last-author="wangqi"
+   committed-rev="1027"
+   text-time="2016-11-03T02:44:47.200000Z"
+   kind="file"
+   committed-date="2016-11-03T02:44:47.200027Z"/>
+<entry
+   name="CmdSummPersonServicelmpl.java"
+   checksum="bb34d93b66e6ef376432a118293cf680"
+   last-author="huangshouxi"
+   committed-rev="2532"
+   text-time="2017-01-13T06:10:13.399000Z"
+   kind="file"
+   committed-date="2017-01-13T08:26:27.773000Z"/>
+<entry
+   name="CmdSummServicelmpl.java"
+   checksum="6a44599a6e9d7abd7276d2d7f8713a89"
+   last-author="huangshouxi"
+   committed-rev="2523"
+   text-time="2017-01-12T02:57:46.760000Z"
+   kind="file"
+   committed-date="2017-01-12T03:50:17.370000Z"/>
+<entry
+   name="CmdSummSupplierServicelmpl.java"
+   checksum="e3fcd5eb36062a64466771cd40e99957"
+   last-author="huangshouxi"
+   committed-rev="2534"
+   text-time="2017-01-13T14:04:07.148000Z"
+   kind="file"
+   committed-date="2017-01-13T16:18:13.904000Z"/>
+<entry
+   name="CommentsServiceImpl.java"
+   checksum="1b0db281d6cc8f5024e47a95925c27c1"
+   last-author="zhengss"
+   text-time="2017-02-09T08:03:11.596000Z"
+   committed-rev="2707"
+   kind="file"
+   committed-date="2017-02-09T08:03:11.596482Z"/>
+<entry
+   name="CompanyCompactServiceImpl.java"
+   checksum="769b2cc2ddd0cdfbfe8d5eb1bfea1c8f"
+   last-author="huangshouxi"
+   text-time="2017-02-06T08:13:03.924000Z"
+   committed-rev="2678"
+   kind="file"
+   committed-date="2017-02-06T09:49:25.851000Z"/>
+<entry
+   name="CompanyServiceImpl.java"
+   checksum="db73b469f60b30d9da673893b83d26b7"
+   last-author="huangshouxi"
+   committed-rev="2647"
+   text-time="2017-01-19T07:27:46.672000Z"
+   kind="file"
+   committed-date="2017-01-19T15:08:06.591000Z"/>
+<entry
+   name="EngineerServicelmpl.java"
+   checksum="6b85248cd7ed604a75845b922adf765e"
+   last-author="mayu"
+   text-time="2017-01-15T08:50:33.482000Z"
+   committed-rev="2569"
+   kind="file"
+   committed-date="2017-01-15T08:50:33.482291Z"/>
+<entry
+   name="EquipmentServiceImpl.java"
+   checksum="8b705649e4a970731811b2986289ceb1"
+   last-author="zhengss"
+   text-time="2017-02-24T11:10:45.874000Z"
+   committed-rev="2860"
+   kind="file"
+   committed-date="2017-02-24T11:10:45.874047Z"/>
+<entry
+   name="EquipmentTradServicelmpl.java"
+   checksum="148c10a9c8bc0c67bd870d63cba82826"
+   last-author="zhengss"
+   committed-rev="1712"
+   text-time="2016-12-01T10:33:45.498000Z"
+   kind="file"
+   committed-date="2016-12-01T10:33:45.498512Z"/>
+<entry
+   name="JoinBuildServicelmpl.java"
+   checksum="b0172860e62180ddf74bf0b88a41ccd1"
+   last-author="huangshouxi"
+   committed-rev="1643"
+   text-time="2016-11-28T14:55:23.372000Z"
+   kind="file"
+   committed-date="2016-11-28T14:55:23.372467Z"/>
+<entry
+   name="KeyPersonServicelmpl.java"
+   checksum="ff2a35a3c0b95ae30da0fef95b8583ab"
+   last-author="huangshouxi"
+   committed-rev="1643"
+   text-time="2016-11-28T14:55:23.372000Z"
+   kind="file"
+   committed-date="2016-11-28T14:55:23.372467Z"/>
+<entry
+   name="LawInsuServicelmpl.java"
+   checksum="1294e2f379812295c2a95357d5e57714"
+   last-author="mayu"
+   committed-rev="1130"
+   text-time="2016-11-09T02:56:34.861000Z"
+   kind="file"
+   committed-date="2016-11-09T02:56:34.861026Z"/>
+<entry
+   name="MaterialServiceImpl.java"
+   checksum="eed130c1ac3f09e7c56cd7c91d000bb7"
+   last-author="huangshouxi"
+   committed-rev="2518"
+   text-time="2017-01-11T07:09:40.108000Z"
+   kind="file"
+   committed-date="2017-01-11T15:37:47.243000Z"/>
+<entry
+   name="MaterialTradServicelmpl.java"
+   checksum="aca97e5b08d487dfd301a44bd340ad85"
+   last-author="zhengss"
+   committed-rev="1712"
+   text-time="2016-12-01T10:33:45.498000Z"
+   kind="file"
+   committed-date="2016-12-01T10:33:45.498512Z"/>
+<entry
+   name="MerchantServicelmpl.java"
+   checksum="625bb50db76622f246cf9b662dcc0360"
+   last-author="zhengss"
+   text-time="2017-02-24T11:09:58.686000Z"
+   committed-rev="2859"
+   kind="file"
+   committed-date="2017-02-24T11:09:58.686485Z"/>
+<entry
+   name="MessageServiceImpl.java"
+   revision="2891"
+   checksum="0ba2dac62d624a075e02622ffc1b1428"
+   last-author="huangshouxi"
+   text-time="2017-02-28T08:27:42.973000Z"
+   committed-rev="2891"
+   kind="file"
+   committed-date="2017-02-28T10:23:51.037000Z"/>
+<entry
+   name="NoticeLogServiceImpl.java"
+   checksum="2005529a1ceefe38ad9a64b8c31ca5e8"
+   last-author="huangshouxi"
+   committed-rev="2752"
+   text-time="2017-02-16T07:34:17.156000Z"
+   kind="file"
+   committed-date="2017-02-16T09:35:21.280000Z"/>
+<entry
+   name="NoticeServiceImpl.java"
+   revision="2882"
+   checksum="8be0090fb2954ee4ec3aad9617ee2d5d"
+   last-author="huangshouxi"
+   text-time="2017-02-27T06:07:16.806000Z"
+   committed-rev="2882"
+   kind="file"
+   committed-date="2017-02-28T03:00:44.134000Z"/>
+<entry
+   name="OperateCompactServiceImpl.java"
+   checksum="d6ecd233d42e0ab03e7ffd254f961a17"
+   last-author="zhengss"
+   text-time="2017-02-14T06:01:43.637000Z"
+   committed-rev="2720"
+   kind="file"
+   committed-date="2017-02-14T06:01:43.637469Z"/>
+<entry
+   name="PayrollRecordServicelmpl.java"
+   checksum="1e97df643359966189a158f601a26a3b"
+   last-author="zhengss"
+   committed-rev="2878"
+   text-time="2017-02-27T09:08:05.042000Z"
+   kind="file"
+   committed-date="2017-02-27T09:08:05.042243Z"/>
+<entry
+   name="PersonServicelmpl.java"
+   checksum="df55a00286d430d297657dbf1fc42b7e"
+   last-author="zhengss"
+   committed-rev="2458"
+   text-time="2017-01-06T05:43:38.672000Z"
+   kind="file"
+   committed-date="2017-01-06T05:43:38.672344Z"/>
+<entry
+   name="ProjectDepartmentServiceImpl.java"
+   checksum="0970568a0738b70b83f09e38d11f96f9"
+   last-author="huangshouxi"
+   text-time="2017-02-25T03:23:06.763000Z"
+   committed-rev="2868"
+   kind="file"
+   committed-date="2017-02-25T06:41:55.575000Z"/>
+<entry
+   name="ProjectProgressServiceImpl.java"
+   checksum="10ac2091591e5a879575fed6cee6a127"
+   last-author="zhengss"
+   committed-rev="2311"
+   text-time="2016-12-28T06:22:50.454000Z"
+   kind="file"
+   committed-date="2016-12-28T06:22:50.454384Z"/>
+<entry
+   name="ProjectRosterServiceImpl.java"
+   checksum="16d0acd0c321ff6c7b7746630941c6c8"
+   last-author="huangshouxi"
+   committed-rev="2377"
+   text-time="2016-12-31T03:18:44.071000Z"
+   kind="file"
+   committed-date="2016-12-31T03:18:44.071994Z"/>
+<entry
+   name="ProjectServiceImpl.java"
+   checksum="519daca1ed395f69267af61221c20d84"
+   last-author="zhengss"
+   text-time="2017-02-27T09:08:05.042000Z"
+   committed-rev="2878"
+   kind="file"
+   committed-date="2017-02-27T09:08:05.042243Z"/>
+<entry
+   name="RequirementsServiceImpl.java"
+   checksum="378aba24c87b6fec517934f342629f53"
+   last-author="zhengss"
+   text-time="2017-02-23T10:58:21.885000Z"
+   committed-rev="2850"
+   kind="file"
+   committed-date="2017-02-23T10:58:21.885288Z"/>
+<entry
+   name="RewardsAndPunishServiceImpl.java"
+   checksum="152b1d6933a4c31dce5e2676ff29fc28"
+   last-author="zhengss"
+   text-time="2017-02-09T08:03:11.596000Z"
+   committed-rev="2707"
+   kind="file"
+   committed-date="2017-02-09T08:03:11.596482Z"/>
+<entry
+   name="TeamMemberServiceImpl.java"
+   checksum="3e026f400f93e5a321a2f43ebbc31000"
+   last-author="huangshouxi"
+   committed-rev="2532"
+   text-time="2017-01-13T05:39:21.622000Z"
+   kind="file"
+   committed-date="2017-01-13T08:26:27.773000Z"/>
+<entry
+   name="TeamScheduleServiceImpl.java"
+   checksum="2aba033aae5f7c3905e3bd699bb11d9d"
+   last-author="zhengss"
+   text-time="2017-01-19T10:42:47.772000Z"
+   committed-rev="2646"
+   kind="file"
+   committed-date="2017-01-19T10:42:47.772199Z"/>
+<entry
+   name="TeamServicelmpl.java"
+   checksum="49aad32158c4aaad365ecc9380541712"
+   last-author="zhengss"
+   committed-rev="2769"
+   text-time="2017-02-20T01:50:21.569000Z"
+   kind="file"
+   committed-date="2017-02-20T01:50:21.569362Z"/>
+<entry
+   name="UserServiceImpl.java"
+   checksum="6e0272632c923136a7bbfe4dcac63c97"
+   last-author="zhengss"
+   text-time="2017-02-23T10:58:21.885000Z"
+   committed-rev="2850"
+   kind="file"
+   committed-date="2017-02-23T10:58:21.885288Z"/>
+</wc-entries>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2865"
+   last-author="wangqi"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/attendanceInfo"
+   committed-rev="2135"
+   kind="dir"
+   committed-date="2016-12-20T14:08:09.043190Z"/>
+<entry
+   name="attendanceInfo_add.jsp"
+   checksum="0313fee65b7e2517947536cb38be1a7c"
+   last-author="wangqi"
+   text-time="2016-12-20T13:31:04.442000Z"
+   committed-rev="2122"
+   kind="file"
+   committed-date="2016-12-20T13:31:04.442427Z"/>
+<entry
+   name="attendanceInfo_list.jsp"
+   checksum="4954b6b8804e9227a400295f4bde681b"
+   last-author="wangqi"
+   text-time="2016-12-16T07:32:26.329000Z"
+   committed-rev="2067"
+   kind="file"
+   committed-date="2016-12-16T07:32:26.329292Z"/>
+<entry
+   name="attendanceInfo_modify.jsp"
+   checksum="cd4d2edde9bea1b004fba52f0b18e054"
+   last-author="wangqi"
+   text-time="2016-12-16T07:32:26.329000Z"
+   committed-rev="2067"
+   kind="file"
+   committed-date="2016-12-16T07:32:26.329292Z"/>
+<entry
+   name="attendanceInfo_project.jsp"
+   checksum="29865cb63bc7e88497615c32316eb314"
+   last-author="wangqi"
+   text-time="2016-12-20T14:08:09.043000Z"
+   committed-rev="2135"
+   kind="file"
+   committed-date="2016-12-20T14:08:09.043190Z"/>
+</wc-entries>

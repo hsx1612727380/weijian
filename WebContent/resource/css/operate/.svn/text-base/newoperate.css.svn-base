@@ -1,0 +1,4 @@
+.personal.content {
+	min-height: 84%;
+	box-sizing: border-box;
+}

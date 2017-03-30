@@ -1,0 +1,57 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%
+	String path = request.getContextPath();
+	String basePath = request.getScheme() + "://"
+			+ request.getServerName() + ":" + request.getServerPort()
+			+ path + "/";
+%>
+
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<title>微建平台</title>
+	<link rel="stylesheet" type="text/css" href="<%=basePath%>/resource/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" href="<%=basePath%>/resource/css/common.css" />
+	<link rel="stylesheet" type="text/css" href="<%=basePath%>/resource/css/fcompany/enterprisebase.css" />
+</head>
+
+<body>
+	<jsp:include page="../top.jsp" flush="true" />
+	<div class="title">
+		<div class="content">
+			<span><a href="<%=basePath%>person.html"><img src="<%=basePath%>/resource/images/home.png"/></a>
+			<a href='<%=basePath%>person.html' style="color: #FFFFFF;">${companyModel.name}</a></span>
+		</div>
+	</div>
+	<div class="content personal">
+		<div class="autstate">
+			<ul class=" clearfix">
+				<li><a href="company_info.html">基础资料</a></li>
+				<li><a href="company_member.html">企业人员</a></li>
+				<li><a href="company_credit.html">企业资信</a></li>
+				<li><a href="company_project.html">项目信息</a></li>
+				<li><a href="company_compact.html">合同管理</a></li>
+				<li style="background-color: #ABCDEF">
+					<a style="color:#4684D9 ;" href="company_message.html">消息公告</a>
+				</li>
+			</ul>
+		</div>
+		<input type="hidden" id="companyId" name="companyId" value="${companyModel.id }"/>
+		
+		
+		公告内容:<br/>
+		${noticeModel.noticeInfo }
+		
+		
+				
+	</div>
+	<jsp:include page="../down.jsp" flush="true" />
+		
+	<script src="<%=basePath%>/resource/js/jquery-1.12.3.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="<%=basePath%>/resource/js/qianmain.js" type="text/javascript" charset="utf-8"></script>
+</body>
+
+</html>

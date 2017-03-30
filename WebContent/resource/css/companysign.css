@@ -1,0 +1,63 @@
+.personal {
+	min-height: 84%;
+	box-sizing: border-box;
+}
+.personal form{
+	margin-left: 100px;
+	width: 680px;
+	padding-top: 22px;
+}
+.personal form label{
+	display: inline-block;
+	width: 150px;
+}
+.personal form div {
+	margin-bottom: 22px;
+	margin-left: 50px;
+}
+.personal form input,.personal form select {
+	width: 250px;
+	padding:2px 10px;
+	border: 1px solid lightslategray;
+	border-radius: 4px;
+	box-sizing: content-box;
+}
+.personal .sumbit{
+	margin-left: 0;
+	text-align: center;
+}
+.personal .sumbit a {
+	color: deepskyblue;
+}
+.personal .sumbit a,.personal .sumbit input{
+	margin: 0 15px;
+}
+.personal .sumbit input{
+	cursor: pointer;
+	border: none;
+	opacity: 0.8;
+	width: 80px;
+	height: 30px;
+	background-color: #3399FF;
+	border-radius: 5px;
+	color: white;
+}
+.personal .sumbit .checkbox{
+	width: 14px;
+	height: 14px;
+	cursor: default;
+}
+.personal a.companysign {
+	color: #555555;
+	font-size: 12px;
+}
+
+#vertify {
+	height: 25px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+}

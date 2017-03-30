@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2842"
+   last-author="mayu"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/resource/js"
+   committed-rev="2841"
+   kind="dir"
+   committed-date="2017-02-23T08:13:26.237122Z"/>
+<entry
+   name="accrecord_add_check.js"
+   checksum="1d8727e63c110196f4bb2a26af119dd8"
+   last-author="wangqi"
+   committed-rev="2613"
+   text-time="2017-01-16T09:35:38.824000Z"
+   kind="file"
+   committed-date="2017-01-16T09:35:38.824654Z"/>
+<entry
+   name="aptitude_add.js"
+   checksum="6dc089a930658672fbdfdf1dbbd44a09"
+   last-author="wangqi"
+   text-time="2016-11-11T03:08:01.256000Z"
+   committed-rev="1203"
+   kind="file"
+   committed-date="2016-11-11T03:08:01.256853Z"/>
+<entry
+   name="area.js"
+   checksum="8bba8fbc42697dee1a76bb81a8dba39a"
+   last-author="huangshouxi"
+   text-time="2016-11-14T09:34:59.469000Z"
+   committed-rev="1252"
+   kind="file"
+   committed-date="2016-11-14T09:34:59.469898Z"/>
+<entry
+   name="attendanceInfo_add_check.js"
+   checksum="28a297aeed3f42aa0aff79a7a7c9509f"
+   last-author="wangqi"
+   committed-rev="2612"
+   text-time="2017-01-16T09:35:34.298000Z"
+   kind="file"
+   committed-date="2017-01-16T09:35:34.298446Z"/>
+<entry
+   name="background_login_request.js"
+   checksum="639341326debf92424b246e5a3f74533"
+   last-author="wangqi"
+   committed-rev="2616"
+   text-time="2017-01-16T09:36:05.218000Z"
+   kind="file"
+   committed-date="2017-01-16T09:36:05.218258Z"/>
+<entry
+   name="company_add_check.js"
+   checksum="81eded76899ee2d9d30378baac8db5c5"
+   last-author="wangqi"
+   text-time="2016-12-27T01:44:18.291000Z"
+   committed-rev="2253"
+   kind="file"
+   committed-date="2016-12-27T01:44:18.291832Z"/>
+<entry
+   name="company_modify_check.js"
+   checksum="fe90f80222074e3ec2980ea338cad882"
+   last-author="wangqi"
+   text-time="2016-12-14T13:28:19.927000Z"
+   committed-rev="1988"
+   kind="file"
+   committed-date="2016-12-14T13:28:19.927435Z"/>
+<entry
+   name="company_signin.js"
+   checksum="f0d5b9b2fb035ec6c61ed327f9d133c7"
+   last-author="ruankai"
+   text-time="2016-10-19T12:30:30.413000Z"
+   committed-rev="641"
+   kind="file"
+   committed-date="2016-10-19T12:30:30.413319Z"/>
+<entry
+   name="dateFormat.js"
+   checksum="4a7a57b50910568319d07a39ce0a2c5b"
+   last-author="ruankai"
+   text-time="2016-12-06T07:25:39.306000Z"
+   committed-rev="1815"
+   kind="file"
+   committed-date="2016-12-06T07:25:39.306578Z"/>
+<entry
+   name="echarts.min.js"
+   checksum="207dc8bfef15b1a63c2efd25438d615a"
+   last-author="mayu"
+   text-time="2016-12-07T09:30:26.631000Z"
+   committed-rev="1865"
+   kind="file"
+   committed-date="2016-12-07T09:30:26.631875Z"/>
+<entry
+   name="equipmentTrad_add_check.js"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="wangqi"
+   text-time="2016-12-13T09:22:12.156000Z"
+   committed-rev="1944"
+   kind="file"
+   committed-date="2016-12-13T09:22:12.156932Z"/>
+<entry
+   name="equipment_add_check.js"
+   checksum="3f3b89e2c683d03b0a391c5422cf3c96"
+   last-author="wangqi"
+   text-time="2016-12-27T01:44:10.768000Z"
+   committed-rev="2252"
+   kind="file"
+   committed-date="2016-12-27T01:44:10.768508Z"/>
+<entry
+   name="fcompany"
+   kind="dir"/>
+<entry
+   name="form.js"
+   checksum="f12b16e4e07153abcdc8e5f2c8d3af85"
+   last-author="mayu"
+   text-time="2016-09-29T14:39:15.803000Z"
+   committed-rev="272"
+   kind="file"
+   committed-date="2016-09-29T14:39:15.803711Z"/>
+<entry
+   name="front_commpny_register.js"
+   checksum="330b3eda30a7f01248f55d4f7c5ad3af"
+   last-author="mayu"
+   committed-rev="2758"
+   text-time="2017-02-16T10:52:52.035000Z"
+   kind="file"
+   committed-date="2017-02-16T10:52:52.035517Z"/>
+<entry
+   name="front_company"
+   kind="dir"/>
+<entry
+   name="front_equipment"
+   kind="dir"/>
+<entry
+   name="front_material"
+   kind="dir"/>
+<entry
+   name="front_person"
+   kind="dir"/>
+<entry
+   name="front_project"
+   kind="dir"/>
+<entry
+   name="index.js"
+   revision="2882"
+   checksum="e8e13a12aad47f1649b32b1d570a8555"
+   last-author="huangshouxi"
+   text-time="2017-02-28T02:17:05.346000Z"
+   committed-rev="2882"
+   kind="file"
+   committed-date="2017-02-28T03:00:44.134000Z"/>
+<entry
+   name="input.js"
+   checksum="e068c6682b2bdd34470385e28412513c"
+   last-author="wangqi"
+   text-time="2016-12-16T08:04:28.946000Z"
+   committed-rev="2076"
+   kind="file"
+   committed-date="2016-12-16T08:04:28.946432Z"/>
+<entry
+   name="jquery-1.12.3.min.js"
+   checksum="9e90cb09942ce79485f6d711b41e9525"
+   last-author="mayu"
+   text-time="2016-09-28T10:39:55.290000Z"
+   committed-rev="246"
+   kind="file"
+   committed-date="2016-09-28T10:39:55.290856Z"/>
+<entry
+   name="jquery.form.js"
+   checksum="b420f353f8d3fde1802f7f2462144110"
+   last-author="ruankai"
+   text-time="2016-10-08T20:50:07.741000Z"
+   committed-rev="318"
+   kind="file"
+   committed-date="2016-10-08T20:50:07.741015Z"/>
+<entry
+   name="jquery.js"
+   checksum="1871bde71f917443d957936ab4925ee6"
+   last-author="ruankai"
+   text-time="2016-10-08T20:50:07.741000Z"
+   committed-rev="318"
+   kind="file"
+   committed-date="2016-10-08T20:50:07.741015Z"/>
+<entry
+   name="jquery.tablesorter.min.js"
+   checksum="8f686d799c18844d296853333694634a"
+   last-author="wangqi"
+   text-time="2016-11-02T05:49:14.882000Z"
+   committed-rev="981"
+   kind="file"
+   committed-date="2016-11-02T05:49:14.882521Z"/>
+<entry
+   name="kindeditor-all.js"
+   checksum="ddcd9a6da3aa6af3ec48082894acd614"
+   last-author="wangqi"
+   text-time="2016-11-07T17:28:16.517000Z"
+   committed-rev="1090"
+   kind="file"
+   committed-date="2016-11-07T17:28:16.517697Z"/>
+<entry
+   name="kindeditor-min.js"
+   checksum="d910c089d02f8ec567ac13bc38127629"
+   last-author="wangqi"
+   text-time="2016-11-07T17:28:16.517000Z"
+   committed-rev="1090"
+   kind="file"
+   committed-date="2016-11-07T17:28:16.517697Z"/>
+<entry
+   name="kindeditor.js"
+   checksum="479b8fd1b283f668ca94defd161b2c72"
+   last-author="wangqi"
+   text-time="2016-11-07T17:28:16.517000Z"
+   committed-rev="1090"
+   kind="file"
+   committed-date="2016-11-07T17:28:16.517697Z"/>
+<entry
+   name="laydate.js"
+   checksum="dfa8fc240a1b31fe19965e792751c0b4"
+   last-author="wangqi"
+   text-time="2016-12-20T13:32:34.581000Z"
+   committed-rev="2125"
+   kind="file"
+   committed-date="2016-12-20T13:32:34.581771Z"/>
+<entry
+   name="login.js"
+   checksum="740a6460b675d03993859e4421e01443"
+   last-author="zhengss"
+   text-time="2016-12-08T06:52:51.341000Z"
+   committed-rev="1887"
+   kind="file"
+   committed-date="2016-12-08T06:52:51.341788Z"/>
+<entry
+   name="login_check.js"
+   checksum="3373c5c9cde6459db91526d39fb7d798"
+   last-author="mayu"
+   text-time="2016-10-17T16:42:47.658000Z"
+   committed-rev="523"
+   kind="file"
+   committed-date="2016-10-17T16:42:47.658730Z"/>
+<entry
+   name="login_request.js"
+   checksum="7ad24d7af523d0e650a164bee3a59bf3"
+   last-author="zhengss"
+   text-time="2017-01-15T06:18:21.409000Z"
+   committed-rev="2563"
+   kind="file"
+   committed-date="2017-01-15T06:18:21.409682Z"/>
+<entry
+   name="main.js"
+   checksum="8d37cc80e118311cd3cf1e8156eb42a4"
+   last-author="mayu"
+   text-time="2016-10-11T17:01:04.710000Z"
+   committed-rev="391"
+   kind="file"
+   committed-date="2016-10-11T17:01:04.710699Z"/>
+<entry
+   name="map.js"
+   checksum="31bd5a4fac0f023db70f0746e7e31784"
+   last-author="mayu"
+   text-time="2016-11-10T02:48:33.366000Z"
+   committed-rev="1168"
+   kind="file"
+   committed-date="2016-11-10T02:48:33.366223Z"/>
+<entry
+   name="material_add_check.js"
+   checksum="573ee4923c12679aa084ce123a5db4d6"
+   last-author="wangqi"
+   text-time="2016-12-27T01:43:49.935000Z"
+   committed-rev="2251"
+   kind="file"
+   committed-date="2016-12-27T01:43:49.935950Z"/>
+<entry
+   name="need"
+   kind="dir"/>
+<entry
+   name="operate"
+   kind="dir"/>
+<entry
+   name="payrollrecord_add_check.js"
+   checksum="08f3739787ea78d604b3bc196fcba348"
+   last-author="wangqi"
+   committed-rev="2614"
+   text-time="2017-01-16T09:35:49.135000Z"
+   kind="file"
+   committed-date="2017-01-16T09:35:49.135525Z"/>
+<entry
+   name="project_add_check.js"
+   checksum="cd763bc97a05f29f0b15ab5d8948802b"
+   last-author="wangqi"
+   committed-rev="2615"
+   text-time="2017-01-16T09:35:53.689000Z"
+   kind="file"
+   committed-date="2017-01-16T09:35:53.689551Z"/>
+<entry
+   name="project_modify_check.js"
+   checksum="56f124e0d2741c58fa171569be5f179a"
+   last-author="wangqi"
+   text-time="2016-12-14T13:28:27.563000Z"
+   committed-rev="1989"
+   kind="file"
+   committed-date="2016-12-14T13:28:27.563105Z"/>
+<entry
+   name="qianmain.js"
+   checksum="93dec1bad5a2e88af43472501e3a4a7a"
+   last-author="mayu"
+   text-time="2016-10-31T07:14:55.180000Z"
+   committed-rev="909"
+   kind="file"
+   committed-date="2016-10-31T07:14:55.180919Z"/>
+<entry
+   name="signin.js"
+   checksum="c157821e5472db4c8c1997a003692c76"
+   last-author="mayu"
+   text-time="2017-02-23T08:13:26.237000Z"
+   committed-rev="2841"
+   kind="file"
+   committed-date="2017-02-23T08:13:26.237122Z"/>
+<entry
+   name="silder.js"
+   checksum="c182fbfdda976df41072946d30e05c9d"
+   last-author="mayu"
+   text-time="2016-09-28T10:39:55.290000Z"
+   committed-rev="246"
+   kind="file"
+   committed-date="2016-09-28T10:39:55.290856Z"/>
+<entry
+   name="skins"
+   kind="dir"/>
+<entry
+   name="team.js"
+   checksum="10a88287f9974f6c71d718991401ee10"
+   last-author="wangqi"
+   text-time="2016-10-09T17:20:40.755000Z"
+   committed-rev="333"
+   kind="file"
+   committed-date="2016-10-09T17:20:40.755164Z"/>
+<entry
+   name="team_add.js"
+   checksum="6a1e9273eb710cb654d8d2ab451043ed"
+   last-author="zhengss"
+   text-time="2016-12-30T09:37:21.457000Z"
+   committed-rev="2371"
+   kind="file"
+   committed-date="2016-12-30T09:37:21.457633Z"/>
+<entry
+   name="team_add_check.js"
+   checksum="c4489553ddd7b697ec3c482248da1b2a"
+   last-author="wangqi"
+   text-time="2016-12-27T01:43:03.037000Z"
+   committed-rev="2248"
+   kind="file"
+   committed-date="2016-12-27T01:43:03.037816Z"/>
+<entry
+   name="thcolor.js"
+   checksum="32364ac752dfdc0b8912f73d8c3f7498"
+   last-author="wangqi"
+   text-time="2017-02-07T06:33:17.008000Z"
+   committed-rev="2690"
+   kind="file"
+   committed-date="2017-02-07T06:33:17.008266Z"/>
+<entry
+   name="time.js"
+   checksum="17b1157cc24d44c9dd842147f68fca7e"
+   last-author="wangqi"
+   text-time="2016-10-17T17:03:03.410000Z"
+   committed-rev="537"
+   kind="file"
+   committed-date="2016-10-17T17:03:03.410246Z"/>
+<entry
+   name="userLogin.js"
+   checksum="977bb8bc401a9dd2020920e172edc13f"
+   last-author="ruankai"
+   text-time="2016-10-09T17:14:45.024000Z"
+   committed-rev="332"
+   kind="file"
+   committed-date="2016-10-09T17:14:45.024095Z"/>
+<entry
+   name="user_add.js"
+   checksum="3fa867431602de358b3e82b21ff21d06"
+   last-author="ruankai"
+   text-time="2016-10-24T20:21:30.837000Z"
+   committed-rev="774"
+   kind="file"
+   committed-date="2016-10-24T20:21:30.837192Z"/>
+<entry
+   name="web"
+   kind="dir"/>
+<entry
+   name="zh_CN.js"
+   checksum="895b6713af054cfd611636cc3ee5445b"
+   last-author="wangqi"
+   text-time="2016-11-07T15:51:10.974000Z"
+   committed-rev="1084"
+   kind="file"
+   committed-date="2016-11-07T15:51:10.974139Z"/>
+</wc-entries>

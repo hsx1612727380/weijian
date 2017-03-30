@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2511"
+   last-author="zhengss"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/.settings"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2219"
+   kind="dir"
+   committed-date="2016-12-26T02:49:13.399694Z"/>
+<entry
+   name=".jsdtscope"
+   checksum="a8af45432f8aa5684388bd4a04f145a0"
+   last-author="mayu"
+   committed-rev="139"
+   text-time="2016-09-22T09:35:46.102000Z"
+   kind="file"
+   committed-date="2016-09-22T09:35:46.102139Z"/>
+<entry
+   name="org.eclipse.core.resources.prefs"
+   checksum="e20f424a8df1e71bf00d76e1fa441c2f"
+   last-author="zhengss"
+   committed-rev="2219"
+   text-time="2016-12-26T02:49:13.399000Z"
+   kind="file"
+   committed-date="2016-12-26T02:49:13.399694Z"/>
+<entry
+   name="org.eclipse.jdt.core.prefs"
+   checksum="799ca72469749251db4ec95b4f72e5fc"
+   last-author="mayu"
+   committed-rev="539"
+   text-time="2016-10-17T17:04:07.122000Z"
+   kind="file"
+   committed-date="2016-10-17T17:04:07.122836Z"/>
+<entry
+   name="org.eclipse.wst.common.component"
+   checksum="3f8724ec81b3f504b9399747bd009d9e"
+   last-author="mayu"
+   committed-rev="139"
+   text-time="2016-09-22T09:35:46.102000Z"
+   kind="file"
+   committed-date="2016-09-22T09:35:46.102139Z"/>
+<entry
+   name="org.eclipse.wst.common.project.facet.core.xml"
+   checksum="fc219ac342fb77f884cae8ba8a7ec686"
+   last-author="wangqi"
+   committed-rev="1161"
+   text-time="2016-11-09T09:28:41.506000Z"
+   kind="file"
+   committed-date="2016-11-09T09:28:41.506182Z"/>
+<entry
+   name="org.eclipse.wst.jsdt.ui.superType.container"
+   checksum="b27d1cf62dde4473bab7c433317bb0ce"
+   last-author="mayu"
+   committed-rev="139"
+   text-time="2016-09-22T09:35:46.102000Z"
+   kind="file"
+   committed-date="2016-09-22T09:35:46.102139Z"/>
+<entry
+   name="org.eclipse.wst.jsdt.ui.superType.name"
+   checksum="c89686a387d2b12b3c729ce35a0bcb5b"
+   last-author="mayu"
+   committed-rev="139"
+   text-time="2016-09-22T09:35:46.102000Z"
+   kind="file"
+   committed-date="2016-09-22T09:35:46.102139Z"/>
+</wc-entries>

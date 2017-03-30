@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<excel id="recordSalary" code="recordSalary" name="考勤记录导入">
+    <colgroup>
+        <col index="A" width='17em'></col>
+        <col index="B" width="17em"></col>
+        <col index="C" width='20em'></col>
+        <col index="D" width='20em'></col>
+        <col index="E" width='12em'></col>
+    </colgroup>
+    <title>
+        <tr height="16px">
+            <td rowspan="1" colspan="5" value="考勤记录导入" />
+        </tr>
+    </title>
+    <thead>
+        <tr height="16px">
+        	<th value="工人手机号" />
+        	<th value="班组名称" />
+            <th value="开始时间" />
+            <th value="结束时间" />
+            <th value="工时" />
+        </tr>
+    </thead>
+    <tbody>
+        <tr height="16px" firstrow="2" firstcol="0" repeat="100">
+            <td type="string" isnullable="false" maxlength="11" />
+            <td type="string" isnullable="false" maxlength="40" />
+            <td type="date" isnullable="false" format="yyyy-mm-dd HH:MM:SS" maxlength="50" />
+            <td type="date" isnullable="false" format="yyyy-mm-dd HH:MM:SS" maxlength="50" />
+            <td type="numeric" format="##" isnullable="false" />
+        </tr>
+    </tbody>
+</excel>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quartz xmlns="http://www.opensymphony.com/quartz/JobSchedulingData"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.opensymphony.com/quartz/JobSchedulingData
+  http://www.opensymphony.com/quartz/xml/job_scheduling_data_1_5.xsd"
+	version="1.5">
+	
+	 
+	<!-- 
+	<job>
+		<job-detail>
+			<name>CleanTask</name>
+			<group>DEFAULT</group>
+			<job-class>
+				com.fish.game.timer.CleanTask
+			</job-class>
+		</job-detail>
+		<trigger>
+			<cron>
+				<name>CleanTask</name>
+				<group>DEFAULT</group>
+				<job-name>CleanTask</job-name>
+				<job-group>DEFAULT</job-group>
+				<cron-expression>0 0 0 * * ?</cron-expression>
+			</cron>
+		</trigger>
+	</job>	
+	
+	
+	<job>
+		<job-detail>
+			<name>ResetTask</name>
+			<group>DEFAULT</group>
+			<job-class>
+				com.fish.game.timer.ResetTask
+			</job-class>
+		</job-detail>
+		<trigger>
+			<cron>
+				<name>ResetTask</name>
+				<group>DEFAULT</group>
+				<job-name>ResetTask</job-name>
+				<job-group>DEFAULT</job-group>
+				<cron-expression>0 0 0 * * ?</cron-expression>
+			</cron>
+		</trigger>
+	</job>	
+	
+	<job>
+		<job-detail>
+			<name>OnlineQtyTask</name>
+			<group>DEFAULT</group>
+			<job-class>
+				com.fish.game.timer.OnlineQtyTask
+			</job-class>
+		</job-detail>
+		<trigger>
+			<cron>
+				<name>Trigger_OnlineQtyTask</name>
+				<group>DEFAULT</group>
+				<job-name>OnlineQtyTask</job-name>
+				<job-group>DEFAULT</job-group>
+				<cron-expression>0 */5 * * * ?</cron-expression>
+			</cron>
+		</trigger>
+	</job>
+	
+	<job>
+		<job-detail>
+			<name>DailyWeekCount</name>
+			<group>DEFAULT</group>
+			<job-class>
+				com.fish.game.timer.DailyWeekCount
+			</job-class>
+		</job-detail>
+		<trigger>
+			<cron>
+				<name>Trigger_DailyWeekCount</name>
+				<group>DEFAULT</group>
+				<job-name>DailyWeekCount</job-name>
+				<job-group>DEFAULT</job-group>
+				<cron-expression>0 0 0 ? * MON</cron-expression>
+			</cron>
+		</trigger>
+	</job>
+	-->
+	
+</quartz>

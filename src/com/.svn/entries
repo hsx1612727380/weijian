@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2827"
+   last-author="zhengss"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/src/com"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2826"
+   kind="dir"
+   committed-date="2017-02-22T11:24:03.618255Z"/>
+<entry
+   name="fengyun"
+   kind="dir"/>
+</wc-entries>

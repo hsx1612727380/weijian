@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2881"
+   last-author="zhengss"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/src/com/fengyun/web/db/playermodel"
+   committed-rev="2878"
+   kind="dir"
+   committed-date="2017-02-27T09:08:05.042243Z"/>
+<entry
+   name="AccrecordModel.java"
+   checksum="fc4794b10642b6737ffc991283bb3ac8"
+   last-author="huangshouxi"
+   text-time="2016-12-14T10:48:26.553000Z"
+   committed-rev="1972"
+   kind="file"
+   committed-date="2016-12-14T10:48:26.553084Z"/>
+<entry
+   name="AdminModel.java"
+   checksum="622e35893c145251363f4a8ff15d0588"
+   last-author="wangqi"
+   committed-rev="2586"
+   text-time="2017-01-16T05:37:20.282000Z"
+   kind="file"
+   committed-date="2017-01-16T05:37:20.282083Z"/>
+<entry
+   name="AptitudeModel.java"
+   checksum="daedf8607b5f34a7ad137e42af8e8345"
+   last-author="wangqi"
+   committed-rev="2623"
+   text-time="2017-01-17T02:35:19.433000Z"
+   kind="file"
+   committed-date="2017-01-17T02:35:19.433967Z"/>
+<entry
+   name="AttendanceInfoModel.java"
+   checksum="824ee76783e3c17faa0c5913226d94da"
+   last-author="zhengss"
+   committed-rev="2558"
+   text-time="2017-01-15T01:52:29.210000Z"
+   kind="file"
+   committed-date="2017-01-15T01:52:29.210162Z"/>
+<entry
+   name="BehaviorModel.java"
+   checksum="2b543f5a6c0e139671b4f2de81a4adfe"
+   last-author="wangqi"
+   committed-rev="2623"
+   text-time="2017-01-17T02:35:19.433000Z"
+   kind="file"
+   committed-date="2017-01-17T02:35:19.433967Z"/>
+<entry
+   name="BidInfoModel.java"
+   checksum="73b24860dd14a6d00028dec93190f9db"
+   last-author="wangqi"
+   text-time="2016-11-03T06:33:57.495000Z"
+   committed-rev="1045"
+   kind="file"
+   committed-date="2016-11-03T06:33:57.495190Z"/>
+<entry
+   name="CmdSummModel.java"
+   checksum="a29a916fa6dd00047a69fcda223f041b"
+   last-author="huangshouxi"
+   text-time="2016-12-29T03:20:36.412000Z"
+   committed-rev="2355"
+   kind="file"
+   committed-date="2016-12-29T03:20:36.412108Z"/>
+<entry
+   name="CmdSummPersonModel.java"
+   checksum="244e9d976bc80bce1c963d57f68205ed"
+   last-author="wangqi"
+   text-time="2016-12-07T02:42:12.113000Z"
+   committed-rev="1858"
+   kind="file"
+   committed-date="2016-12-07T02:42:12.113196Z"/>
+<entry
+   name="CmdSummSupplierModel.java"
+   checksum="98760295095abe4185cf7e9959d15386"
+   last-author="wangqi"
+   text-time="2017-01-06T03:30:43.943000Z"
+   committed-rev="2450"
+   kind="file"
+   committed-date="2017-01-06T03:30:43.943959Z"/>
+<entry
+   name="CommentsModel.java"
+   checksum="9c5b4cd0adda5191c30ececff18d2b9a"
+   last-author="zhengss"
+   committed-rev="2533"
+   text-time="2017-01-13T10:25:53.813000Z"
+   kind="file"
+   committed-date="2017-01-13T10:25:53.813881Z"/>
+<entry
+   name="CompanyCompactModel.java"
+   checksum="9b0a72d6053f353d09a3bc4bf096c9cd"
+   last-author="huangshouxi"
+   committed-rev="2669"
+   text-time="2017-02-06T02:05:53.545000Z"
+   kind="file"
+   committed-date="2017-02-06T02:32:27.954000Z"/>
+<entry
+   name="CompanyModel.java"
+   checksum="665050a2944c3f99d695cb9719674c92"
+   last-author="wangqi"
+   text-time="2017-01-18T07:57:59.968000Z"
+   committed-rev="2638"
+   kind="file"
+   committed-date="2017-01-18T07:57:59.968840Z"/>
+<entry
+   name="EngineerModel.java"
+   checksum="f61d3d0d7e4d8b56681492f14a14a1e9"
+   last-author="wangqi"
+   text-time="2016-12-06T05:33:01.829000Z"
+   committed-rev="1805"
+   kind="file"
+   committed-date="2016-12-06T05:33:01.829054Z"/>
+<entry
+   name="EquipmentModel.java"
+   checksum="edaab6c9be60a7eab7612ff8938f96a4"
+   last-author="mayu"
+   text-time="2016-12-19T17:14:54.190000Z"
+   committed-rev="2108"
+   kind="file"
+   committed-date="2016-12-19T17:14:54.190912Z"/>
+<entry
+   name="EquipmentTradModel.java"
+   checksum="87f2e3fe0c75b53af9db70edecbc47a9"
+   last-author="zhengss"
+   committed-rev="2572"
+   text-time="2017-01-15T09:38:28.652000Z"
+   kind="file"
+   committed-date="2017-01-15T09:38:28.652892Z"/>
+<entry
+   name="JoinBuildModel.java"
+   checksum="8398d4dc117a12317c52afb161861f13"
+   last-author="wangqi"
+   committed-rev="2623"
+   text-time="2017-01-17T02:35:19.433000Z"
+   kind="file"
+   committed-date="2017-01-17T02:35:19.433967Z"/>
+<entry
+   name="KeyPersonModel.java"
+   checksum="8f910dff1ccb4b2cb26e484f552a78aa"
+   last-author="wangqi"
+   text-time="2016-11-28T03:23:50.589000Z"
+   committed-rev="1610"
+   kind="file"
+   committed-date="2016-11-28T03:23:50.589430Z"/>
+<entry
+   name="LawInsuModel.java"
+   checksum="4832876440b8644a5ef22768a7ab1740"
+   last-author="wangqi"
+   text-time="2016-11-07T17:27:41.352000Z"
+   committed-rev="1088"
+   kind="file"
+   committed-date="2016-11-07T17:27:41.352228Z"/>
+<entry
+   name="MaterialModel.java"
+   checksum="b2b813723e514b52baa1267bc19f2af1"
+   last-author="mayu"
+   text-time="2016-12-19T17:14:54.190000Z"
+   committed-rev="2108"
+   kind="file"
+   committed-date="2016-12-19T17:14:54.190912Z"/>
+<entry
+   name="MaterialTradModel.java"
+   checksum="fbe0fe1150568a4b1cf526bc9e6ae7bb"
+   last-author="zhengss"
+   text-time="2016-11-24T02:14:25.901000Z"
+   committed-rev="1536"
+   kind="file"
+   committed-date="2016-11-24T02:14:25.901024Z"/>
+<entry
+   name="MerchantModel.java"
+   checksum="7ecdb8d134d5dccf8261f14125f1310c"
+   last-author="zhengss"
+   text-time="2016-12-05T02:16:23.593000Z"
+   committed-rev="1766"
+   kind="file"
+   committed-date="2016-12-05T02:16:23.593685Z"/>
+<entry
+   name="MessageModel.java"
+   revision="2891"
+   checksum="d1ea20f53c41231ed942ba82eb082924"
+   last-author="huangshouxi"
+   committed-rev="2891"
+   text-time="2017-02-28T08:17:34.480000Z"
+   kind="file"
+   committed-date="2017-02-28T10:23:51.037000Z"/>
+<entry
+   name="NoticeLogModel.java"
+   checksum="f737d6c2e22536a11171791258111f30"
+   last-author="huangshouxi"
+   committed-rev="2752"
+   text-time="2017-02-16T06:33:24.706000Z"
+   kind="file"
+   committed-date="2017-02-16T09:35:21.280000Z"/>
+<entry
+   name="NoticeModel.java"
+   checksum="4a582964713d6955e15088d977ddbdc1"
+   last-author="huangshouxi"
+   committed-rev="2752"
+   text-time="2017-02-16T05:42:16.763000Z"
+   kind="file"
+   committed-date="2017-02-16T09:35:21.280000Z"/>
+<entry
+   name="OperateCompactModel.java"
+   checksum="bb4550b96c9f2d377933d7aaca8ae80e"
+   last-author="zhengss"
+   committed-rev="2698"
+   text-time="2017-02-08T03:09:36.206000Z"
+   kind="file"
+   committed-date="2017-02-08T03:09:36.206324Z"/>
+<entry
+   name="PayrollRecordModel.java"
+   checksum="42d16e6ac4274b887b41b74d9cd7ce39"
+   last-author="ruankai"
+   text-time="2016-12-27T14:27:22.221000Z"
+   committed-rev="2302"
+   kind="file"
+   committed-date="2016-12-27T14:27:22.221673Z"/>
+<entry
+   name="PersonModel.java"
+   checksum="8b7acd85c3e1eb5c6b0b72b2c714a2ad"
+   last-author="zhengss"
+   text-time="2016-12-23T03:14:05.282000Z"
+   committed-rev="2203"
+   kind="file"
+   committed-date="2016-12-23T03:14:05.282243Z"/>
+<entry
+   name="ProjectDepartmentModel.java"
+   checksum="261a35299702052af3c27daf8f3141a3"
+   last-author="zhengss"
+   committed-rev="2820"
+   text-time="2017-02-22T08:20:50.663000Z"
+   kind="file"
+   committed-date="2017-02-22T08:20:50.663641Z"/>
+<entry
+   name="ProjectModel.java"
+   checksum="2ff21983863a85e1729d595f02f801bb"
+   last-author="huangshouxi"
+   committed-rev="2620"
+   text-time="2017-01-16T14:04:04.425000Z"
+   kind="file"
+   committed-date="2017-01-16T15:14:45.408000Z"/>
+<entry
+   name="ProjectProgressModel.java"
+   checksum="71c61e4b76cda2249d980d4ead234521"
+   last-author="zhengss"
+   text-time="2016-12-27T03:27:11.330000Z"
+   committed-rev="2264"
+   kind="file"
+   committed-date="2016-12-27T03:27:11.330825Z"/>
+<entry
+   name="ProjectRosterModel.java"
+   checksum="f0d58dfafec76a8323d30893feb7b213"
+   last-author="huangshouxi"
+   text-time="2016-12-29T09:23:59.757000Z"
+   committed-rev="2368"
+   kind="file"
+   committed-date="2016-12-29T09:23:59.757459Z"/>
+<entry
+   name="RequirementsModel.java"
+   checksum="86a2efb422fb56a37af89f4909bd4a86"
+   last-author="zhengss"
+   committed-rev="2878"
+   text-time="2017-02-27T09:08:05.042000Z"
+   kind="file"
+   committed-date="2017-02-27T09:08:05.042243Z"/>
+<entry
+   name="RewardsAndPunishModel.java"
+   checksum="961cdb9ae681a98983ab6ac027660292"
+   last-author="zhengss"
+   text-time="2016-12-13T14:17:19.929000Z"
+   committed-rev="1957"
+   kind="file"
+   committed-date="2016-12-13T14:17:19.929423Z"/>
+<entry
+   name="TeamMemberModel.java"
+   checksum="899bed7f666254b49a7b30ba59672f31"
+   last-author="zhengss"
+   committed-rev="2769"
+   text-time="2017-02-20T01:50:21.569000Z"
+   kind="file"
+   committed-date="2017-02-20T01:50:21.569362Z"/>
+<entry
+   name="TeamModel.java"
+   checksum="932e71c19fbbab6c235f5dfeaf99aa9e"
+   last-author="huangshouxi"
+   text-time="2016-11-24T08:45:21.303000Z"
+   committed-rev="1556"
+   kind="file"
+   committed-date="2016-11-24T08:45:21.303824Z"/>
+<entry
+   name="TeamScheduleModel.java"
+   checksum="80b668e9751f9b31132df84c8a6908c2"
+   last-author="zhengss"
+   text-time="2016-12-28T06:22:50.454000Z"
+   committed-rev="2311"
+   kind="file"
+   committed-date="2016-12-28T06:22:50.454384Z"/>
+<entry
+   name="UserModel.java"
+   checksum="6ccaca8865d991dc4702e79fed1ab9ae"
+   last-author="huangshouxi"
+   committed-rev="2752"
+   text-time="2017-02-15T06:31:55.488000Z"
+   kind="file"
+   committed-date="2017-02-16T09:35:21.280000Z"/>
+</wc-entries>

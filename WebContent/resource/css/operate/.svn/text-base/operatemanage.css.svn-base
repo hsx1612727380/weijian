@@ -1,0 +1,243 @@
+.personal {
+	min-height: 84%;
+	box-sizing: border-box;
+}
+.title>.content>span{
+	display: inline;
+	margin-right: 10px;
+}
+.title>.content>span img{
+	vertical-align: middle;
+}
+.personal .autstate {
+	width: 100%;
+	border-bottom: 1px solid #C0C0C0;
+	font:bold 18px sans-serif;
+	margin-bottom: 15px;
+}
+.personal .autstate ul{
+	margin: 0;
+	padding: 0;
+}
+.personal .autstate li{
+	float: left;
+	padding: 0 9px;
+	height: 50px;
+	line-height: 50px;
+	box-sizing: border-box;
+}
+.personal .autstate li a{
+	color: #003366;
+}
+.personal .autstate li:hover {
+	border-bottom: 3px solid #27AE61;
+}
+.personal .autstate li:hover a{
+	color: #58D68D;
+}
+.personal .operate div {
+	float:left;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 100px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	cursor: pointer;
+	font-size: 14px;
+	margin-right: 20px;
+	color: white;
+}
+.personal .operate div>a{
+	color: white;
+}
+.personal .projectstate{
+	width: 100%;
+	margin-top: 20px;
+}
+.personal .projectstate td{
+	height: 25px;
+	text-align: center;
+	padding: 0 7px;
+}
+.personal .persontitle {
+	line-height: 40px;
+	border-bottom: 1px solid #C0C0C0;
+}
+.personal .persontitle .filetile{
+	font-size: 20px;
+	font-weight: 700;
+	color: #555;
+	margin-left: 20px;
+}
+.personal .profile {
+	margin-top: 20px;
+}
+.personal .profile>div{
+	float: left;
+}
+.personal .filetile{
+	font:700 18px sans-serif;
+	height: 25px;
+	line-height: 25px;
+	margin:0 50px 0 0;
+	color: #555555;
+}
+.personal .construct .tdaudit{
+	width: 230px;
+}
+.personal .construct .tdstar{
+	width: 95px;
+}
+.personal .construct .tdblock {
+	width: 65px;
+}
+.personal .deleted,.personal .audit{
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 100px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	cursor: pointer;
+	font-size: 14px;
+	margin:0 6px;
+	color: white;
+	display: inline-block;
+}
+.personal .deleted{
+	width: 70px;
+	margin:0 0 0 20px;
+}
+.personal .deleted a,.personal .audit a{
+	color: white;
+}
+.personal .construct {
+	padding: 8px 20px;
+	margin-bottom: 20px;
+}
+.personal .construct table{
+	width: 100%;
+	margin-top: 20px;
+	background-color: #999;
+}
+.personal .construct th {
+	width: 4px;
+}
+.personal .construct td {
+	text-align: center;
+	height: 30px;
+	background-color: white;
+}
+.personal .construct td a{
+	color: #3399FF;
+}
+.personal .construct td .tagbox{
+	display: inline-block;
+	position: relative;
+}
+.personal .construct .spanblock{
+	display: block;
+}
+.personal .construct td .tagbox.active {
+	border: 1px solid #D9D9D9;
+	padding-right: 20px;
+}
+.personal .construct .tagbox img{
+	position: absolute;
+	right: 0;
+	top: 0;
+	vertical-align: middle;
+	cursor: pointer;
+	display: none;
+}
+.personal .construct td .tag{
+	cursor: pointer;
+	vertical-align: middle;
+}
+.personal .construct td input{
+	width: 0;
+	border: 0;
+}
+.personal .construct td input.active{
+	transition: all 1s linear 0s;
+	-moz-transition: all 1s linear 0s;
+	-webkit-transition: all 1s linear 0s; 
+	-o-transition: all 1s linear 0s;
+	width: 80px;
+	border-right: 1px solid #D9D9D9;
+}
+.personal .condition {
+	margin-top: 20px;
+	padding-bottom: 10px;
+	width: 100%;
+}
+.personal .condition td{
+	padding: 0 10px;
+}
+.personal .condition td input,.personal .condition td select{
+	width: 150px;
+}
+/*授权页面*/
+.personal .bigtitle{
+	font-size: 18px;
+	margin-right: 30px;
+}
+.personal .sumbited th,.personal .sumbited td{
+	padding: 15px 30px;
+}
+.personal .sumbited select{
+	width: 180px;
+}
+.personal .sumbited input{
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 75px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	cursor: pointer;
+	font-size: 14px;
+	margin-right: 12px;
+	color: white;
+}
+/* .personal .construct .chartbox{ */
+.chartbox{
+	display: none;
+	padding-bottom: 20px;
+	width: 800px;
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	margin-left: -400px;
+	z-index: 25;
+}
+.chart{
+	width: 100%;
+	background-color: #999;
+}
+.chart td,.chart th{
+	background-color: white;
+	text-align: center;
+	height: 30px;
+}
+.chart th{
+	font-size: 20px;
+	height: 35px;
+}
+.chart td div{
+	margin: 0 auto;
+}
+.chartbox .X{
+	position: absolute;
+	top: 0;
+	right: 0;
+	font-size: 28px;
+	line-height: 10px;
+	color: darkred;
+	font-weight: 700;
+	cursor: pointer;
+}

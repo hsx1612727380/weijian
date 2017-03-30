@@ -1,0 +1,17 @@
+table {
+	font: 16px "微软雅黑";
+	margin: 0 auto;
+	margin-top: 20px;
+	background-color: #6E7B8B;
+}
+table td {
+	width: 120px;
+	height: 30px;
+	text-align: center;
+	background-color: white;
+}
+table th {
+	height: 35px;
+	font-size: 20px;
+	color: white;
+}

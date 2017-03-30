@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2842"
+   last-author="mayu"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/resource/js/web"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="1148"
+   kind="dir"
+   committed-date="2016-11-09T06:43:58.099669Z"/>
+<entry
+   name="employ_menber.js"
+   checksum="03ffdb83e51cafd81aa2aa2372534b38"
+   last-author="mayu"
+   committed-rev="958"
+   text-time="2016-11-01T06:11:41.422000Z"
+   kind="file"
+   committed-date="2016-11-01T06:11:41.422231Z"/>
+<entry
+   name="employ_team.js"
+   checksum="1a1186ec38a1c9aca430ea339c4979ee"
+   last-author="mayu"
+   committed-rev="958"
+   text-time="2016-11-01T06:11:41.422000Z"
+   kind="file"
+   committed-date="2016-11-01T06:11:41.422231Z"/>
+<entry
+   name="enter_info.js"
+   checksum="ef17b3f91733ab775adc9f269dc913fb"
+   last-author="mayu"
+   committed-rev="773"
+   text-time="2016-10-24T18:32:39.801000Z"
+   kind="file"
+   committed-date="2016-10-24T18:32:39.801254Z"/>
+<entry
+   name="enter_menber.js"
+   checksum="fdf1b1d850c5fc44cb6c86e943e444c9"
+   last-author="mayu"
+   committed-rev="1148"
+   text-time="2016-11-09T06:43:58.099000Z"
+   kind="file"
+   committed-date="2016-11-09T06:43:58.099669Z"/>
+<entry
+   name="project_info.js"
+   checksum="5271dfe9aa05c5bc11186f9a0788a657"
+   last-author="mayu"
+   committed-rev="1148"
+   text-time="2016-11-09T06:43:58.099000Z"
+   kind="file"
+   committed-date="2016-11-09T06:43:58.099669Z"/>
+<entry
+   name="project_menber.js"
+   checksum="223ee7565d271933cdfa990818e0a420"
+   last-author="mayu"
+   committed-rev="1148"
+   text-time="2016-11-09T06:43:58.099000Z"
+   kind="file"
+   committed-date="2016-11-09T06:43:58.099669Z"/>
+<entry
+   name="recruit_menber.js"
+   checksum="03ffdb83e51cafd81aa2aa2372534b38"
+   last-author="mayu"
+   committed-rev="909"
+   text-time="2016-10-31T07:14:55.180000Z"
+   kind="file"
+   committed-date="2016-10-31T07:14:55.180919Z"/>
+<entry
+   name="recruit_team.js"
+   checksum="1a1186ec38a1c9aca430ea339c4979ee"
+   last-author="mayu"
+   committed-rev="909"
+   text-time="2016-10-31T07:14:55.180000Z"
+   kind="file"
+   committed-date="2016-10-31T07:14:55.180919Z"/>
+<entry
+   name="team_info.js"
+   checksum="ef17b3f91733ab775adc9f269dc913fb"
+   last-author="mayu"
+   committed-rev="773"
+   text-time="2016-10-24T18:32:39.801000Z"
+   kind="file"
+   committed-date="2016-10-24T18:32:39.801254Z"/>
+</wc-entries>

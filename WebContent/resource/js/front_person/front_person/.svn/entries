@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2881"
+   last-author="mayu"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/resource/js/front_person/front_person"
+   committed-rev="2293"
+   kind="dir"
+   committed-date="2016-12-27T09:20:04.968043Z"/>
+<entry
+   name="idperson.js"
+   checksum="d1826df91f090a5caff819f60e63031f"
+   last-author="ruankai"
+   text-time="2016-11-15T06:49:44.749000Z"
+   committed-rev="1292"
+   kind="file"
+   committed-date="2016-11-15T06:49:44.749946Z"/>
+<entry
+   name="passModify.js"
+   checksum="3706edacaf81df0eab52db43674534dc"
+   last-author="ruankai"
+   text-time="2016-11-16T12:11:23.052000Z"
+   committed-rev="1351"
+   kind="file"
+   committed-date="2016-11-16T12:11:23.052665Z"/>
+<entry
+   name="skillType.js"
+   checksum="2dd59e4a1a77988aab9eb23b28e4c4ce"
+   last-author="ruankai"
+   text-time="2016-11-15T05:46:01.125000Z"
+   committed-rev="1282"
+   kind="file"
+   committed-date="2016-11-15T05:46:01.125545Z"/>
+<entry
+   name="teamApplyProject.js"
+   checksum="d2f745db43bc0a790079e4b6662b52bb"
+   last-author="ruankai"
+   text-time="2016-11-15T09:27:07.789000Z"
+   committed-rev="1329"
+   kind="file"
+   committed-date="2016-11-15T09:27:07.789613Z"/>
+</wc-entries>

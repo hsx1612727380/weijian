@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<excel id="recordSalary" code="recordSalary" name="工资发放记录导入">
+    <colgroup>
+        <col index="A" width='15em'></col>
+        <col index="B" width="15em"></col>
+        <col index="C" width='13em'></col>
+        <col index="D" width='13em'></col>
+        <col index="E" width='10em'></col>
+        <col index="F" width='10em'></col>
+        <col index="G" width='10em'></col>
+        <col index="H" width='10em'></col>
+        <col index="I" width='12em'></col>
+        <col index="J" width='10em'></col>
+        <col index="K" width='17em'></col>
+        <col index="L" width='20em'></col>
+        <col index="M" width='20em'></col>        
+    </colgroup>
+    <title>
+        <tr height="16px">
+            <td rowspan="1" colspan="12" value="工资发放记录导入" />
+        </tr>
+    </title>
+    <thead>
+        <tr height="16px">
+        	<th value="工人手机号" />
+        	<th value="班组名称" />
+            <th value="开始时间" />
+            <th value="结束时间" />
+            <th value="应发金额" />
+            <th value="个人所得税" />
+            <th value="实发金额" />
+            <th value="欠发金额" />
+            <th value="付款人" />
+            <th value="付款方式" />
+            <th value="流水号" />
+            <th value="发放日期" />
+            <th value="收款人账号" />
+        </tr>
+    </thead>
+    <tbody>
+        <tr height="16px" firstrow="2" firstcol="0" repeat="100">
+            <td type="string" isnullable="false" maxlength="11" />
+            <td type="string" isnullable="false" maxlength="40" />
+            <td type="date" isnullable="false" format="yyyy-mm-dd" maxlength="50" />
+            <td type="date" isnullable="false" format="yyyy-mm-dd" maxlength="50" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="string" isnullable="false" maxlength="18" />
+            <td type="enum" isnullable="true" format="支付宝 ,微信,银行卡,现金" />
+            <td type="string" isnullable="false" maxlength="40" />
+            <td type="date" isnullable="false" format="yyyy-mm-dd HH:MM:SS" maxlength="50" />
+            <td type="string" isnullable="false" maxlength="40" />
+        </tr>
+    </tbody>
+</excel>

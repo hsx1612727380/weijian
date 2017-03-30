@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<excel id="reportTeam" code="reportTeam" name="施工班组汇总表导入">
+    <colgroup>
+        <col index="A" width='15em'></col>
+        <col index="B" width='11em'></col>
+        <col index="C" width='11em'></col>
+        <col index="D" width='11em'></col>
+        <col index="E" width='11em'></col>
+        <col index="F" width='11em'></col>
+        <col index="G" width='11em'></col>
+        <col index="H" width='11em'></col>
+        <col index="I" width='11em'></col>
+        <col index="J" width='11em'></col>
+        <col index="K" width='11em'></col>
+        <col index="L" width='11em'></col>
+        <col index="M" width='11em'></col>
+        <col index="N" width='11em'></col>
+        <col index="O" width='11em'></col>
+        <col index="P" width='15em'></col>
+        <col index="Q" width='25em'></col>
+    </colgroup>
+    <title>
+        <tr height="16px">
+            <td rowspan="1" colspan="17" value="施工班组汇总表导入" />
+        </tr>
+    </title>
+    <thead>
+        <tr height="16px">
+        	<th value="名称" />
+            <th value="合同价(万)" />
+            <th value="预付款(万)" />
+            <th value="次数" />
+            <th value="单位" />
+            <th value="总工程量" />
+            <th value="本次工程量" />
+            <th value="累计完成%" />
+            <th value="本次付款" /> 
+            <th value="累计付款" />
+            <th value="余额" />
+            <th value="累计付款%" />
+            <th value="押金" />
+            <th value="已付工资" />
+            <th value="未付工资" /> 
+            <th value="结算情况" />
+            <th value="备注" />
+        </tr>
+    </thead>
+    <tbody>
+        <tr height="16px" firstrow="2" firstcol="0" repeat="100">
+            <td type="string" isnullable="false" maxlength="30" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="string" isnullable="false" maxlength="20" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="numeric" format="##" isnullable="false" />
+            <td type="string" isnullable="false" maxlength="50" />
+            <td type="string" isnullable="false" maxlength="100" />
+        </tr>
+    </tbody>
+</excel>

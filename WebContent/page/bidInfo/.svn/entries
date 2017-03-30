@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2865"
+   last-author="wangqi"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/bidInfo"
+   committed-rev="2068"
+   kind="dir"
+   committed-date="2016-12-16T08:03:09.324718Z"/>
+<entry
+   name="bidInfo_add.jsp"
+   checksum="d935083eebf2daab858d72e89cd65363"
+   last-author="wangqi"
+   text-time="2016-12-16T08:03:09.324000Z"
+   committed-rev="2068"
+   kind="file"
+   committed-date="2016-12-16T08:03:09.324718Z"/>
+<entry
+   name="bidInfo_list.jsp"
+   checksum="cc1b156d7c0fd6afacd5282ce09d4927"
+   last-author="wangqi"
+   text-time="2016-12-16T08:03:09.324000Z"
+   committed-rev="2068"
+   kind="file"
+   committed-date="2016-12-16T08:03:09.324718Z"/>
+<entry
+   name="bidInfo_modify.jsp"
+   checksum="998c25a45371ccc57e343a6716e516c9"
+   last-author="wangqi"
+   text-time="2016-12-16T08:03:09.324000Z"
+   committed-rev="2068"
+   kind="file"
+   committed-date="2016-12-16T08:03:09.324718Z"/>
+</wc-entries>

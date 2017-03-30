@@ -1,0 +1,132 @@
+.personal {
+	min-height: 74%;
+	box-sizing: border-box;
+}
+.personal>div {
+	box-sizing: border-box;
+	padding: 14px 0 11px;
+}
+.personal .operate {
+	border-bottom: 1px solid #C0C0C0;
+}
+.personal .operate div {
+	float:left;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 100px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	cursor: pointer;
+	font-size: 14px;
+	margin-right: 20px;
+	color: white;
+}
+.personal .operate div>a{
+	color: white;
+}
+.personal .projectstate{
+	width: 100%;
+	margin-top: 20px;
+}
+.personal .projectstate td{
+	height: 25px;
+	text-align: center;
+	padding: 0 7px;
+}
+.personal .persontitle {
+	line-height: 40px;
+	border-bottom: 1px solid #C0C0C0;
+}
+.personal .persontitle .filetile{
+	font-size: 20px;
+	font-weight: 700;
+	color: #555;
+	margin-left: 20px;
+}
+.personal .profile {
+	margin-top: 20px;
+}
+.personal .profile>div{
+	float: left;
+}
+.personal .filetile{
+	font:700 18px sans-serif;
+	height: 25px;
+	line-height: 25px;
+	margin:0 50px 0 0;
+	color: #555555;
+}
+.personal .deleted,.personal .audit{
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 100px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	cursor: pointer;
+	font-size: 14px;
+	margin-right: 12px;
+	color: white;
+}
+.personal .deleted{
+	width: 80px;
+}
+.personal .deleted a,.personal .audit a{
+	color: white;
+}
+.personal .construct {
+	padding: 8px 20px;
+	margin-bottom: 2px;
+}
+.personal .construct table{
+	width: 100%;
+	margin-top: 20px;
+}
+.personal .construct th {
+	width: 4px;
+}
+.personal .construct td {
+	text-align: center;
+	height: 30px;
+}
+
+.personal .condition {
+	width: 90%;
+	margin: 0 auto;
+	margin-top: 20px;
+	background-color: #999;
+}
+.personal .condition th{
+	background-color: #4488FF;
+	font-weight: normal;
+	color: white;
+	height: 30px;
+	box-sizing: border-box;
+	padding: 3px 2px;
+}
+.personal .condition td{
+	padding: 0 10px;
+	text-align: center;
+	height: 30px;
+	background-color: white;
+}
+.personal .condition td:last-of-type{
+	width: 290px;
+}
+.personal .condition td div{
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 82px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+	margin-left: 10px;
+	display: inline-block;
+}

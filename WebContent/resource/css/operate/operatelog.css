@@ -1,0 +1,156 @@
+.personal {
+	min-height: 84%;
+
+	box-sizing: border-box;
+}
+.title>.content>span{
+	display: inline;
+	margin-right: 10px;
+}
+.title>.content>span img{
+	vertical-align: middle;
+}
+.personal .autstate {
+	width: 100%;
+	border-bottom: 1px solid #C0C0C0;
+	font:bold 18px sans-serif;
+}
+.personal .autstate ul{
+	margin: 0;
+	padding: 0;
+}
+.personal .autstate li{
+	float: left;
+	padding: 0 9px;
+	height: 50px;
+	line-height: 50px;
+	box-sizing: border-box;
+}
+.personal .autstate li a{
+	color: #003366;
+}
+.personal .autstate li:hover {
+	border-bottom: 3px solid #27AE61;
+}
+.personal .autstate li:hover a{
+	color: #58D68D;
+}
+.personal .detail>div,.personal .detail>ul {
+	float: left;
+}
+.personal .detailright{
+	width: 1000px;
+	margin-left: 15px;
+	padding-top: 10px;
+	margin-bottom: 20px;
+	box-sizing: border-box;
+	padding: 15px;
+	border-radius: 15px;
+	font-size: 14px;
+}
+.personal .detailright input,.personal .detailright select {
+	height: 20px;
+	width: 125px;
+	box-sizing: border-box;
+	border-radius: 5px;
+	border: 1px solid lightslategray;
+}
+.personal .detailright table{
+	width: 100%;
+}
+.personal .detailright tr {
+	height: 30px;
+}
+.personal .detailright input {
+	box-sizing: border-box;
+	padding: 2px 4px;
+}
+.detailright .derighttop div{
+	float: left;
+	margin-left: 20px;
+	margin-top: 15px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	width: 82px;
+	border: none;
+	border-radius: 3px;
+	background-color: #3399FF;
+	color: white;
+	cursor: pointer;
+	font-size: 14px;
+}
+.detailright dd,.detailright dt{
+	float: left;
+}
+.detailright dt {
+	font-size: 16px;
+}
+.detailright dd{
+	margin-top: 6px;
+}
+.detailright dd i{
+	display: inline-block;
+	height: 17px;
+	width: 9px;
+	background: url(../../../images/label2.png);
+}
+.detailright dd button{
+	color: #333;
+	border:none;
+	height: 17px;
+	line-height: 17px;
+	padding: 0 3px;
+	cursor: pointer;
+	vertical-align: top;
+	font-size: 14px;
+	background: url(../../../images/lable1.png) repeat-x;
+}
+.detailright .derightbottom{
+	margin-top: 20px;
+}
+.detailright .derightbottom table{
+	background-color: #999;
+}
+.detailright .derightbottom th,.detailright .derightbottom td{
+	text-align: center;
+	font-weight: normal;
+	background-color: white;
+}
+.detailright .derightbottom caption{
+	font-size: 18px;
+	height: 30px;
+}
+.detailright .derightbottom th{
+	background-color: #4488FF;
+	color: white;
+}
+.detailright .derightbottom table div{
+	height: 18px;
+	width: 18px;
+	border: 0 none;
+	border-radius: 5px;
+	background: url(../../../images/file.png) no-repeat center center;
+	background-color: #3399FF;
+	position: relative;
+	cursor: pointer;
+	margin: 0 auto;
+}
+.detailright .derightbottom div>input{
+	position: absolute;
+    font-size: 100px;
+    right: 0;
+    top: 0;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    cursor: pointer;
+}
+.detailright .tabfooter {
+	margin-top: 10px;
+	text-align: center;
+}
+.detailright .tabfooter button{
+	background-color: transparent;
+	border: 0 none;
+	cursor: pointer;
+}

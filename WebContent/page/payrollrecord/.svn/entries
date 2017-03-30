@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2865"
+   last-author="wangqi"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/payrollrecord"
+   committed-rev="2134"
+   kind="dir"
+   committed-date="2016-12-20T14:07:58.972746Z"/>
+<entry
+   name="payrollrecord_add.jsp"
+   checksum="a365d774cd2eda6ddcf8a26380f31d39"
+   last-author="wangqi"
+   text-time="2016-12-20T13:41:52.004000Z"
+   committed-rev="2128"
+   kind="file"
+   committed-date="2016-12-20T13:41:52.004678Z"/>
+<entry
+   name="payrollrecord_list.jsp"
+   checksum="e8b1db182c49c4577fea1baeb7b026a2"
+   last-author="wangqi"
+   text-time="2016-12-16T08:05:17.154000Z"
+   committed-rev="2081"
+   kind="file"
+   committed-date="2016-12-16T08:05:17.154295Z"/>
+<entry
+   name="payrollrecord_modify.jsp"
+   checksum="61ef4191149c32894ea102b6f73487d8"
+   last-author="wangqi"
+   text-time="2016-12-16T08:05:17.154000Z"
+   committed-rev="2081"
+   kind="file"
+   committed-date="2016-12-16T08:05:17.154295Z"/>
+<entry
+   name="payrollrecord_project.jsp"
+   checksum="8b572084c08eaf498ab35d0bc1c5579c"
+   last-author="wangqi"
+   text-time="2016-12-20T14:07:58.972000Z"
+   committed-rev="2134"
+   kind="file"
+   committed-date="2016-12-20T14:07:58.972746Z"/>
+</wc-entries>

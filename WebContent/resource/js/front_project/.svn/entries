@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2842"
+   last-author="ruankai"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/resource/js/front_project"
+   committed-rev="2579"
+   kind="dir"
+   committed-date="2017-01-16T04:22:50.252081Z"/>
+<entry
+   name="project_reg.js"
+   revision="2868"
+   checksum="db54010c34cc3c089ebda5ea15f345b4"
+   last-author="huangshouxi"
+   text-time="2017-02-25T06:28:46.828000Z"
+   committed-rev="2868"
+   kind="file"
+   committed-date="2017-02-25T06:41:55.575000Z"/>
+<entry
+   name="projectaudit.js"
+   checksum="6cfc2eabb494a64e18617f096fe261fc"
+   last-author="mayu"
+   text-time="2016-11-28T03:13:27.090000Z"
+   committed-rev="1608"
+   kind="file"
+   committed-date="2016-11-28T03:13:27.090492Z"/>
+<entry
+   name="projectinvite.js"
+   checksum="f51262a86d7666194e0fae99f4ca4833"
+   last-author="mayu"
+   text-time="2016-11-28T03:13:27.090000Z"
+   committed-rev="1608"
+   kind="file"
+   committed-date="2016-11-28T03:13:27.090492Z"/>
+</wc-entries>

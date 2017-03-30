@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2842"
+   last-author="mayu"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/resource/css/front_equipment"
+   committed-rev="2841"
+   kind="dir"
+   committed-date="2017-02-23T08:13:26.237122Z"/>
+<entry
+   name="equipAddgroud.css"
+   checksum="650a3932cd04cf0e958353f1181383bb"
+   last-author="mayu"
+   text-time="2016-12-15T06:48:23.861000Z"
+   committed-rev="2037"
+   kind="file"
+   committed-date="2016-12-15T06:48:23.861945Z"/>
+<entry
+   name="equipAttendance.css"
+   checksum="2133a20a829f1ebeea8251214346f503"
+   last-author="mayu"
+   committed-rev="2841"
+   text-time="2017-02-23T08:13:26.237000Z"
+   kind="file"
+   committed-date="2017-02-23T08:13:26.237122Z"/>
+<entry
+   name="equipFile.css"
+   checksum="c064552f3fe210143df7f59d5562ee35"
+   last-author="mayu"
+   text-time="2017-02-23T08:13:26.237000Z"
+   committed-rev="2841"
+   kind="file"
+   committed-date="2017-02-23T08:13:26.237122Z"/>
+<entry
+   name="equipGroup.css"
+   checksum="18f4bb5f76f26bd06350700aa1525635"
+   last-author="zhengss"
+   text-time="2016-11-18T14:35:53.527000Z"
+   committed-rev="1380"
+   kind="file"
+   committed-date="2016-11-18T14:35:53.527061Z"/>
+<entry
+   name="idequip.css"
+   checksum="d5874467e82f40d253aa61accf65e41c"
+   last-author="zhengss"
+   text-time="2016-11-18T14:35:53.527000Z"
+   committed-rev="1380"
+   kind="file"
+   committed-date="2016-11-18T14:35:53.527061Z"/>
+</wc-entries>

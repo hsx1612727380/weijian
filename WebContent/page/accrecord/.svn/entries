@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.0.104/svn/fengyun"
+   name=""
+   revision="2865"
+   last-author="wangqi"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/accrecord"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   committed-rev="2731"
+   kind="dir"
+   committed-date="2017-02-14T08:26:59.908373Z"/>
+<entry
+   name="accrecord_add.jsp"
+   checksum="cc9d461b87b083dc27756b56e9761589"
+   last-author="wangqi"
+   committed-rev="2129"
+   text-time="2016-12-20T13:42:01.615000Z"
+   kind="file"
+   committed-date="2016-12-20T13:42:01.615413Z"/>
+<entry
+   name="accrecord_list.jsp"
+   checksum="c0e3cb9d8a878fe9371eab51ebe83530"
+   last-author="wangqi"
+   committed-rev="2066"
+   text-time="2016-12-16T07:32:11.791000Z"
+   kind="file"
+   committed-date="2016-12-16T07:32:11.791152Z"/>
+<entry
+   name="accrecord_modify.jsp"
+   checksum="7501f1ecf8094efb8af6f6ea7b5d7664"
+   last-author="wangqi"
+   committed-rev="2066"
+   text-time="2016-12-16T07:32:11.791000Z"
+   kind="file"
+   committed-date="2016-12-16T07:32:11.791152Z"/>
+<entry
+   name="accrecord_project.jsp"
+   checksum="7fb642184230b114b3e2def98321eb82"
+   last-author="wangqi"
+   text-time="2017-02-14T08:26:59.908000Z"
+   committed-rev="2731"
+   kind="file"
+   committed-date="2017-02-14T08:26:59.908373Z"/>
+</wc-entries>

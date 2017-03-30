@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.0.104/svn/fengyun"
+   revision="2865"
+   last-author="mayu"
+   uuid="8d5bad48-ca91-411d-a550-8470114b8e22"
+   url="http://192.168.0.104/svn/fengyun/%E6%8A%80%E6%9C%AF/%E4%BB%A3%E7%A0%81/weijian/WebContent/page/front_project"
+   committed-rev="2863"
+   kind="dir"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="front_project_index.jsp"
+   checksum="5cc22e3933e06d5f22ae85a239ba7837"
+   last-author="mayu"
+   committed-rev="2863"
+   text-time="2017-02-25T05:41:46.902000Z"
+   kind="file"
+   committed-date="2017-02-25T05:41:46.902827Z"/>
+<entry
+   name="front_project_regsiter.jsp"
+   revision="2868"
+   checksum="6557ede7230d0504f2422ea7a4503594"
+   last-author="huangshouxi"
+   text-time="2017-02-25T06:37:03.104000Z"
+   committed-rev="2868"
+   kind="file"
+   committed-date="2017-02-25T06:41:55.575000Z"/>
+</wc-entries>
